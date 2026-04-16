@@ -7,7 +7,7 @@ async function checkAuth() {
   }
 
   try {
-    const res = await fetch("http://localhost:3000/protected", {
+    const res = await fetch("https://station-verification-checklist-backend.onrender.com/protected", {
       headers: {
         Authorization: "Bearer " + token
       }
@@ -20,30 +20,30 @@ async function checkAuth() {
       return;
     }
 
-    // ✅ Save user
+    // ✅ Save user globally
     window.currentUser = data.user;
 
-    // ✅ Expiration check (NOW safe)
+    // ✅ Expiration check
     const now = Date.now() / 1000;
     if (data.user.exp < now) {
       logout();
       return;
     }
 
-    // ✅ Role-based body class
+    // ✅ Role-based UI
     if (data.user.role === "admin") {
       document.body.classList.add("admin");
     } else {
       document.body.classList.add("store");
     }
 
-    // ✅ Safe admin panel display
+    // ✅ Show admin panel if exists
     const adminPanel = document.getElementById("adminPanel");
     if (adminPanel && data.user.role === "admin") {
       adminPanel.style.display = "block";
     }
 
-    // ✅ Protect admin page itself
+    // ✅ Protect admin page
     if (window.location.pathname.includes("admin.html")) {
       if (data.user.role !== "admin") {
         alert("Access denied");
@@ -52,11 +52,10 @@ async function checkAuth() {
     }
 
   } catch (err) {
-    console.error(err);
+    console.error("Auth error:", err);
     logout();
   }
 }
-
 
 function logout() {
   localStorage.removeItem("token");
