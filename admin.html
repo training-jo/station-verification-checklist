@@ -23,7 +23,7 @@
     <p>Create Store Users</p>
   </div>
 
-  <!-- 🟡 CARD -->
+  <!-- 🟡 FORM SECTION -->
   <div class="admin-container">
 
     <div class="admin-card">
@@ -51,9 +51,21 @@
 
   </div>
 
+  <!-- 🔵 USERS LIST (OUTSIDE CARD) -->
+  <div class="admin-users">
+    <h2>Users List</h2>
+    <div id="usersList"></div>
+  </div>
+
   <!-- JS -->
   <script>
-    checkAuth();
+
+    async function initAdmin() {
+      await checkAuth();   // ✅ ensure user is authenticated first
+      loadUsers();         // ✅ then load users
+    }
+
+    initAdmin();
 
     async function createUser() {
       const username = document.getElementById("username").value;
@@ -78,6 +90,7 @@
         if (data.ok) {
           msg.innerText = "✅ User created successfully";
           msg.className = "status-msg success";
+          loadUsers(); // refresh list
         } else {
           msg.innerText = "❌ " + (data.error || "Error");
           msg.className = "status-msg error";
@@ -88,6 +101,65 @@
         msg.className = "status-msg error";
       }
     }
+
+    async function loadUsers() {
+      const token = localStorage.getItem("token");
+
+      try {
+        const res = await fetch("https://station-verification-checklist-backend.onrender.com/users", {
+          headers: {
+            Authorization: "Bearer " + token
+          }
+        });
+
+        const data = await res.json();
+
+        const container = document.getElementById("usersList");
+        container.innerHTML = "";
+
+        if (!data.ok) return;
+
+        data.users.forEach(user => {
+          const div = document.createElement("div");
+          div.className = "user-item";
+
+          div.innerHTML = `
+            <span>${user.username} (${user.role})</span>
+            <button onclick="deleteUser('${user.username}')">Delete</button>
+          `;
+
+          container.appendChild(div);
+        });
+
+      } catch (err) {
+        console.error(err);
+      }
+    }
+
+    async function deleteUser(username) {
+      const token = localStorage.getItem("token");
+
+      try {
+        const res = await fetch(`https://station-verification-checklist-backend.onrender.com/users/${username}`, {
+          method: "DELETE",
+          headers: {
+            Authorization: "Bearer " + token
+          }
+        });
+
+        const data = await res.json();
+
+        if (data.ok) {
+          loadUsers();
+        } else {
+          alert("❌ Failed to delete user");
+        }
+
+      } catch (err) {
+        alert("❌ Server error");
+      }
+    }
+
   </script>
 
 </body>
