@@ -1008,3 +1008,31 @@ html[dir="ltr"] .paper-brand > div {
   text-align: center;
   margin: 0 auto;
 }
+
+
+
+
+.admin-btn {
+  position: absolute;
+  top: 60px;
+  left: 20px;
+
+  padding: 10px 16px;
+  border-radius: 999px;
+  border: none;
+
+  background: #D92D27;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+
+  cursor: pointer;
+  box-shadow: 0 6px 15px rgba(217,45,39,0.3);
+
+  transition: 0.2s;
+}
+
+.admin-btn:hover {
+  transform: translateY(-2px);
+  background: #b8221d;
+}

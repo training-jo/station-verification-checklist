@@ -10,12 +10,17 @@
   <link rel="stylesheet" href="style.css" />
   <script src="auth.js"></script>
   <script>checkAuth();</script>
+  <script>
+    function openAdmin() {
+      window.location.href = "admin.html";
+    }
+  </script>
   
 </head>
 <body>
   
   <div id = "adminPanel" style="display: none;">
-    <button onclick="openAdmin()">Admin Panel</button>  
+    <button class="admin-btn" onclick="openAdmin()">⚙️ Admin Panel</button>  
   </div>
 
   <div class="lang-switcher"> 
