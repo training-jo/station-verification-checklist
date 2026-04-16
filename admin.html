@@ -17,7 +17,7 @@
 
 <button onclick="createUser()">Create User</button>
 
-<script src="auth.js"></script>
+<script src="app/auth.js"></script>
 
 <script>
 checkAuth();
@@ -27,18 +27,31 @@ async function createUser() {
   const password = document.getElementById("password").value;
   const role = document.getElementById("role").value;
 
-  const res = await fetch("http://localhost:3000/create-user", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({ username, password, role })
-  });
+  const token = localStorage.getItem("token");
 
-  const data = await res.json();
+  try {
+    const res = await fetch("https://station-verification-checklist-backend.onrender.com/create-user", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + token   // 🔐 IMPORTANT
+      },
+      body: JSON.stringify({ username, password, role })
+    });
 
-  if (data.ok) {
-    alert("User created");
+    const data = await res.json();
+
+    console.log(data);
+
+    if (data.ok) {
+      alert("User created successfully");
+    } else {
+      alert(data.error || "Failed to create user");
+    }
+
+  } catch (err) {
+    console.error(err);
+    alert("Server error");
   }
 }
 </script>
