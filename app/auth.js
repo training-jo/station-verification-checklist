@@ -38,10 +38,13 @@ async function checkAuth() {
     }
 
     // ✅ Show admin panel if exists
+    setTimeout(() => {
     const adminPanel = document.getElementById("adminPanel");
-    if (adminPanel && data.user.role === "admin") {
-      adminPanel.style.display = "block";
+
+    if (adminPanel && window.currentUser?.role === "admin") {
+    adminPanel.style.display = "block";
     }
+    }, 100);
 
     // ✅ Protect admin page
     if (window.location.pathname.includes("admin.html")) {
