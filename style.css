@@ -1041,45 +1041,53 @@ html[dir="ltr"] .paper-brand > div {
   background: #f5f2eb;
 }
 
-/* Container */
-.admin-page .admin-container {
+/* ADMIN PAGE LAYOUT */
+.admin-container {
   display: flex;
   justify-content: center;
-  margin-top: 40px;
+  align-items: flex-start;
+  gap: 30px;
+  padding: 40px;
+  flex-wrap: wrap;
 }
 
-/* Card */
-.admin-page .admin-card {
-  background: #fff;
-  padding: 30px;
-  width: 350px;
+/* USERS LIST CARD */
+.admin-users {
+  background: #f4f4f4;
+  padding: 25px;
   border-radius: 16px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  width: 320px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
 }
 
-/* Fix inputs overriding */
-.admin-page .form-group input,
-.admin-page .form-group select {
-  width: 100%;
-  padding: 10px;
+.admin-users h2 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* EACH USER ITEM */
+.user-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  padding: 10px 12px;
   border-radius: 10px;
-  border: 1px solid #ccc;
+  margin-bottom: 10px;
   font-size: 14px;
-  box-sizing: border-box;
 }
 
-/* Button */
-.admin-page .create-btn {
-  width: 100%;
-  padding: 10px;
-  border: none;
-  border-radius: 20px;
-  background: #D92D27;
+/* DELETE BUTTON */
+.user-item button {
+  background: #d92d27;
   color: white;
-  font-weight: bold;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 8px;
   cursor: pointer;
+  font-size: 12px;
 }
 
-.admin-page .create-btn:hover {
-  background: #b9221d;
+.user-item button:hover {
+  background: #b7221f;
 }
