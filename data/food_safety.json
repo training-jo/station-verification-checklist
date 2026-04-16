@@ -1,0 +1,298 @@
+{
+  "title": {
+    "ar": "سلامة الغذاء",
+    "en": "Food Safety"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "المتدرب لائق وجاهز للعمل ويلتزم بالنظافة الشخصية الكاملة",
+        "en": "The trainee is fit and ready for work and maintains full personal hygiene standards"
+      },
+      "reasons": [
+        {
+          "ar": "مظهر غير لائق أو زي غير مكتمل",
+          "en": "Unprofessional appearance or incomplete uniform"
+        },
+        {
+          "ar": "وجود إكسسوارات أثناء العمل",
+          "en": "Wearing accessories during work"
+        },
+        {
+          "ar": "أظافر غير نظيفة أو طويلة",
+          "en": "Unclean or long fingernails"
+        },
+        {
+          "ar": "شعر غير مغطى أو غير مرتب",
+          "en": "Hair not covered or not properly maintained"
+        },
+        {
+          "ar": "عدم الالتزام بمعايير النظافة الشخصية",
+          "en": "Does not follow personal hygiene standards"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "يلتزم بغسل اليدين بالطريقة الصحيحة وفي الأوقات المطلوبة",
+        "en": "Follows proper handwashing procedures at required times"
+      },
+      "reasons": [
+        {
+          "ar": "لا يغسل اليدين لمدة 20 ثانية",
+          "en": "Does not wash hands for 20 seconds"
+        },
+        {
+          "ar": "لا يغسل اليدين كل ما لزم الأمر",
+          "en": "Does not wash hands when required"
+        },
+        {
+          "ar": "لا يغسل اليدين بشكل دوري (كل ساعة)",
+          "en": "Does not wash hands regularly (every hour)"
+        },
+        {
+          "ar": "عدم الوعي بأهمية غسل اليدين",
+          "en": "Lacks awareness of the importance of handwashing"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "يستخدم القفازات الصحيحة (زرقاء / شفافة) حسب الاستخدام",
+        "en": "Uses the correct gloves (blue / clear) according to the task"
+      },
+      "reasons": [
+        {
+          "ar": "استخدام نوع قفازات خاطئ",
+          "en": "Used the wrong type of gloves"
+        },
+        {
+          "ar": "عدم تغيير القفازات عند الحاجة",
+          "en": "Did not change gloves when required"
+        },
+        {
+          "ar": "لمس أسطح ملوثة بالقفازات",
+          "en": "Touched contaminated surfaces with gloves"
+        },
+        {
+          "ar": "استخدام نفس القفازات لمهام مختلفة",
+          "en": "Used the same gloves for different tasks"
+        },
+        {
+          "ar": "إزالة القفازات بطريقة غير صحيحة",
+          "en": "Removed gloves incorrectly"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "يمنع التلوث المتبادل بين المنتجات النيئة والجاهزة للأكل",
+        "en": "Prevents cross-contamination between raw and ready-to-eat products"
+      },
+      "reasons": [
+        {
+          "ar": "خلط منتجات نيئة مع جاهزة",
+          "en": "Mixed raw and ready-to-eat products"
+        },
+        {
+          "ar": "عدم تغيير القفازات بين المهام",
+          "en": "Did not change gloves between tasks"
+        },
+        {
+          "ar": "عدم استخدام أدوات مخصصة",
+          "en": "Did not use dedicated tools"
+        },
+        {
+          "ar": "استخدام نفس السطح لمنتجات مختلفة",
+          "en": "Used the same surface for different products"
+        },
+        {
+          "ar": "عدم غسل اليدين بعد التعامل مع المنتجات النيئة",
+          "en": "Did not wash hands after handling raw products"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "يحافظ على درجات الحرارة الصحيحة للمنتجات (بارد / ساخن / مجمد)",
+        "en": "Maintains correct product temperatures (cold / hot / frozen)"
+      },
+      "reasons": [
+        {
+          "ar": "المنتج في منطقة الخطر",
+          "en": "Product is in the danger zone"
+        },
+        {
+          "ar": "درجة حرارة التخزين غير صحيحة",
+          "en": "Incorrect storage temperature"
+        },
+        {
+          "ar": "عدم مراقبة درجة الحرارة",
+          "en": "Temperature is not being monitored"
+        },
+        {
+          "ar": "ترك المنتج خارج التبريد",
+          "en": "Product left outside refrigeration"
+        },
+        {
+          "ar": "عدم معرفة درجات الحرارة المطلوبة",
+          "en": "Does not know required temperature ranges"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "يلتزم بفترات الصلاحية (الأولية والثانوية) ولا يستخدم منتجات منتهية",
+        "en": "Follows primary and secondary shelf life and does not use expired products"
+      },
+      "reasons": [
+        {
+          "ar": "استخدام منتج منتهي",
+          "en": "Used an expired product"
+        },
+        {
+          "ar": "عدم متابعة الوقت",
+          "en": "Did not track time"
+        },
+        {
+          "ar": "عدم معرفة الصلاحية الثانوية",
+          "en": "Does not know secondary shelf life"
+        },
+        {
+          "ar": "تجاهل تعليمات الاتلاف",
+          "en": "Ignored discard procedures"
+        },
+        {
+          "ar": "تخزين المنتج لفترة أطول من المسموح او بكمية أعلى من المطلوب",
+          "en": "Stored product longer than allowed or in excess quantity"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "يتعامل مع الحالات الصحية بشكل صحيح (الإبلاغ عن المرض / الجروح)",
+        "en": "Handles health conditions properly (reporting illness / injuries)"
+      },
+      "reasons": [
+        {
+          "ar": "لم يبلغ عن المرض",
+          "en": "Did not report illness"
+        },
+        {
+          "ar": "يعمل وهو يعاني من أعراض",
+          "en": "Worked while having symptoms"
+        },
+        {
+          "ar": "وجود جروح غير مغطاة",
+          "en": "Uncovered wounds"
+        },
+        {
+          "ar": "عدم فحص اليدين قبل العمل",
+          "en": "Did not check hands before starting work"
+        },
+        {
+          "ar": "عدم الوعي بالإجراءات الصحية",
+          "en": "Lacks awareness of health procedures"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "يلتزم بإجراءات التعامل مع المواد الكيميائية وتخزينها بشكل آمن",
+        "en": "Follows proper procedures for handling and storing chemicals safely"
+      },
+      "reasons": [
+        {
+          "ar": "استخدام مواد كيميائية بالقرب من الطعام",
+          "en": "Used chemicals near food"
+        },
+        {
+          "ar": "تخزين المواد بشكل غير صحيح",
+          "en": "Improper chemical storage"
+        },
+        {
+          "ar": "عدم اتباع التعليمات",
+          "en": "Did not follow instructions"
+        },
+        {
+          "ar": "احتمال تلوث كيميائي",
+          "en": "Risk of chemical contamination"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "يمنع التلوث الفيزيائي (الأجسام الغريبة) أثناء العمل",
+        "en": "Prevents physical contamination (foreign objects) during work"
+      },
+      "reasons": [
+        {
+          "ar": "وجود شعر أو أوساخ في المنتج",
+          "en": "Hair or dirt found in product"
+        },
+        {
+          "ar": "ارتداء إكسسوارات",
+          "en": "Wearing accessories"
+        },
+        {
+          "ar": "عدم تغطية الطعام",
+          "en": "Food not properly covered"
+        },
+        {
+          "ar": "وضع المنتجات على الأرض",
+          "en": "Products placed on the floor"
+        },
+        {
+          "ar": "إدخال أجسام غريبة للطعام",
+          "en": "Foreign objects introduced into food"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "يلتزم بإجراءات الحساسية الغذائية ويتعامل مع استفسارات الضيوف بشكل صحيح",
+        "en": "Follows food allergy procedures and handles guest inquiries correctly"
+      },
+      "reasons": [
+        {
+          "ar": "عدم معرفة مسببات الحساسية",
+          "en": "Does not know allergens"
+        },
+        {
+          "ar": "إزالة مكونات بعد التجميع",
+          "en": "Removed ingredients after assembly"
+        },
+        {
+          "ar": "عدم إبلاغ المدير",
+          "en": "Did not inform the manager"
+        },
+        {
+          "ar": "عدم اتباع الإجراءات",
+          "en": "Did not follow procedures"
+        },
+        {
+          "ar": "احتمال تلامس متبادل لمسببات الحساسية",
+          "en": "Risk of allergen cross-contact"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 9,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

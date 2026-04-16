@@ -1,0 +1,334 @@
+{
+  "title": {
+    "ar": "الفرايز",
+    "en": "Fries"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        {
+          "ar": "لا يرتدي قفازات",
+          "en": "Does not wear gloves"
+        },
+        {
+          "ar": "لا يرتدي غطاء رأس",
+          "en": "Does not wear a hairnet"
+        },
+        {
+          "ar": "لم يتم غسل اليدين",
+          "en": "Hands were not washed"
+        },
+        {
+          "ar": "الزي غير نظيف",
+          "en": "Uniform is not clean"
+        },
+        {
+          "ar": "موظف مريض يعمل",
+          "en": "Sick employee working"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلامة وتجهيز القلاية",
+        "en": "Safety and fryer setup"
+      },
+      "reasons": [
+        {
+          "ar": "مستوى الزيت غير صحيح",
+          "en": "Incorrect oil level"
+        },
+        {
+          "ar": "إضافة الزيت بطريقة خاطئة",
+          "en": "Improper oil refilling"
+        },
+        {
+          "ar": "القلاية غير جاهزة",
+          "en": "Fryer not ready"
+        },
+        {
+          "ar": "عدم استخدام معدات الحماية",
+          "en": "Did not use protective equipment"
+        },
+        {
+          "ar": "التعامل غير الآمن مع الزيت الساخن",
+          "en": "Unsafe handling of hot oil"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة البطاطس بعد القلي",
+        "en": "Fries quality after cooking"
+      },
+      "reasons": [
+        {
+          "ar": "لون غير صحيح (غامق/فاتح)",
+          "en": "Incorrect color (too dark/too light)"
+        },
+        {
+          "ar": "غير مقرمشة",
+          "en": "Not crispy"
+        },
+        {
+          "ar": "باردة",
+          "en": "Cold product"
+        },
+        {
+          "ar": "طهي غير متساوي",
+          "en": "Uneven cooking"
+        },
+        {
+          "ar": "قوام غير جيد",
+          "en": "Poor texture"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "عملية الطهي",
+        "en": "Cooking process"
+      },
+      "reasons": [
+        {
+          "ar": "وقت طهي غير صحيح",
+          "en": "Incorrect cooking time"
+        },
+        {
+          "ar": "لا يعرف درجة حرارة الزيت الصحيحة",
+          "en": "Does not know correct oil temperature"
+        },
+        {
+          "ar": "عدم هز السلة بعد 30 ثانية",
+          "en": "Did not shake the basket after 30 seconds"
+        },
+        {
+          "ar": "تحميل زائد في السلة",
+          "en": "Overloaded the basket"
+        },
+        {
+          "ar": "إنزال السلة بسرعة",
+          "en": "Dropped the basket too quickly"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التحكم في مدة الحفظ",
+        "en": "Holding time control"
+      },
+      "reasons": [
+        {
+          "ar": "تجاوز 7 دقائق",
+          "en": "Exceeded 7 minutes"
+        },
+        {
+          "ar": "عدم تطبيق FIFO",
+          "en": "FIFO not applied"
+        },
+        {
+          "ar": "خلط القديم مع الجديد",
+          "en": "Mixed old with new"
+        },
+        {
+          "ar": "عدم التخلص من المنتج المنتهي",
+          "en": "Did not discard expired product"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "عملية التمليح",
+        "en": "Salting process"
+      },
+      "reasons": [
+        {
+          "ar": "ملح زائد",
+          "en": "Too much salt"
+        },
+        {
+          "ar": "ملح غير كافي",
+          "en": "Not enough salt"
+        },
+        {
+          "ar": "تمليح غير متساوي",
+          "en": "Uneven salting"
+        },
+        {
+          "ar": "التمليح قريب من الزيت",
+          "en": "Salting too close to fryer"
+        },
+        {
+          "ar": "عدم خلط البطاطس بعد التمليح",
+          "en": "Did not toss fries after salting"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تعبئة البطاطس",
+        "en": "Fries portioning"
+      },
+      "reasons": [
+        {
+          "ar": "كمية أقل من المطلوب",
+          "en": "Under portioning"
+        },
+        {
+          "ar": "كمية زائدة",
+          "en": "Over portioning"
+        },
+        {
+          "ar": "حجم غير صحيح",
+          "en": "Incorrect size selection"
+        },
+        {
+          "ar": "عدم اتباع look, serve, make",
+          "en": "Did not follow look, serve, make standard"
+        },
+        {
+          "ar": "لا يوجد كمية بطاطس كافية لحجم المبيعات",
+          "en": "Insufficient fries prepared for demand"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع البطاطس المجمدة",
+        "en": "Handling frozen fries"
+      },
+      "reasons": [
+        {
+          "ar": "البطاطس غير مجمدة قبل الطهي",
+          "en": "Fries not properly frozen before cooking"
+        },
+        {
+          "ar": "إخراج كمية زائدة خارج الفريزر",
+          "en": "Removed excess quantity from freezer"
+        },
+        {
+          "ar": "التعامل بعنف (تكسير البطاطس)",
+          "en": "Handled roughly (breaking fries)"
+        },
+        {
+          "ar": "الأكياس غير مغلقة",
+          "en": "Bags not sealed"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إدارة الزيت",
+        "en": "Oil management"
+      },
+      "reasons": [
+        {
+          "ar": "زيت متسخ",
+          "en": "Dirty oil"
+        },
+        {
+          "ar": "عدم تنظيف الزيت",
+          "en": "Oil not filtered or cleaned"
+        },
+        {
+          "ar": "مستوى الزيت غير صحيح",
+          "en": "Incorrect oil level"
+        },
+        {
+          "ar": "جودة زيت غير جيدة",
+          "en": "Poor oil quality"
+        },
+        {
+          "ar": "تلوث الزيت (ماء/ملح/مواد تنظيف)",
+          "en": "Oil contamination (water/salt/chemicals)"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "نظافة محطة العمل",
+        "en": "Workstation cleanliness"
+      },
+      "reasons": [
+        {
+          "ar": "وجود انسكابات زيت",
+          "en": "Oil spills present"
+        },
+        {
+          "ar": "تراكم ملح",
+          "en": "Salt buildup"
+        },
+        {
+          "ar": "محطة غير نظيفة",
+          "en": "Station not clean"
+        },
+        {
+          "ar": "صينية التقديم غير نظيفة",
+          "en": "Serving tray not clean"
+        },
+        {
+          "ar": "مواد تنظيف بالقرب من الطعام",
+          "en": "Cleaning chemicals near food"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيم المخزون",
+        "en": "Stock organization"
+      },
+      "reasons": [
+        {
+          "ar": "مخزون غير منظم",
+          "en": "Unorganized stock"
+        },
+        {
+          "ar": "عدم تطبيق FIFO",
+          "en": "FIFO not applied"
+        },
+        {
+          "ar": "نقص في المواد أثناء العمل",
+          "en": "Stock shortage during operation"
+        },
+        {
+          "ar": "ضعف التواصل مع الموظفين",
+          "en": "Poor communication with team"
+        },
+        {
+          "ar": "تخزين غير آمن",
+          "en": "Unsafe storage"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 4,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 5,
+      "max": 7,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 8,
+      "max": 10,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

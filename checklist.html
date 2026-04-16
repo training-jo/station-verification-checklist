@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <script>const token = localStorage.getItem("token");
+
+if (!token) {
+  window.location.href = "login.html";
+}</script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title id="pageTitle">Verification Checklist</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/signature_pad@4.0.0/dist/signature_pad.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/html2pdf.js@0.10.1/dist/html2pdf.bundle.min.js"></script>
+  <script src="auth.js"></script>
+  <script>checkAuth();</script>
+  
+</head>
+<body>
+  <div class="checklist-shell">
+    <div class="container">
+
+      <div class="checklist-topbar no-print">
+        <a class="back-link" id="backLink" href="homepage.html">← رجوع للرئيسية</a>
+
+        <div class="actions">
+          <button type="button" id="btnEmail">إرسال بالبريد</button>
+          <button type="button" id="btnPrint">تصدير PDF</button>
+          <button type="button" id="btnReset" class="secondary">إعادة ضبط</button>
+        </div>
+      </div>
+
+      <div id="paper" class="paper">
+        <div class="paper-header">
+          <div class="paper-brand">
+            <img src="images/juniors-logo.png" alt="Junior's Logo" class="jr-logo">
+
+            <div>
+              <div class="paper-badge" id="paperBadge">Junior’s Jordan Training Department</div>
+              <h1 id="stationTitle">جارٍ التحميل...</h1>
+              <p id="paperSubtitle">نموذج التحقق من أداء المتدرب بالمحطة</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="section-card">
+          <div class="section-title" id="sectionVerificationData">بيانات التوثيق</div>
+
+          <div class="grid">
+            <label>
+              <span id="labelCrewName">اسم المتدرب</span>
+              <input id="crewName" type="text" />
+            </label>
+
+            <label>
+              <span id="labelTrainerName">اسم المدرب</span>
+              <input id="trainerName" type="text" />
+            </label>
+
+            <label>
+              <span id="labelDate">التاريخ</span>
+              <input id="dayDate" type="text" readonly />
+            </label>
+          </div>
+        </div>
+
+        <div class="section-card">
+          <div class="section-title" id="sectionChecklistItems">بنود التحقق</div>
+          <div class="hint" id="hintText">حدد السبب أدناه إذا لم يتحقق البند.</div>
+          <div id="questions"></div>
+        </div>
+
+        <div class="section-card footer-card">
+          <div class="section-title" id="sectionFinalResult">النتيجة النهائية</div>
+
+          <div class="grid">
+            <label>
+              <span id="labelTotalQ">إجمالي البنود</span>
+              <input id="totalQ" type="text" readonly />
+            </label>
+
+            <label>
+              <span id="labelCorrectA">عدد البنود المحققة</span>
+              <input id="correctA" type="text" readonly />
+            </label>
+
+            <label>
+              <span id="labelScoreText">النتيجة</span>
+              <input id="scoreText" type="text" readonly />
+            </label>
+
+            <label class="full">
+              <span id="labelBandText">قرار التوثيق</span>
+              <input id="bandText" type="text" readonly />
+            </label>
+
+            <label class="full">
+              <span id="labelFeedback">ملاحظات</span>
+              <textarea id="feedback" rows="3"></textarea>
+            </label>
+
+            <label>
+              <span id="labelVerified" class="ltr-fix">موثق؟</span>
+              <select id="verified">
+                <option value="" id="verifiedOptionChoose">اختر</option>
+                <option value="نعم" id="verifiedOptionYes">نعم</option>
+                <option value="لا" id="verifiedOptionNo">لا</option>
+              </select>
+            </label>
+
+            <label>
+              <span id="labelEmailTo">إرسال إلى</span>
+              <select id="emailTo">
+                <option value="" selected disabled id="emailDefaultOption">Select your Store</option>
+                <option value="974004@juniors.com.qa" id="storeAlsaad">Juniors Al Saad</option>
+                <option value="974005@juniors.com.qa" id="storeIzgawa">Juniors Izgawa</option>
+                <option value="974006@juniors.com.qa" id="storeAlwakrah">Juniors AL Wakrah</option>
+                <option value="974007@juniors.com.qa" id="storeAinKhalid">Juniors Ain Khalid</option>
+                <option value="duhail@juniors.com.qa" id="storeDuhail">Juniors Duhail</option>
+                <option value="mfa@juniors.com.qa" id="storeMfa">Juniors Marina Food Arena</option>
+                <option value="962001@juniorsjordan.com" id="storeQueenRania">Queen Rania</option>
+                <option value="962002@juniorsjordan.com" id="storeMarka">Marka</option>
+                <option value="oshahen@juniors.com.qa" id="storeCorridorAbdoun">Corridor Abdoun</option>
+                <option value="962004@juniorsjordan.com" id="storeMeccaSt">Mecca.st</option>
+                <option value="training@juniorsjordan.com" id="storeTrainingDept">Training Department</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="signature-row">
+            <div class="sig">
+              <div class="sig-title" id="sigCrewTitle">توقيع المتدرب</div>
+              <canvas id="crewSignature" class="sig-canvas"></canvas>
+              <button type="button" id="btnClearCrewSig" class="sig-clear no-print">مسح التوقيع</button>
+            </div>
+
+            <div class="sig">
+              <div class="sig-title" id="sigTrainerTitle">توقيع المدرب</div>
+              <canvas id="trainerSignature" class="sig-canvas"></canvas>
+              <button type="button" id="btnClearTrainerSig" class="sig-clear no-print">مسح التوقيع</button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script src="app/checklist.js"></script>
+</body>
+</html>

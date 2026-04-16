@@ -1,0 +1,190 @@
+{
+  "title": {
+    "ar": "توثيق قائد الفريق",
+    "en": "Team Leader Verification"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية وسلامة الغذاء",
+        "en": "Personal hygiene and food safety"
+      },
+      "reasons": [
+        { "ar": "لا يلتزم بمعايير النظافة", "en": "Does not follow hygiene standards" },
+        { "ar": "لا يغسل يديه بشكل منتظم", "en": "Does not wash hands regularly" },
+        { "ar": "لا يطبق النظافة على الفريق", "en": "Does not enforce hygiene on crew" },
+        { "ar": "قدوة غير جيدة", "en": "Poor personal example" },
+        { "ar": "يتجاهل سلامة الغذاء", "en": "Ignores food safety rules" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التحضير للتدريب",
+        "en": "Training preparation (step 1)"
+      },
+      "reasons": [
+        { "ar": "لا يجهز المحطة قبل التدريب", "en": "Does not prepare station before training" },
+        { "ar": "المحطة غير نظيفة أو غير مجهزة", "en": "Station not clean or stocked" },
+        { "ar": "أدوات التدريب غير جاهزة", "en": "Training materials not ready (tablet or checklist)" },
+        { "ar": "لا يراجع الإجراءات", "en": "Does not review procedures before training" },
+        { "ar": "لا يشرح للمتدرب قبل البدء", "en": "Does not brief trainee properly" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "عرض التدريب",
+        "en": "Training presentation (step 2)"
+      },
+      "reasons": [
+        { "ar": "لا يشرح الإجراءات بشكل صحيح", "en": "Does not demonstrate procedures correctly" },
+        { "ar": "لا يوضح معايير الجودة", "en": "Does not explain quality standards" },
+        { "ar": "لا يشرح سبب كل خطوة", "en": "Does not explain the “why” behind procedures" },
+        { "ar": "يتجاهل سلامة الغذاء", "en": "Skips food safety explanation" },
+        { "ar": "ضعف التواصل", "en": "Poor communication during training" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التطبيق العملي",
+        "en": "Training application (step 3)"
+      },
+      "reasons": [
+        { "ar": "لا يتيح للمتدرب التدريب", "en": "Does not allow trainee to practice" },
+        { "ar": "لا يصحح الأخطاء", "en": "Does not correct mistakes" },
+        { "ar": "لا يعطي ملاحظات", "en": "Does not provide feedback" },
+        { "ar": "لا يراقب الأداء", "en": "Does not observe trainee performance" },
+        { "ar": "ضعف التدريب", "en": "Poor coaching skills" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التقييم",
+        "en": "Training evaluation (step 4)"
+      },
+      "reasons": [
+        { "ar": "لا يقيم المتدرب", "en": "Does not evaluate trainee performance" },
+        { "ar": "لا يكمل نموذج التحقق", "en": "Does not complete verification checklist" },
+        { "ar": "لا يعطي ملاحظات", "en": "Does not give feedback after evaluation" },
+        { "ar": "يسمح بالعمل دون جاهزية", "en": "Allows trainee to work without readiness" },
+        { "ar": "ضعف المتابعة", "en": "Poor follow-up" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "المعرفة التشغيلية",
+        "en": "Product and operations knowledge"
+      },
+      "reasons": [
+        { "ar": "ضعف المعرفة بالإجراءات", "en": "Weak knowledge of procedures" },
+        { "ar": "لا يستطيع شرح المعايير", "en": "Cannot explain standards" },
+        { "ar": "لا يجيب على الأسئلة", "en": "Cannot answer trainee questions" },
+        { "ar": "يعطي معلومات خاطئة", "en": "Gives incorrect information" },
+        { "ar": "ضعف الثقة", "en": "Lacks confidence" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "مهارات التواصل",
+        "en": "Communication skills"
+      },
+      "reasons": [
+        { "ar": "لا يتواصل بوضوح", "en": "Does not communicate clearly" },
+        { "ar": "نبرة صوت غير مناسبة", "en": "Uses wrong tone or attitude" },
+        { "ar": "لا يستمع جيداً", "en": "Does not listen actively" },
+        { "ar": "لغة جسد ضعيفة", "en": "Poor body language" },
+        { "ar": "تعليمات غير واضحة", "en": "Uses unclear instructions" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التغذية الراجعة والتوجيه",
+        "en": "Feedback and coaching"
+      },
+      "reasons": [
+        { "ar": "لا يعطي ملاحظات إيجابية", "en": "Does not provide positive feedback" },
+        { "ar": "لا يعطي ملاحظات تصحيحية", "en": "Does not provide constructive feedback" },
+        { "ar": "يركز على الشخصية بدل السلوك", "en": "Focuses on personality instead of behavior" },
+        { "ar": "لا يشرح تأثير الخطأ", "en": "Does not explain impact of mistakes" },
+        { "ar": "ضعف التوجيه", "en": "Poor coaching approach" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "القيادة والقدوة",
+        "en": "Leadership and role modeling"
+      },
+      "reasons": [
+        { "ar": "لا يقود بالقدوة", "en": "Does not lead by example" },
+        { "ar": "لا يلتزم بالمعايير وقت الضغط", "en": "Does not follow standards during rush" },
+        { "ar": "سلوك غير إيجابي", "en": "Poor attitude with team" },
+        { "ar": "غير احترافي", "en": "Does not demonstrate professionalism" },
+        { "ar": "تأثير ضعيف", "en": "Weak influence on crew" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دعم الفريق والتحفيز",
+        "en": "Team support and motivation"
+      },
+      "reasons": [
+        { "ar": "لا يدعم الفريق", "en": "Does not support crew" },
+        { "ar": "لا يشجع المتدربين", "en": "Does not encourage trainees" },
+        { "ar": "لا يقدر الأداء الجيد", "en": "Does not recognize good performance" },
+        { "ar": "بيئة سلبية", "en": "Creates negative environment" },
+        { "ar": "ضعف روح الفريق", "en": "Weak team spirit" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تعدد المهام وإدارة الوردية",
+        "en": "Multitasking and shift management"
+      },
+      "reasons": [
+        { "ar": "لا يستطيع إدارة أكثر من مهمة", "en": "Cannot handle multiple tasks" },
+        { "ar": "ضعف إدارة الوقت", "en": "Poor time management" },
+        { "ar": "لا يدعم وقت الذروة", "en": "Does not support during peak" },
+        { "ar": "ضعف التنسيق", "en": "Poor coordination" },
+        { "ar": "ضعف السيطرة", "en": "Weak shift control" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التركيز على العميل",
+        "en": "Customer focus and service leadership"
+      },
+      "reasons": [
+        { "ar": "لا يركز على تجربة العميل", "en": "Does not prioritize customer experience" },
+        { "ar": "لا يتعامل مع المشاكل", "en": "Does not handle guest issues" },
+        { "ar": "لا يوجه الفريق", "en": "Does not guide team to serve properly" },
+        { "ar": "يتجاهل معايير الخدمة", "en": "Ignores service standards" },
+        { "ar": "ضعف القيادة", "en": "Weak service leadership" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 9,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 10,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل كقائد فريق بكفاءة",
+        "en": "Verified to perform effectively as a team leader"
+      }
+    }
+  ]
+}

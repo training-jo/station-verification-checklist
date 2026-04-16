@@ -1,0 +1,190 @@
+{
+  "title": {
+    "ar": "قائمة الإفطار - البيض",
+    "en": "Breakfast Round & Scramble Eggs Station"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        { "ar": "لا يرتدي قفازات أثناء التعامل مع البيض", "en": "Not wearing gloves during egg handling" },
+        { "ar": "لا يرتدي غطاء رأس", "en": "Not wearing hairnet" },
+        { "ar": "لا يغسل يديه بشكل منتظم", "en": "Does not wash hands regularly" },
+        { "ar": "الزي غير نظيف", "en": "Uniform is not clean" },
+        { "ar": "يلمس الوجه أثناء التحضير", "en": "Touching face during preparation" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "سلامة الغذاء ومنع التلوث المتبادل",
+        "en": "Food safety and cross-contamination control"
+      },
+      "reasons": [
+        { "ar": "يستخدم نفس الأدوات للبيض النيء والمطهو", "en": "Uses same tools for raw and cooked eggs" },
+        { "ar": "لا يستخدم Tong Tweezer بشكل صحيح", "en": "Does not use Tong Tweezer correctly" },
+        { "ar": "يضع الأدوات على أسطح غير نظيفة", "en": "Places tools on dirty surfaces" },
+        { "ar": "لا يفصل أدوات البيض النيء", "en": "Does not separate raw egg tools" },
+        { "ar": "ضعف في فهم مخاطر التلوث (السالمونيلا)", "en": "Poor understanding of contamination risks (Salmonella)" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "غسل اليدين واستخدام القفازات",
+        "en": "Handwashing and glove usage"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه كل ساعة", "en": "Does not wash hands every hour" },
+        { "ar": "خلع القفازات بطريقة خاطئة", "en": "Incorrect glove removal" },
+        { "ar": "لا يغير القفازات بعد التعامل مع البيض النيء", "en": "Does not change gloves after handling raw eggs" },
+        { "ar": "يلمس أسطح نظيفة بقفازات ملوثة", "en": "Touches clean surfaces with contaminated gloves" },
+        { "ar": "ضعف الالتزام بالنظافة", "en": "Poor hygiene discipline" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تحضير البيض (الكسر والفحص)",
+        "en": "Egg preparation (cracking & inspection)"
+      },
+      "reasons": [
+        { "ar": "كسر البيض بطريقة خاطئة", "en": "Incorrect cracking technique" },
+        { "ar": "لا يزيل القشر بشكل صحيح", "en": "Does not remove eggshells properly" },
+        { "ar": "لا يفحص جودة البيض", "en": "Does not inspect eggs quality" },
+        { "ar": "يستخدم بيض غير صالح", "en": "Uses contaminated eggs" },
+        { "ar": "تعامل غير صحيح مع البيض النيء", "en": "Poor handling of raw eggs" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "طريقة طهي البيض الدائري",
+        "en": "Round egg cooking procedure"
+      },
+      "reasons": [
+        { "ar": "درجة حرارة الجريل غير صحيحة (~265–275°F)", "en": "Incorrect grill temperature (~265–275°F)" },
+        { "ar": "لا يلتزم بوقت الطهي (دقيقتان و30 ثانية)", "en": "Does not follow cooking time (2:30 min)" },
+        { "ar": "لا يضيف الماء بشكل صحيح (البخار)", "en": "Does not add water correctly (steam process)" },
+        { "ar": "استخدام غير صحيح للـ rings", "en": "Incorrect use of rings" },
+        { "ar": "لا يكسر الصفار بشكل صحيح", "en": "Does not break yolk properly" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "طريقة طهي البيض المخفوق",
+        "en": "Scramble egg cooking procedure"
+      },
+      "reasons": [
+        { "ar": "درجة حرارة غير صحيحة", "en": "Wrong grill temperature" },
+        { "ar": "لا يلتزم بوقت الطهي (20–25 ثانية)", "en": "Does not follow cooking timing (20–25 sec)" },
+        { "ar": "طريقة خلط غير صحيحة", "en": "Poor mixing technique" },
+        { "ar": "طهي زائد أو ناقص", "en": "Overcooking or undercooking" },
+        { "ar": "كميات غير صحيحة", "en": "Incorrect portioning" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع الزبدة",
+        "en": "Butter handling"
+      },
+      "reasons": [
+        { "ar": "طريقة إذابة غير صحيحة", "en": "Incorrect melting method" },
+        { "ar": "ترك الزبدة على الجريل لفترة طويلة", "en": "Leaves butter on grill too long" },
+        { "ar": "لا يلتزم بمدة الحفظ (4–6 ساعات)", "en": "Does not follow holding time (4–6 hours)" },
+        { "ar": "استخدام زبدة منتهية", "en": "Uses expired butter" },
+        { "ar": "تعامل غير آمن", "en": "Poor handling causing burns" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة المنتج (البيض)",
+        "en": "Product quality (Eggs)"
+      },
+      "reasons": [
+        { "ar": "البيض غير مطهو بالكامل (سائل)", "en": "Undercooked eggs (liquid parts visible)" },
+        { "ar": "جاف أو مطهو زيادة", "en": "Overcooked / dry eggs" },
+        { "ar": "شكل غير منتظم", "en": "Poor shape or broken eggs" },
+        { "ar": "غير طازج أو غير ساخن", "en": "Not fresh or not hot" },
+        { "ar": "قوام غير مناسب", "en": "Poor texture or appearance" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع UHC والحفظ",
+        "en": "UHC handling and holding"
+      },
+      "reasons": [
+        { "ar": "لا يضبط المؤقت (15–20 دقيقة)", "en": "Does not set timer correctly (15–20 min)" },
+        { "ar": "يحتفظ بمنتج منتهي", "en": "Keeps expired eggs" },
+        { "ar": "تكديس غير صحيح", "en": "Poor stacking method" },
+        { "ar": "لا يلتزم بـ FIFO", "en": "Does not follow FIFO" },
+        { "ar": "ضعف متابعة المخزون", "en": "Poor stock monitoring" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السرعة وكفاءة الإنتاج",
+        "en": "Speed and production efficiency"
+      },
+      "reasons": [
+        { "ar": "لا يحافظ على توفر المنتج", "en": "Does not maintain ready stock" },
+        { "ar": "بطء أثناء أوقات الذروة", "en": "Slow production during peak" },
+        { "ar": "ضعف التوقع للطلب", "en": "Poor demand planning" },
+        { "ar": "تأخير في إعادة الإنتاج", "en": "Delays in replenishment" },
+        { "ar": "ضعف التنسيق مع محطة التجميع", "en": "Poor coordination with assembly" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التنظيف وصيانة المعدات",
+        "en": "Cleaning and equipment maintenance"
+      },
+      "reasons": [
+        { "ar": "لا ينظف الجريل بعد كل دفعة", "en": "Does not clean grill after each batch" },
+        { "ar": "لا يعقم الأدوات كل ساعتين", "en": "Does not sanitize tools every 2 hours" },
+        { "ar": "استخدام أدوات غير نظيفة", "en": "Uses dirty utensils" },
+        { "ar": "عدم تنظيف القوالب والأدوات", "en": "Poor cleaning of rings/tools" },
+        { "ar": "وجود بقايا على الجريل", "en": "Leaves residue on grill" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلامة أثناء العمل",
+        "en": "Safety awareness"
+      },
+      "reasons": [
+        { "ar": "استخدام غير آمن للجريل", "en": "Unsafe handling of hot grill" },
+        { "ar": "خطر الحروق (بخار / زبدة)", "en": "Risk of burns from butter or steam" },
+        { "ar": "لا ينظف الانسكابات فوراً", "en": "Does not clean spills immediately" },
+        { "ar": "استخدام غير صحيح للأدوات", "en": "Uses tools incorrectly" },
+        { "ar": "لا يرتدي أحذية آمنة", "en": "Not wearing safety shoes" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 8,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 9,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

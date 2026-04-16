@@ -1,0 +1,314 @@
+{
+  "title": {
+    "ar": "تجميع الساندويش - قائمة الإفطار",
+    "en": "Breakfast Assembly"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        {
+          "ar": "لا يرتدي قفازات أثناء العمل",
+          "en": "Does not wear gloves during work"
+        },
+        {
+          "ar": "لا يرتدي غطاء رأس",
+          "en": "Does not wear a hairnet"
+        },
+        {
+          "ar": "لا يغسل يديه بشكل منتظم",
+          "en": "Does not wash hands regularly"
+        },
+        {
+          "ar": "الزي غير نظيف",
+          "en": "Uniform is not clean"
+        },
+        {
+          "ar": "يلمس الوجه أو الشعر أثناء التحضير",
+          "en": "Touches face or hair during preparation"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "غسل اليدين والالتزام بسلامة الغذاء",
+        "en": "Handwashing and food safety compliance"
+      },
+      "reasons": [
+        {
+          "ar": "لا يغسل يديه كل 30–60 دقيقة",
+          "en": "Does not wash hands every 30–60 minutes"
+        },
+        {
+          "ar": "لا يغير القفازات عند الحاجة",
+          "en": "Does not change gloves when required"
+        },
+        {
+          "ar": "لا يلتزم بمبدأ FIFO",
+          "en": "Does not follow FIFO"
+        },
+        {
+          "ar": "لا يلتزم بمدة الحفظ (10 دقائق)",
+          "en": "Does not follow holding time (10 minutes)"
+        },
+        {
+          "ar": "لا يعقم الأدوات كل 4 ساعات",
+          "en": "Does not sanitize tools every 4 hours"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التحكم في الحفظ ودرجة الحرارة",
+        "en": "Holding and temperature control"
+      },
+      "reasons": [
+        {
+          "ar": "المنتجات غير متوفرة في الـ UHC",
+          "en": "Products not available in UHC"
+        },
+        {
+          "ar": "استخدام منتجات منتهية مدة الحفظ",
+          "en": "Used expired holding products"
+        },
+        {
+          "ar": "تقديم منتجات باردة",
+          "en": "Served cold products"
+        },
+        {
+          "ar": "ضعف متابعة مدة الحفظ",
+          "en": "Poor monitoring of holding time"
+        },
+        {
+          "ar": "لا يعيد تعبئة المنتجات في الوقت المناسب",
+          "en": "Did not restock products on time"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دقة تجميع الساندويش",
+        "en": "Sandwich assembly accuracy"
+      },
+      "reasons": [
+        {
+          "ar": "تجميع غير صحيح (مكونات ناقصة)",
+          "en": "Incorrect assembly (missing ingredients)"
+        },
+        {
+          "ar": "ترتيب المكونات غير صحيح",
+          "en": "Incorrect ingredient order"
+        },
+        {
+          "ar": "خلط بين المنتجات (بيض / سجق / الاثنين)",
+          "en": "Mixed products (egg / sausage / both)"
+        },
+        {
+          "ar": "كميات غير صحيحة",
+          "en": "Incorrect portion sizes"
+        },
+        {
+          "ar": "لا يلتزم بالتركيبة القياسية",
+          "en": "Did not follow standard recipe"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "اختيار واستخدام المكونات",
+        "en": "Ingredient selection and usage"
+      },
+      "reasons": [
+        {
+          "ar": "استخدام مكونات خاطئة",
+          "en": "Used incorrect ingredients"
+        },
+        {
+          "ar": "عدد مكونات غير صحيح (مثل الطماطم أو البيض)",
+          "en": "Incorrect number of components (e.g., tomato or egg)"
+        },
+        {
+          "ar": "كمية صوص غير صحيحة",
+          "en": "Incorrect sauce quantity"
+        },
+        {
+          "ar": "لا يلتزم بالوصفة",
+          "en": "Did not follow recipe"
+        },
+        {
+          "ar": "ضعف معرفة المنتجات",
+          "en": "Lack of product knowledge"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "فحص جودة المنتج",
+        "en": "Product quality check"
+      },
+      "reasons": [
+        {
+          "ar": "لا يفحص جودة المنتج",
+          "en": "Does not check product quality"
+        },
+        {
+          "ar": "استخدام خبز ناشف أو تالف",
+          "en": "Used dry or damaged bread"
+        },
+        {
+          "ar": "مظهر المنتج غير جيد",
+          "en": "Poor product appearance"
+        },
+        {
+          "ar": "الجبن غير مذاب بشكل صحيح",
+          "en": "Cheese not properly melted"
+        },
+        {
+          "ar": "المنتج لا يطابق معايير الجودة",
+          "en": "Product does not meet quality standards"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السرعة وكفاءة الخدمة",
+        "en": "Speed and efficiency"
+      },
+      "reasons": [
+        {
+          "ar": "بطء في تنفيذ الطلبات",
+          "en": "Slow order execution"
+        },
+        {
+          "ar": "تأخير في التجميع",
+          "en": "Delay in assembly"
+        },
+        {
+          "ar": "لا يحدد الأولويات",
+          "en": "Does not prioritize"
+        },
+        {
+          "ar": "لا يتعامل مع الطلبات الخاصة بشكل صحيح",
+          "en": "Does not handle special orders correctly"
+        },
+        {
+          "ar": "ضعف التنسيق مع الفريق",
+          "en": "Poor team coordination"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع الطلبات الخاصة",
+        "en": "Handling special orders"
+      },
+      "reasons": [
+        {
+          "ar": "لا يميز الطلبات الخاصة",
+          "en": "Does not identify special orders"
+        },
+        {
+          "ar": "عدم وضع ملصقات",
+          "en": "Did not apply labels"
+        },
+        {
+          "ar": "تنفيذ الطلب بشكل خاطئ",
+          "en": "Incorrect execution of order"
+        },
+        {
+          "ar": "لا يلتزم بالتخصيص",
+          "en": "Did not follow customization"
+        },
+        {
+          "ar": "خلط بين الطلبات",
+          "en": "Mixed up orders"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "النظافة وتنظيم المحطة",
+        "en": "Station cleanliness and organization"
+      },
+      "reasons": [
+        {
+          "ar": "المحطة غير نظيفة أثناء العمل",
+          "en": "Station not clean during operation"
+        },
+        {
+          "ar": "لا يستخدم فوط معقمة",
+          "en": "Does not use sanitized cloths"
+        },
+        {
+          "ar": "لا ينظف المعدات بشكل منتظم",
+          "en": "Does not clean equipment regularly"
+        },
+        {
+          "ar": "الأرضية غير نظيفة أو مبللة",
+          "en": "Floor not clean or wet"
+        },
+        {
+          "ar": "سوء ترتيب المكونات",
+          "en": "Poor ingredient organization"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلامة أثناء العمل",
+        "en": "Workplace safety"
+      },
+      "reasons": [
+        {
+          "ar": "لا ينظف الانسكابات فوراً",
+          "en": "Does not clean spills immediately"
+        },
+        {
+          "ar": "استخدام غير آمن للمعدات الساخنة",
+          "en": "Unsafe use of hot equipment"
+        },
+        {
+          "ar": "لا يستخدم الأدوات المناسبة",
+          "en": "Does not use proper tools"
+        },
+        {
+          "ar": "لا يرتدي أحذية آمنة",
+          "en": "Does not wear safety shoes"
+        },
+        {
+          "ar": "معرض للحروق أو الانزلاق",
+          "en": "Exposed to burn or slip hazards"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 4,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 5,
+      "max": 7,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 8,
+      "max": 10,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

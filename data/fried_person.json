@@ -1,0 +1,358 @@
+{
+  "title": {
+    "ar": "محطة القلي",
+    "en": "Fried Person"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        {
+          "ar": "لا يرتدي قفازات",
+          "en": "Does not wear gloves"
+        },
+        {
+          "ar": "لا يرتدي غطاء رأس",
+          "en": "Does not wear a hairnet"
+        },
+        {
+          "ar": "لم يتم غسل اليدين بعد التعامل مع الدجاج النيء",
+          "en": "Did not wash hands after handling raw chicken"
+        },
+        {
+          "ar": "الزي غير نظيف",
+          "en": "Uniform is not clean"
+        },
+        {
+          "ar": "موظف مريض يعمل",
+          "en": "Sick employee working"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "درجة حرارة القلاية",
+        "en": "Fryer temperature"
+      },
+      "reasons": [
+        {
+          "ar": "لا يعرف درجة حرارة الزيت الصحيحة",
+          "en": "Does not know the correct oil temperature"
+        },
+        {
+          "ar": "عدم التحقق قبل البدء",
+          "en": "Did not verify temperature before starting"
+        },
+        {
+          "ar": "بدء الطهي قبل جاهزية القلاية",
+          "en": "Started cooking before fryer was ready"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "وقت الطهي",
+        "en": "Cooking time"
+      },
+      "reasons": [
+        {
+          "ar": "اختيار وقت طهي خاطئ",
+          "en": "Selected incorrect cooking time"
+        },
+        {
+          "ar": "عدم الضغط على التايمر",
+          "en": "Did not start the timer"
+        },
+        {
+          "ar": "تجاهل صوت التايمر",
+          "en": "Ignored the timer alert"
+        },
+        {
+          "ar": "إخراج المنتج مبكرًا",
+          "en": "Removed product too early"
+        },
+        {
+          "ar": "ترك المنتج أكثر من اللازم",
+          "en": "Left product longer than required"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تحميل السلة",
+        "en": "Basket loading"
+      },
+      "reasons": [
+        {
+          "ar": "تحميل زائد في السلة",
+          "en": "Overloaded the basket"
+        },
+        {
+          "ar": "توزيع غير متساوي",
+          "en": "Uneven distribution"
+        },
+        {
+          "ar": "تكديس القطع فوق بعضها",
+          "en": "Stacked pieces on top of each other"
+        },
+        {
+          "ar": "استخدام خاطئ للسلة المقسمة",
+          "en": "Incorrect use of divided basket"
+        },
+        {
+          "ar": "تجاوز الحد الأقصى للكمية",
+          "en": "Exceeded maximum capacity"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "عملية الطهي",
+        "en": "Cooking process"
+      },
+      "reasons": [
+        {
+          "ar": "المنتج غير مغمور بالكامل في الزيت",
+          "en": "Product not fully submerged in oil"
+        },
+        {
+          "ar": "عدم فصل القطع عند الحاجة",
+          "en": "Did not separate pieces when required"
+        },
+        {
+          "ar": "إنزال السلة بشكل عنيف",
+          "en": "Dropped the basket aggressively"
+        },
+        {
+          "ar": "تناثر الزيت",
+          "en": "Oil splashed"
+        },
+        {
+          "ar": "التعامل غير الصحيح أثناء الطهي",
+          "en": "Improper handling during cooking"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة المنتج بعد القلي",
+        "en": "Product quality after frying"
+      },
+      "reasons": [
+        {
+          "ar": "لون غامق/محروق",
+          "en": "Dark or burnt color"
+        },
+        {
+          "ar": "غير ناضج",
+          "en": "Undercooked product"
+        },
+        {
+          "ar": "المتدرب لا يعرف مواصفات المنتج بعد الطهي",
+          "en": "Does not know product standards after cooking"
+        },
+        {
+          "ar": "عدم ابلاغ المدير بوجود منتج غير ناضج او مطهي بشكل زائد",
+          "en": "Did not inform manager about undercooked or overcooked product"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "مدة الحفظ (EHB)",
+        "en": "Holding time (EHB)"
+      },
+      "reasons": [
+        {
+          "ar": "تجاوز 20 دقيقة",
+          "en": "Exceeded 20 minutes"
+        },
+        {
+          "ar": "عدم استخدام التايمر",
+          "en": "Did not use timer"
+        },
+        {
+          "ar": "خلط القديم مع الجديد",
+          "en": "Mixed old with new product"
+        },
+        {
+          "ar": "عدم تطبيق FIFO",
+          "en": "FIFO not applied"
+        },
+        {
+          "ar": "عدم تطبيق FIFO",
+          "en": "FIFO not applied"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "نقل المنتج إلى الصواني",
+        "en": "Transferring product to trays"
+      },
+      "reasons": [
+        {
+          "ar": "نقل المنتج إلى الصواني",
+          "en": "Improper transfer of product to trays"
+        },
+        {
+          "ar": "عدم تصفية الزيت (5–10 ثواني)",
+          "en": "Did not drain oil (5–10 seconds)"
+        },
+        {
+          "ar": "تكديس المنتج بشكل زائد",
+          "en": "Overstacked product"
+        },
+        {
+          "ar": "خلط القديم مع الجديد",
+          "en": "Mixed old with new product"
+        },
+        {
+          "ar": "عدم استخدام السكوب او الملاقط المناسبة",
+          "en": "Did not use proper scoop or tongs"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "خلط القديم مع الجديد",
+        "en": "Oil management and cleanliness"
+      },
+      "reasons": [
+        {
+          "ar": "عدم إزالة الشوائب",
+          "en": "Did not remove debris"
+        },
+        {
+          "ar": "عدم إزالة الشوائب",
+          "en": "Did not remove debris"
+        },
+        {
+          "ar": "مستوى الزيت غير صحيح",
+          "en": "Incorrect oil level"
+        },
+        {
+          "ar": "تعبئة الزيت بطريقة خاطئة",
+          "en": "Improper oil refilling"
+        },
+        {
+          "ar": "جودة الزيت سيئة (لون/دخان/رغوة)",
+          "en": "Poor oil quality (color/smoke/foam)"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلامة المهنية",
+        "en": "Workplace safety"
+      },
+      "reasons": [
+        {
+          "ar": "عدم استخدام معدات الحماية",
+          "en": "Did not use protective equipment"
+        },
+        {
+          "ar": "التعامل غير الآمن مع الزيت الساخن",
+          "en": "Unsafe handling of hot oil"
+        },
+        {
+          "ar": "التعامل غير الآمن مع الزيت الساخن",
+          "en": "Unsafe handling of hot oil"
+        },
+        {
+          "ar": "إسقاط أدوات داخل القلاية",
+          "en": "Dropped tools into fryer"
+        },
+        {
+          "ar": "تجاهل مخاطر الحروق",
+          "en": "Ignored burn risks"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "نظافة المحطة",
+        "en": "Station cleanliness"
+      },
+      "reasons": [
+        {
+          "ar": "عدم تنظيف انسكابات الزيت فورًا",
+          "en": "Did not clean oil spills immediately"
+        },
+        {
+          "ar": "منطقة القلاية غير نظيفة",
+          "en": "Fryer area not clean"
+        },
+        {
+          "ar": "الأدوات غير مغسولة كل 4 ساعات",
+          "en": "Tools not cleaned every 4 hours"
+        },
+        {
+          "ar": "الأرضية غير نظيفة",
+          "en": "Floor not clean"
+        },
+        {
+          "ar": "مستوى النظافة ضعيف",
+          "en": "Poor cleanliness level"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "المخزون والتنسيق",
+        "en": "Stock control and coordination"
+      },
+      "reasons": [
+        {
+          "ar": "نفاد المنتج",
+          "en": "Product ran out"
+        },
+        {
+          "ar": "عدم التنسيق مع الباك روم",
+          "en": "Did not coordinate with backroom"
+        },
+        {
+          "ar": "إنتاج زائد",
+          "en": "Overproduction"
+        },
+        {
+          "ar": "إنتاج أقل من المطلوب",
+          "en": "Underproduction"
+        },
+        {
+          "ar": "عدم الالتزام بمستوى الانتاج VCMC",
+          "en": "Did not follow VCMC production levels"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 4,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 5,
+      "max": 7,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 8,
+      "max": 10,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

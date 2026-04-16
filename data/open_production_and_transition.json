@@ -1,0 +1,190 @@
+{
+  "title": {
+    "ar": "محطة فتح وتحويل الإنتاج",
+    "en": "Open and Transition Production Station"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية وسلامة الغذاء",
+        "en": "Personal hygiene and food safety"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه بشكل منتظم (كل 30–60 دقيقة)", "en": "Does not wash hands regularly (every 30–60 min)" },
+        { "ar": "ضعف في النظافة الشخصية", "en": "Poor personal hygiene" },
+        { "ar": "لا يرتدي القفازات أو غطاء الرأس", "en": "Does not wear gloves or hair net" },
+        { "ar": "يلمس الوجه أثناء العمل", "en": "Touching face during work" },
+        { "ar": "لا يلتزم بإجراءات سلامة الغذاء", "en": "Does not follow food safety procedures" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تسلسل تشغيل المعدات",
+        "en": "Equipment start-up sequence"
+      },
+      "reasons": [
+        { "ar": "لا يلتزم بتسلسل التشغيل الصحيح", "en": "Does not follow correct start-up sequence" },
+        { "ar": "المعدات غير مسخنة بشكل كافٍ", "en": "Equipment not preheated properly" },
+        { "ar": "إعدادات الحرارة غير صحيحة", "en": "Incorrect temperature settings (grill, fryer, toaster)" },
+        { "ar": "يبدأ الإنتاج قبل جاهزية المعدات", "en": "Starts production before equipment ready" },
+        { "ar": "ضعف المعرفة بتشغيل المعدات", "en": "Poor understanding of equipment setup" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التحكم في درجات الحرارة",
+        "en": "Temperature control and settings"
+      },
+      "reasons": [
+        { "ar": "درجة حرارة الجريل غير صحيحة", "en": "Incorrect grill temperature" },
+        { "ar": "درجة حرارة القلاية غير صحيحة (~360°F)", "en": "Incorrect fryer temperature (~360°F)" },
+        { "ar": "إعدادات التوستر غير صحيحة", "en": "Incorrect toaster settings" },
+        { "ar": "لا يتحقق من درجات الحرارة", "en": "Does not verify temperatures" },
+        { "ar": "ضعف المتابعة", "en": "Poor monitoring of equipment" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تجهيز المحطة",
+        "en": "Station preparation and setup"
+      },
+      "reasons": [
+        { "ar": "نقص في الأدوات", "en": "Missing tools (spatulas, scrapers, trays)" },
+        { "ar": "عدم تجهيز دلو التعقيم", "en": "No sanitizer bucket prepared" },
+        { "ar": "نقص في مواد التغليف", "en": "Missing wrapping materials" },
+        { "ar": "سوء تجهيز محطة الجريل", "en": "Poor setup of grill station" },
+        { "ar": "سوء التنظيم", "en": "Poor organization" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تجهيز المخزون وتوفره",
+        "en": "Stock preparation and availability"
+      },
+      "reasons": [
+        { "ar": "نقص في المخزون", "en": "Insufficient stock at station" },
+        { "ar": "عدم تجهيز مكونات الإفطار مسبقاً", "en": "Does not prepare breakfast items before start" },
+        { "ar": "نقص في المكونات", "en": "Missing ingredients (cheese, sauces, bread)" },
+        { "ar": "ضعف التخطيط", "en": "Poor planning for production" },
+        { "ar": "يسبب تأخير في الخدمة", "en": "Causes delays in service" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الالتزام بـ FIFO / FEFO",
+        "en": "FIFO and FEFO compliance"
+      },
+      "reasons": [
+        { "ar": "لا يلتزم بنظام FIFO", "en": "Does not follow FIFO system" },
+        { "ar": "لا يلتزم بنظام FEFO", "en": "Does not follow FEFO (expiry-based rotation)" },
+        { "ar": "استخدام منتجات منتهية", "en": "Uses expired products" },
+        { "ar": "ضعف تدوير المخزون", "en": "Poor stock rotation" },
+        { "ar": "تخزين غير صحيح", "en": "Incorrect storage practices" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنفيذ عملية التحويل",
+        "en": "Transition execution (breakfast to regular menu)"
+      },
+      "reasons": [
+        { "ar": "تأخير في التحويل", "en": "Delay in switching to regular menu" },
+        { "ar": "لا يلتزم بخطوات التحويل", "en": "Does not follow transition steps" },
+        { "ar": "إبقاء إعدادات الإفطار", "en": "Keeps breakfast setup active" },
+        { "ar": "ضعف التنسيق", "en": "Poor coordination during transition" },
+        { "ar": "يسبب تعطيل الخدمة", "en": "Causes service disruption" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إعداد UHC والحفظ",
+        "en": "UHC and holding setup"
+      },
+      "reasons": [
+        { "ar": "إعدادات UHC غير صحيحة", "en": "Incorrect UHC temperature settings" },
+        { "ar": "عدم تجهيز الصواني", "en": "Does not prepare trays correctly" },
+        { "ar": "ترتيب غير صحيح للمنتجات", "en": "Poor arrangement of products" },
+        { "ar": "عدم الالتزام بمدة الحفظ", "en": "Does not follow holding standards" },
+        { "ar": "خلط منتجات الإفطار مع العادية", "en": "Mixing breakfast and regular products" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جاهزية الإنتاج",
+        "en": "Production readiness"
+      },
+      "reasons": [
+        { "ar": "المنتجات غير جاهزة لأول طلب", "en": "Products not ready for first orders" },
+        { "ar": "تأخير في أول دفعة إنتاج", "en": "Delays in first batch production" },
+        { "ar": "ضعف تجهيز المكونات", "en": "Poor preparation of ingredients" },
+        { "ar": "لا يتبع مستويات الإنتاج", "en": "Does not follow production levels" },
+        { "ar": "ضعف الجاهزية", "en": "Weak readiness before peak" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التنظيف والتعقيم أثناء التحويل",
+        "en": "Cleaning and sanitization during transition"
+      },
+      "reasons": [
+        { "ar": "لا ينظف الجريل قبل التحويل", "en": "Does not clean grill before switching" },
+        { "ar": "وجود بقايا من منتجات الإفطار", "en": "Leaves residue from breakfast products" },
+        { "ar": "لا يعقم الأدوات", "en": "Does not sanitize tools" },
+        { "ar": "طريقة تنظيف غير صحيحة", "en": "Poor cleaning process" },
+        { "ar": "خطر تلوث", "en": "Risk of cross-contamination" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إدارة الهدر",
+        "en": "Waste management and control"
+      },
+      "reasons": [
+        { "ar": "لا يتخلص من المنتجات المنتهية", "en": "Does not discard expired products" },
+        { "ar": "سوء التعامل مع بقايا الإفطار", "en": "Poor handling of breakfast leftovers" },
+        { "ar": "لا يسجل الهدر", "en": "Does not record waste" },
+        { "ar": "ضعف التحكم", "en": "Poor waste control" },
+        { "ar": "خطر على سلامة الغذاء", "en": "Causes food safety risk" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الانضباط والتنسيق",
+        "en": "Work discipline and coordination"
+      },
+      "reasons": [
+        { "ar": "ضعف التنسيق مع الفريق", "en": "Poor coordination with team" },
+        { "ar": "لا يلتزم بتعليمات المدير", "en": "Does not follow manager instructions" },
+        { "ar": "سوء التوقيت أثناء التحويل", "en": "Poor timing during transition" },
+        { "ar": "ضعف الوعي", "en": "Lack of awareness" },
+        { "ar": "يسبب تأخير", "en": "Causes delays in operation" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 9,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 10,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

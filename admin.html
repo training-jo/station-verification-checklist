@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Admin Panel</title>
+  <script src="app/auth.js"></script>
+</head>
+<body>
+
+<h2>Create Store User</h2>
+
+<input id="username" placeholder="Store ID">
+<input id="password" placeholder="Password">
+<select id="role">
+  <option value="store">Store</option>
+  <option value="admin">Admin</option>
+</select>
+
+<button onclick="createUser()">Create User</button>
+
+<script src="auth.js"></script>
+
+<script>
+checkAuth();
+
+async function createUser() {
+  const username = document.getElementById("username").value;
+  const password = document.getElementById("password").value;
+  const role = document.getElementById("role").value;
+
+  const res = await fetch("http://localhost:3000/create-user", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({ username, password, role })
+  });
+
+  const data = await res.json();
+
+  if (data.ok) {
+    alert("User created");
+  }
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,190 @@
+{
+  "title": {
+    "ar": "محطة خدمة التوصيل",
+    "en": "Delivery Service Station"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه قبل البدء", "en": "Does not wash hands before starting" },
+        { "ar": "لا يغسل يديه بشكل منتظم (كل ساعة)", "en": "Does not wash hands regularly (every hour)" },
+        { "ar": "ضعف في النظافة الشخصية", "en": "Poor personal hygiene" },
+        { "ar": "الزي غير نظيف", "en": "Uniform not clean" },
+        { "ar": "عدم الالتزام بمعايير النظافة", "en": "Ignores hygiene standards" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "استقبال الطلب والتعامل مع النظام",
+        "en": "Order acceptance and system handling"
+      },
+      "reasons": [
+        { "ar": "لا يقبل الطلب خلال الوقت المحدد (30 ثانية)", "en": "Does not accept order on time (within 30 sec)" },
+        { "ar": "تأخير في إرسال الطلب للمطبخ", "en": "Delays sending order to kitchen" },
+        { "ar": "إدخال غير صحيح على جهاز POS", "en": "Does not enter order correctly on POS" },
+        { "ar": "ضعف في استخدام النظام", "en": "Poor system handling" },
+        { "ar": "تفويت الطلبات", "en": "Misses incoming orders" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دقة إدخال الطلب",
+        "en": "Order entry accuracy"
+      },
+      "reasons": [
+        { "ar": "إدخال الطلب بشكل خاطئ", "en": "Incorrect order entry in POS" },
+        { "ar": "نواقص في الطلب", "en": "Missing items or modifications" },
+        { "ar": "كميات غير صحيحة", "en": "Wrong quantities" },
+        { "ar": "عدم الالتزام بالتفاصيل", "en": "Does not follow order details" },
+        { "ar": "ضعف الانتباه", "en": "Poor attention to details" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دقة تجميع الطلب",
+        "en": "Order assembly accuracy"
+      },
+      "reasons": [
+        { "ar": "عناصر ناقصة (طعام / مشروبات / إضافات)", "en": "Missing items (food / drinks / add-ons)" },
+        { "ar": "عناصر غير صحيحة", "en": "Incorrect items prepared" },
+        { "ar": "تجاهل الطلبات الخاصة", "en": "Ignores special requests" },
+        { "ar": "عدم الالتزام بسياسة الإضافات", "en": "Does not follow condiments policy" },
+        { "ar": "عدم المراجعة المزدوجة", "en": "Poor double-checking process" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التغليف وفصل المنتجات",
+        "en": "Order packaging and separation"
+      },
+      "reasons": [
+        { "ar": "لا يفصل المشروبات عن الطعام", "en": "Does not separate drinks from food" },
+        { "ar": "تغليف غير جيد", "en": "Poor packaging quality" },
+        { "ar": "تحميل زائد للأكياس", "en": "Overloading bags" },
+        { "ar": "ترتيب غير صحيح", "en": "Incorrect bagging" },
+        { "ar": "مظهر غير احترافي", "en": "Poor presentation" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الالتزام بالوقت والسرعة",
+        "en": "Timing and speed compliance"
+      },
+      "reasons": [
+        { "ar": "لا يلتزم بوقت تأكيد الطلب (1 دقيقة)", "en": "Does not meet confirmation time (1 min)" },
+        { "ar": "لا يلتزم بوقت الكاشير (1 دقيقة)", "en": "Does not meet cashier time (1 min)" },
+        { "ar": "لا يلتزم بوقت التحضير (5 دقائق)", "en": "Does not meet preparation time (5 min)" },
+        { "ar": "تجاوز الوقت الكلي (7 دقائق)", "en": "Total time exceeds (7 min)" },
+        { "ar": "ضعف إدارة الوقت", "en": "Poor time management" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "عملية إرسال الطلب (Dispatch)",
+        "en": "Dispatch process"
+      },
+      "reasons": [
+        { "ar": "لا يضغط “Ready” بشكل صحيح", "en": "Does not mark order as 'Ready' correctly" },
+        { "ar": "تأخير في إرسال الطلب", "en": "Delays dispatching order" },
+        { "ar": "عدم اتباع تسلسل العمل", "en": "Does not follow dispatch sequence" },
+        { "ar": "ضعف التنسيق مع المندوب", "en": "Poor coordination with rider" },
+        { "ar": "عدم الالتزام بخطوات النظام", "en": "Misses system steps" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع المندوب",
+        "en": "Rider handling and control"
+      },
+      "reasons": [
+        { "ar": "تسليم الطلب دون التأكد من جاهزية المندوب", "en": "Hands order without checking rider readiness" },
+        { "ar": "لا يتحقق من وجود حقيبة توصيل", "en": "Does not ensure rider has delivery bag" },
+        { "ar": "يسمح لمندوب بدون زي مناسب", "en": "Allows rider without proper uniform" },
+        { "ar": "يسمح بأكثر من طلب بشكل خاطئ", "en": "Allows multiple orders per rider incorrectly" },
+        { "ar": "ضعف التحكم بالعملية", "en": "Poor control over delivery process" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تسليم الطلب",
+        "en": "Order handover accuracy"
+      },
+      "reasons": [
+        { "ar": "لا يراجع الطلب قبل التسليم", "en": "Does not double-check order before handover" },
+        { "ar": "تسليم طلب خاطئ", "en": "Hands wrong order" },
+        { "ar": "لا يؤكد استلام الطلب (Pick-up)", "en": "Does not confirm pickup (Pick-up step)" },
+        { "ar": "ضعف التواصل مع المندوب", "en": "Poor communication with rider" },
+        { "ar": "عدم التحقق", "en": "Skips verification process" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيم ونظافة منطقة العمل",
+        "en": "Workplace organization and cleanliness"
+      },
+      "reasons": [
+        { "ar": "منطقة التوصيل غير منظمة", "en": "Delivery area not organized" },
+        { "ar": "ترتيب الطلبات غير صحيح", "en": "Orders not arranged properly" },
+        { "ar": "ضعف نظافة المحطة", "en": "Poor workstation cleanliness" },
+        { "ar": "وضع الطعام في أماكن غير آمنة", "en": "Places food on unsafe surfaces" },
+        { "ar": "سوء التعامل مع الأدوات", "en": "Poor handling of materials" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "سلامة الغذاء أثناء التوصيل",
+        "en": "Safety and food protection"
+      },
+      "reasons": [
+        { "ar": "وضع الطعام على الأرض", "en": "Places food on the floor" },
+        { "ar": "عدم حماية الطعام أثناء التجهيز", "en": "Does not protect food during handling" },
+        { "ar": "ضعف النظافة أثناء التغليف", "en": "Poor hygiene during packing" },
+        { "ar": "تعامل غير آمن مع المنتجات الساخنة", "en": "Unsafe handling of hot items" },
+        { "ar": "خطر التلوث", "en": "Risk of contamination" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلوك المهني",
+        "en": "Professional behavior"
+      },
+      "reasons": [
+        { "ar": "أسلوب غير احترافي مع المندوب", "en": "Poor attitude with riders" },
+        { "ar": "ضعف في التواصل", "en": "Poor communication" },
+        { "ar": "عدم الاحترام", "en": "Lack of respect" },
+        { "ar": "عدم الالتزام بثقافة الخدمة", "en": "Does not follow service culture" },
+        { "ar": "تعامل غير لائق", "en": "Not treating rider professionally" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 9,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 10,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

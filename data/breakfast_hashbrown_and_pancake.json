@@ -1,0 +1,177 @@
+{
+  "title": {
+    "ar": "الافطار الهاش براون والبان كيك",
+    "en": "Breakfast Hashbrown & Pancake"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        { "ar": "لا يرتدي قفازات أثناء العمل", "en": "Not wearing gloves during handling" },
+        { "ar": "لا يرتدي غطاء رأس", "en": "Not wearing hairnet" },
+        { "ar": "لا يغسل يديه بشكل منتظم", "en": "Does not wash hands regularly" },
+        { "ar": "الزي غير نظيف", "en": "Uniform is not clean" },
+        { "ar": "يلمس الوجه أثناء التحضير", "en": "Touching face during preparation" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "غسل اليدين والالتزام بسلامة الغذاء",
+        "en": "Handwashing and food safety compliance"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه كل 30–60 دقيقة", "en": "Does not wash hands every 30–60 minutes" },
+        { "ar": "لا يغير القفازات عند الحاجة", "en": "Does not change gloves when required" },
+        { "ar": "لا يلتزم بمبدأ FIFO", "en": "Does not follow FIFO" },
+        { "ar": "لا يراعي تواريخ الصلاحية", "en": "Ignores expiry dates" },
+        { "ar": "لا يلتزم بمدة الحفظ (10 دقائق)", "en": "Does not follow holding time (10 minutes max)" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "طريقة قلي الهاش براون",
+        "en": "Hashbrown frying procedure"
+      },
+      "reasons": [
+        { "ar": "درجة حرارة القلاية غير صحيحة (~360°F)", "en": "Incorrect fryer temperature (not ~360°F)" },
+        { "ar": "لا يلتزم بوقت الطهي (دقيقتان و45 ثانية)", "en": "Does not follow cooking time (2:45 min)" },
+        { "ar": "تحميل زائد للسلة (أكثر من 8 قطع)", "en": "Overloading basket (more than 8 pieces)" },
+        { "ar": "القطع غير مغمورة بالكامل بالزيت", "en": "Product not fully submerged in oil" },
+        { "ar": "يترك المنتج معلق على القلاية", "en": "Leaves product hanging on fryer" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة الهاش براون",
+        "en": "Hashbrown quality"
+      },
+      "reasons": [
+        { "ar": "غير مقرمش من الخارج", "en": "Not crispy from outside" },
+        { "ar": "دهني (غير مصفى بشكل صحيح)", "en": "Too oily (not drained properly)" },
+        { "ar": "لون غير مناسب (غامق أو فاتح)", "en": "Wrong color (too dark or pale)" },
+        { "ar": "غير مطهو بشكل متساوي", "en": "Not cooked evenly" },
+        { "ar": "غير طازج", "en": "Not fresh" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "حفظ وتقديم الهاش براون",
+        "en": "Hashbrown holding and serving"
+      },
+      "reasons": [
+        { "ar": "تجاوز مدة الحفظ (10 دقائق)", "en": "Exceeds holding time (10 minutes)" },
+        { "ar": "لا يتخلص من المنتج المنتهي", "en": "Does not discard expired product" },
+        { "ar": "كميات غير صحيحة", "en": "Incorrect portioning" },
+        { "ar": "تأخير في التقديم", "en": "Delays in serving" },
+        { "ar": "ضعف التحكم بالمخزون", "en": "Poor stock control" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "طريقة تحضير البان كيك",
+        "en": "Pancake cooking procedure"
+      },
+      "reasons": [
+        { "ar": "درجة حرارة الجريل غير صحيحة (~375°F)", "en": "Wrong grill temperature (not ~375°F)" },
+        { "ar": "لا يلتزم بوقت الطهي (90 ثانية / 50 ثانية)", "en": "Does not follow cooking time (90s / 50s)" },
+        { "ar": "توقيت التقليب غير صحيح", "en": "Incorrect flipping timing" },
+        { "ar": "لا يدهن الجريل بالزبدة", "en": "Does not apply butter before cooking" },
+        { "ar": "كمية الخليط غير صحيحة", "en": "Incorrect batter portion" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة البان كيك",
+        "en": "Pancake quality"
+      },
+      "reasons": [
+        { "ar": "الشكل غير منتظم", "en": "Not uniform in shape" },
+        { "ar": "لون غير مناسب", "en": "Poor color (not golden brown)" },
+        { "ar": "القوام غير هش أو ثقيل", "en": "Not fluffy / dense texture" },
+        { "ar": "محروق أو غير مطهو جيداً", "en": "Burnt or undercooked" },
+        { "ar": "طعم غير متوازن", "en": "Poor taste balance" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع UHC والحفظ",
+        "en": "UHC handling and holding"
+      },
+      "reasons": [
+        { "ar": "لا يضبط المؤقت (10 دقائق)", "en": "Does not set timer correctly (10 minutes)" },
+        { "ar": "الاحتفاظ بالمنتج أكثر من اللازم", "en": "Overholding products" },
+        { "ar": "ترتيب غير صحيح داخل UHC", "en": "Poor arrangement in UHC" },
+        { "ar": "خلط المنتج الجديد مع القديم", "en": "Mixing fresh with old products" },
+        { "ar": "ضعف متابعة المخزون", "en": "Poor monitoring of stock" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السرعة والتحكم بالإنتاج",
+        "en": "Speed and production control"
+      },
+      "reasons": [
+        { "ar": "لا يجهز حسب الطلب", "en": "Does not prepare based on demand" },
+        { "ar": "إنتاج زائد يؤدي للهدر", "en": "Overproduction leading to waste" },
+        { "ar": "إنتاج ناقص يسبب تأخير", "en": "Underproduction causing delays" },
+        { "ar": "بطء في أوقات الذروة", "en": "Slow response during peak" },
+        { "ar": "ضعف التنسيق مع الفريق", "en": "Poor coordination with team" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "النظافة وتنظيم المحطة",
+        "en": "Cleanliness and station organization"
+      },
+      "reasons": [
+        { "ar": "المحطة غير نظيفة أثناء العمل", "en": "Station not clean during operation" },
+        { "ar": "لا يغير الفوط كل 30 دقيقة", "en": "Does not change towels regularly (30 min)" },
+        { "ar": "لا يعقم الأدوات كل ساعتين", "en": "Equipment not sanitized every 2 hours" },
+        { "ar": "الأرضية غير نظيفة أو آمنة", "en": "Floor not clean or safe" },
+        { "ar": "سوء ترتيب الأدوات", "en": "Poor organization of tools" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلامة أثناء العمل",
+        "en": "Safety awareness"
+      },
+      "reasons": [
+        { "ar": "استخدام غير آمن للقلاية", "en": "Unsafe fryer handling" },
+        { "ar": "خطر الحروق بالزيت", "en": "Risk of oil burns" },
+        { "ar": "لا ينظف الانسكابات فوراً", "en": "Does not clean spills immediately" },
+        { "ar": "استخدام غير صحيح للأدوات", "en": "Improper use of tools" },
+        { "ar": "لا يرتدي أحذية آمنة", "en": "Not wearing safety shoes" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 8,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 9,
+      "max": 11,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

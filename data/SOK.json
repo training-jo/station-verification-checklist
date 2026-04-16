@@ -1,0 +1,190 @@
+{
+  "title": {
+    "ar": "محطة كشك الطلب الذاتي",
+    "en": "Self-Ordering Kiosk (SOK) Station"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية والمظهر",
+        "en": "Personal hygiene and appearance"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه بشكل منتظم (كل ساعة)", "en": "Does not wash hands regularly (every hour)" },
+        { "ar": "ضعف في النظافة الشخصية", "en": "Poor personal hygiene" },
+        { "ar": "الزي غير نظيف أو غير احترافي", "en": "Uniform not clean or not professional" },
+        { "ar": "يلمس الوجه أثناء العمل", "en": "Touching face during service" },
+        { "ar": "لا يلتزم بمعايير سلامة الغذاء", "en": "Does not follow food safety standards" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التفاعل الاستباقي مع العملاء",
+        "en": "Proactive customer engagement"
+      },
+      "reasons": [
+        { "ar": "لا يبادر بالتعامل مع العملاء", "en": "Does not approach customers near kiosk" },
+        { "ar": "لا يدعو العملاء لاستخدام الكشك", "en": "Does not invite customers to use kiosk" },
+        { "ar": "ينتظر العميل بدلاً من المبادرة", "en": "Waits for customer instead of initiating" },
+        { "ar": "يتجاهل العملاء المترددين", "en": "Ignores hesitant customers" },
+        { "ar": "ضعف مهارات التفاعل", "en": "Weak engagement skills" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "مساعدة العملاء وتقديم الإرشاد",
+        "en": "Customer assistance and guidance"
+      },
+      "reasons": [
+        { "ar": "لا يشرح طريقة استخدام الكشك", "en": "Does not explain how to use kiosk" },
+        { "ar": "لا يساعد أثناء الطلب", "en": "Does not assist during order process" },
+        { "ar": "ضعف التواصل مع العملاء", "en": "Poor communication with customers" },
+        { "ar": "لا يبسط الخطوات", "en": "Does not simplify the process" },
+        { "ar": "يترك العميل مرتبك", "en": "Leaves customer confused" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "معرفة المنتجات والدعم",
+        "en": "Product knowledge and support"
+      },
+      "reasons": [
+        { "ar": "لا يعرف المنتجات", "en": "Does not know menu items" },
+        { "ar": "لا يشرح العروض", "en": "Cannot explain offers or promotions" },
+        { "ar": "لا يساعد العميل في الاختيار", "en": "Cannot guide customer choices" },
+        { "ar": "ضعف المعرفة بالمنتجات", "en": "Poor product knowledge" },
+        { "ar": "يعطي معلومات خاطئة", "en": "Gives incorrect information" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دعم عملية الطلب",
+        "en": "Order process support"
+      },
+      "reasons": [
+        { "ar": "لا يوجه العميل خلال خطوات الطلب", "en": "Does not guide customer through ordering steps" },
+        { "ar": "لا يشرح طريقة الدفع", "en": "Does not explain payment process" },
+        { "ar": "لا يشرح رقم الطلب أو الاستلام", "en": "Does not explain order number / pickup process" },
+        { "ar": "ضعف المتابعة بعد الطلب", "en": "Poor follow-up after order" },
+        { "ar": "يترك العميل بدون توجيه", "en": "Leaves customer without direction" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جاهزية الأجهزة",
+        "en": "Kiosk equipment readiness"
+      },
+      "reasons": [
+        { "ar": "الكشك غير نظيف", "en": "Kiosk not clean" },
+        { "ar": "الشاشة لا تعمل بشكل جيد", "en": "Screens not working properly" },
+        { "ar": "لا يوجد ورق للطابعة", "en": "Printer paper not available" },
+        { "ar": "جهاز الدفع لا يعمل", "en": "Card reader not working" },
+        { "ar": "لا يبلغ المدير بالأعطال", "en": "Does not report issues to manager" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "نظافة المنطقة المحيطة",
+        "en": "Area monitoring and cleanliness"
+      },
+      "reasons": [
+        { "ar": "منطقة الكشك غير نظيفة", "en": "Kiosk area not clean" },
+        { "ar": "لا يعقم الكشك", "en": "Does not sanitize kiosk regularly" },
+        { "ar": "سوء تنظيم المكان", "en": "Poor area organization" },
+        { "ar": "النفايات غير مرفوعة", "en": "Trash not removed" },
+        { "ar": "ضعف المتابعة", "en": "Poor monitoring" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إدارة تدفق العملاء",
+        "en": "Customer flow management"
+      },
+      "reasons": [
+        { "ar": "لا يوجه العملاء لمنطقة الاستلام", "en": "Does not guide customers to pickup area" },
+        { "ar": "لا ينظم منطقة الانتظار", "en": "Does not manage waiting area" },
+        { "ar": "ضعف التنسيق مع الكاونتر", "en": "Poor coordination with front counter" },
+        { "ar": "يسبب ازدحام", "en": "Causes congestion" },
+        { "ar": "ضعف الانتباه", "en": "Poor awareness of surroundings" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دعم خدمة الطاولات",
+        "en": "Table service support (if applicable)"
+      },
+      "reasons": [
+        { "ar": "لا يشرح نظام أرقام الطاولات", "en": "Does not explain table number system" },
+        { "ar": "لا يوجه العميل للطاولة", "en": "Does not guide customer to table" },
+        { "ar": "لا يساعد في تقديم الطلب", "en": "Does not support tray delivery" },
+        { "ar": "ضعف المتابعة", "en": "Poor follow-up on dine-in orders" },
+        { "ar": "دعم خدمة ضعيف", "en": "Weak service support" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تجربة العميل والضيافة",
+        "en": "Customer experience and hospitality"
+      },
+      "reasons": [
+        { "ar": "لا يبتسم أو يرحب", "en": "Does not smile or greet" },
+        { "ar": "ضعف التواصل", "en": "Poor communication" },
+        { "ar": "لا يشكر العميل", "en": "Does not thank customer" },
+        { "ar": "لا يدعو للعودة", "en": "Does not invite customer to return" },
+        { "ar": "ضعف ثقافة الضيافة", "en": "Weak hospitality culture" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التفاعل مع ملاحظات العملاء",
+        "en": "Feedback and customer interaction"
+      },
+      "reasons": [
+        { "ar": "لا يطلب رأي العميل", "en": "Does not ask for feedback" },
+        { "ar": "يتجاهل الملاحظات", "en": "Ignores customer comments" },
+        { "ar": "لا يبلغ المدير", "en": "Does not report feedback to manager" },
+        { "ar": "ضعف الاستماع", "en": "Poor listening skills" },
+        { "ar": "لا يتفاعل بعد الطلب", "en": "No interaction after order" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الانضباط والوعي أثناء العمل",
+        "en": "Work discipline and awareness"
+      },
+      "reasons": [
+        { "ar": "غير منتبه لما حوله", "en": "Not attentive to surroundings" },
+        { "ar": "لا يلتزم بمكانه", "en": "Does not stay in assigned area" },
+        { "ar": "ضعف في تعدد المهام", "en": "Poor multitasking" },
+        { "ar": "لا يلتزم بالإجراءات", "en": "Does not follow procedures" },
+        { "ar": "ضعف المسؤولية", "en": "Lack of responsibility" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 9,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 10,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

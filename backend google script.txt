@@ -1,0 +1,55 @@
+function doPost(e) {
+  try {
+    const p = e.parameter || {};
+
+    // ✅ Extract values FIRST
+    const to = (p.to || "").trim();
+    const subject = (p.subject || "Station Verification Checklist").trim();
+    const filename = (p.filename || "SVC.pdf").trim();
+    const pdfBase64 = (p.pdfBase64 || "").trim();
+    const body = (p.body || "Please find attached the completed checklist.").trim();
+
+    // ✅ Validate required fields
+    if (!to || !pdfBase64) {
+      return ContentService.createTextOutput(JSON.stringify({
+        ok: false,
+        error: "Missing to/pdfBase64"
+      })).setMimeType(ContentService.MimeType.JSON);
+    }
+
+    // ✅ Domain validation (SECURITY)
+    const allowedDomains = [
+      "juniorsjordan.com",
+      "juniors.com.qa"
+    ];
+
+    const isValid = allowedDomains.some(domain =>
+      to.toLowerCase().endsWith("@" + domain)
+    );
+
+    if (!isValid) {
+      return ContentService.createTextOutput(JSON.stringify({
+        ok: false,
+        error: "Unauthorized email domain"
+      })).setMimeType(ContentService.MimeType.JSON);
+    }
+
+    // ✅ Convert PDF
+    const pdfBytes = Utilities.base64Decode(pdfBase64);
+    const pdfBlob = Utilities.newBlob(pdfBytes, "application/pdf", filename);
+
+    // ✅ Send email
+    GmailApp.sendEmail(to, subject, body, {
+      attachments: [pdfBlob]
+    });
+
+    return ContentService.createTextOutput(JSON.stringify({ ok: true }))
+      .setMimeType(ContentService.MimeType.JSON);
+
+  } catch (err) {
+    return ContentService.createTextOutput(JSON.stringify({
+      ok: false,
+      error: String(err)
+    })).setMimeType(ContentService.MimeType.JSON);
+  }
+}

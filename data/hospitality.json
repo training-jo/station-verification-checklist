@@ -1,0 +1,342 @@
+{
+  "title": {
+    "ar": "الضيافة",
+    "en": "Hospitality"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "خلق لحظات تُسعد الضيف",
+        "en": "Creating moments that delight the guest"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يبادر بتقديم أي شيء إضافي خارج المهام الأساسية",
+          "en": "Does not take initiative to offer anything beyond basic tasks"
+        },
+        {
+          "ar": "الموظف يتجاهل فرص بسيطة (مساعدة الضيف / تقديم صوص / ترتيب صينية)",
+          "en": "Misses simple opportunities (helping the guest / offering sauce / arranging tray)"
+        },
+        {
+          "ar": "الموظف يركز فقط على إنهاء المهام وليس تجربة الضيف",
+          "en": "Focuses only on completing tasks rather than the guest experience"
+        },
+        {
+          "ar": "الموظف لا يلاحظ ردود فعل الضيف",
+          "en": "Does not observe guest reactions"
+        },
+        {
+          "ar": "الموظف ينتظر التعليمات ولا يتصرف من نفسه",
+          "en": "Waits for instructions instead of acting proactively"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التركيز الكامل على الضيف",
+        "en": "Full focus on the guest"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف ينظر إلى جهاز الكاشير أو حوله بدل التركيز على الضيف",
+          "en": "Looks at the POS or surroundings instead of focusing on the guest"
+        },
+        {
+          "ar": "الموظف ينشغل بالحديث مع الزملاء أثناء خدمة الضيف",
+          "en": "Engages in conversations with colleagues while serving the guest"
+        },
+        {
+          "ar": "الموظف يقوم بعدة مهام ويهمل الضيف",
+          "en": "Multitasks and neglects the guest"
+        },
+        {
+          "ar": "الموظف يستعجل التفاعل ولا يستمع جيدًا",
+          "en": "Rushes the interaction and does not listen properly"
+        },
+        {
+          "ar": "الموظف لا يحافظ على تواصل بصري",
+          "en": "Does not maintain eye contact"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "وضع الضيف في المقام الأول",
+        "en": "Putting the guest first"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف يرفض طلب الضيف مباشرة بدون محاولة المساعدة",
+          "en": "Refuses guest requests without attempting to help"
+        },
+        {
+          "ar": "الموظف يقول (ليس من مسؤوليتي)",
+          "en": "Says 'it’s not my responsibility'"
+        },
+        {
+          "ar": "الموظف يلتزم بالإجراء بدون مرونة",
+          "en": "Follows procedures rigidly without flexibility"
+        },
+        {
+          "ar": "الموظف لا يحاول إيجاد بدائل",
+          "en": "Does not try to find alternatives"
+        },
+        {
+          "ar": "الموظف يتأخر في خدمة الضيف",
+          "en": "Delays serving the guest"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التفاعل الإيجابي مع الضيف",
+        "en": "Positive interaction with the guest"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف يستخدم ردود قصيرة وجافة (نعم / انتظر)",
+          "en": "Uses short and dry responses (yes / wait)"
+        },
+        {
+          "ar": "الموظف لا يبتسم أثناء التفاعل",
+          "en": "Does not smile during interaction"
+        },
+        {
+          "ar": "الموظف يتحدث بصوت منخفض أو غير واضح",
+          "en": "Speaks in a low or unclear voice"
+        },
+        {
+          "ar": "الموظف لا يحاول فتح حوار بسيط",
+          "en": "Does not attempt to start simple conversation"
+        },
+        {
+          "ar": "الموظف يتجنب التفاعل مع الضيوف",
+          "en": "Avoids interacting with guests"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الصدق والعفوية",
+        "en": "Authenticity and natural behavior"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف يتحدث بطريقة آلية (روبوتية)",
+          "en": "Speaks in a robotic manner"
+        },
+        {
+          "ar": "الموظف يظهر ابتسامة غير حقيقية",
+          "en": "Shows an unnatural or fake smile"
+        },
+        {
+          "ar": "الموظف يتغير أسلوبه تحت الضغط",
+          "en": "Changes behavior under pressure"
+        },
+        {
+          "ar": "الموظف يتفاعل بشكل عصبي مع المواقف",
+          "en": "Responds nervously in situations"
+        },
+        {
+          "ar": "الموظف غير واعٍ لنبرة صوته أو لغة جسده",
+          "en": "Not aware of tone of voice or body language"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تقديم تجربة طعام عالية الجودة",
+        "en": "Delivering high-quality food experience"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف يقدم المنتج بدون التأكد من شكله وجودته",
+          "en": "Serves the product without checking its appearance and quality"
+        },
+        {
+          "ar": "الموظف يتجاهل مشاكل الجودة",
+          "en": "Ignores quality issues"
+        },
+        {
+          "ar": "الموظف يستعجل على حساب الجودة",
+          "en": "Rushes at the expense of quality"
+        },
+        {
+          "ar": "الموظف لا يلتزم بمعايير المنتج",
+          "en": "Does not follow product standards"
+        },
+        {
+          "ar": "الموظف لا يهتم بكيف يظهر المنتج للضيف",
+          "en": "Does not care how the product looks to the guest"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الترحيب بالضيف",
+        "en": "Welcoming the guest"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يبادر بالتحية فور وصول الضيف",
+          "en": "Does not greet the guest immediately upon arrival"
+        },
+        {
+          "ar": "الموظف يتجنب التواصل البصري",
+          "en": "Avoids eye contact"
+        },
+        {
+          "ar": "الموظف لا يبتسم",
+          "en": "Does not smile"
+        },
+        {
+          "ar": "الموظف يستخدم نفس التحية لكل الضيوف",
+          "en": "Uses the same greeting for all guests"
+        },
+        {
+          "ar": "الموظف يكمل عمله أثناء الترحيب",
+          "en": "Continues tasks while greeting the guest"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "أثناء أخذ الطلب (الاستماع والاقتراح)",
+        "en": "During order taking (listening and suggesting)"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف يقاطع الضيف ولا يستمع جيدًا",
+          "en": "Interrupts the guest and does not listen properly"
+        },
+        {
+          "ar": "الموظف لا يعيد الطلب للتأكيد",
+          "en": "Does not repeat the order for confirmation"
+        },
+        {
+          "ar": "الموظف لا يقترح إضافات أو تحسين الطلب",
+          "en": "Does not suggest add-ons or improve the order"
+        },
+        {
+          "ar": "الموظف يستعجل الضيف أثناء الطلب",
+          "en": "Rushes the guest while ordering"
+        },
+        {
+          "ar": "الموظف لا يشرح القائمة بثقة",
+          "en": "Does not explain the menu confidently"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "أثناء تواجد الضيف داخل المطعم",
+        "en": "During the guest’s stay in the restaurant"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يتابع الضيف بعد استلام الطلب",
+          "en": "Does not follow up after the guest receives the order"
+        },
+        {
+          "ar": "الموظف يتجاهل الطاولات أو الصواني المتسخة",
+          "en": "Ignores dirty tables or trays"
+        },
+        {
+          "ar": "الموظف لا يعرض المساعدة",
+          "en": "Does not offer help"
+        },
+        {
+          "ar": "الموظف يبقى في مكانه ولا يتحرك بالصالة",
+          "en": "Stays in one place and does not move around the dining area"
+        },
+        {
+          "ar": "الموظف لا يلاحظ احتياجات الضيف",
+          "en": "Does not notice guest needs"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "توديع الضيف",
+        "en": "Farewell to the guest"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يشكر الضيف",
+          "en": "Does not thank the guest"
+        },
+        {
+          "ar": "الموظف لا يودع الضيف",
+          "en": "Does not say goodbye to the guest"
+        },
+        {
+          "ar": "الموظف لا ينظر للضيف عند المغادرة",
+          "en": "No eye contact when the guest leaves"
+        },
+        {
+          "ar": "الموظف مشغول بعمل آخر أثناء خروج الضيف",
+          "en": "Busy with another task while the guest is leaving"
+        },
+        {
+          "ar": "الموظف لا يعرض المساعدة عند الحاجة",
+          "en": "Does not offer help when needed"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "المظهر والنظافة الشخصية",
+        "en": "Appearance and personal hygiene"
+      },
+      "reasons": [
+        {
+          "ar": "زي الموظف غير نظيف أو غير مرتب",
+          "en": "Uniform is not clean or not properly arranged"
+        },
+        {
+          "ar": "المظهر العام غير مهني",
+          "en": "Unprofessional overall appearance"
+        },
+        {
+          "ar": "الموظف لا يلتزم بمعايير النظافة الشخصية",
+          "en": "Does not follow personal hygiene standards"
+        },
+        {
+          "ar": "الموظف لا يراجع مظهره قبل الشفت",
+          "en": "Does not check appearance before the shift"
+        },
+        {
+          "ar": "الموظف لا يحافظ على مظهره أثناء العمل",
+          "en": "Does not maintain appearance during work"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 8,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 9,
+      "max": 11,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

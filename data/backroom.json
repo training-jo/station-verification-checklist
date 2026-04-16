@@ -1,0 +1,362 @@
+{
+  "title": {
+    "ar": "الباك روم",
+    "en": "Backroom"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        {
+          "ar": "لا يرتدي قفازات",
+          "en": "Does not wear gloves"
+        },
+        {
+          "ar": "لا يرتدي غطاء رأس",
+          "en": "Does not wear a hairnet"
+        },
+        {
+          "ar": "الزي غير نظيف",
+          "en": "Uniform is not clean"
+        },
+        {
+          "ar": "لم يتم غسل اليدين",
+          "en": "Hands were not washed"
+        },
+        {
+          "ar": "أظافر غير نظيفة / طويلة",
+          "en": "Unclean or long fingernails"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "غسل اليدين",
+        "en": "Handwashing"
+      },
+      "reasons": [
+        {
+          "ar": "لم يتم الغسل كل ساعة",
+          "en": "Did not wash hands every hour"
+        },
+        {
+          "ar": "مدة الغسل أقل من 20 ثانية",
+          "en": "Handwashing duration less than 20 seconds"
+        },
+        {
+          "ar": "عدم استخدام الصابون",
+          "en": "Did not use soap"
+        },
+        {
+          "ar": "عدم التجفيف بمنشفة ورقية",
+          "en": "Did not dry hands with paper towel"
+        },
+        {
+          "ar": "تجاهل الغسل بعد التلوث",
+          "en": "Did not wash hands after contamination"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف وتعقيم المعدات",
+        "en": "Cleaning and sanitizing equipment"
+      },
+      "reasons": [
+        {
+          "ar": "لم يتم التعقيم كل 4 ساعات",
+          "en": "Did not sanitize every 4 hours"
+        },
+        {
+          "ar": "وجود بقايا/تراكم دهون",
+          "en": "Presence of residue or grease buildup"
+        },
+        {
+          "ar": "عدم اتباع خطوات التعقيم",
+          "en": "Did not follow sanitizing steps"
+        },
+        {
+          "ar": "محلول التعقيم غير صحيح",
+          "en": "Incorrect sanitizing solution"
+        },
+        {
+          "ar": "الأدوات غير مجففة",
+          "en": "Tools not air-dried"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تطبيق FIFO",
+        "en": "Applying FIFO"
+      },
+      "reasons": [
+        {
+          "ar": "عدم ترتيب المنتجات حسب التاريخ",
+          "en": "Products not arranged by date"
+        },
+        {
+          "ar": "استخدام منتج أحدث قبل الأقدم",
+          "en": "Used newer product before older one"
+        },
+        {
+          "ar": "عدم وجود تواريخ واضحة",
+          "en": "No clear date labeling"
+        },
+        {
+          "ar": "تخزين غير منظم",
+          "en": "Disorganized storage"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الملصقات والصلاحية",
+        "en": "Labeling and shelf life"
+      },
+      "reasons": [
+        {
+          "ar": "عدم وجود ملصق",
+          "en": "Missing label"
+        },
+        {
+          "ar": "عدم وجود ملصق",
+          "en": "Missing label"
+        },
+        {
+          "ar": "انتهاء الصلاحية",
+          "en": "Expired product"
+        },
+        {
+          "ar": "مدة صلاحية غير مطبقة",
+          "en": "Shelf life not applied"
+        },
+        {
+          "ar": "معلومات غير واضحة",
+          "en": "Unclear labeling information"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "غسل وتعقيم الخضروات",
+        "en": "Washing and sanitizing vegetables"
+      },
+      "reasons": [
+        {
+          "ar": "غسل وتعقيم الخضروات",
+          "en": "Improper washing and sanitizing of vegetables"
+        },
+        {
+          "ar": "عدم استخدام محلول التعقيم",
+          "en": "Did not use sanitizing solution"
+        },
+        {
+          "ar": "مدة نقع أقل من 90 ثانية",
+          "en": "Soaking time less than 90 seconds"
+        },
+        {
+          "ar": "عدم الشطف بعد التعقيم",
+          "en": "Did not rinse after sanitizing"
+        },
+        {
+          "ar": "استخدام ماء غير مناسب",
+          "en": "Used improper water"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة التحضير",
+        "en": "Preparation quality"
+      },
+      "reasons": [
+        {
+          "ar": "استخدام مواد منخفضة الجودة",
+          "en": "Used low-quality ingredients"
+        },
+        {
+          "ar": "طماطم تالفة/طرية جداً",
+          "en": "Damaged or overly soft tomatoes"
+        },
+        {
+          "ar": "تقطيع غير صحيح",
+          "en": "Incorrect cutting"
+        },
+        {
+          "ar": "عدم استخدام الأدوات المخصصة",
+          "en": "Did not use designated tools"
+        },
+        {
+          "ar": "عدم فحص الجودة قبل الاستخدام",
+          "en": "Did not check quality before use"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إعادة نقع البصل",
+        "en": "Onion soaking process"
+      },
+      "reasons": [
+        {
+          "ar": "مدة النقع أقل من ساعة",
+          "en": "Soaking time less than one hour"
+        },
+        {
+          "ar": "كمية ماء غير صحيحة",
+          "en": "Incorrect water quantity"
+        },
+        {
+          "ar": "عدم إزالة الشوائب",
+          "en": "Did not remove impurities"
+        },
+        {
+          "ar": "عدم وضع ملصق",
+          "en": "No label applied"
+        },
+        {
+          "ar": "تخزين غير صحيح",
+          "en": "Improper storage"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إذابة الخبز",
+        "en": "Bread thawing"
+      },
+      "reasons": [
+        {
+          "ar": "وضع الخبز على الأرض",
+          "en": "Placed bread on the floor"
+        },
+        {
+          "ar": "مدة إذابة غير كافية",
+          "en": "Insufficient thawing time"
+        },
+        {
+          "ar": "تكديس زائد",
+          "en": "Overstacking"
+        },
+        {
+          "ar": "عدم تطبيق FIFO",
+          "en": "FIFO not applied"
+        },
+        {
+          "ar": "عدم الالتزام بجدول الإذابة",
+          "en": "Did not follow thawing schedule"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تلطيف الجبن",
+        "en": "Tempering cheese"
+      },
+      "reasons": [
+        {
+          "ar": "درجة حرارة غير صحيحة",
+          "en": "Incorrect temperature"
+        },
+        {
+          "ar": "الجبن مكشوف أكثر من ساعتين",
+          "en": "Cheese left uncovered for more than 2 hours"
+        },
+        {
+          "ar": "عدم وجود ملصق",
+          "en": "Missing label"
+        },
+        {
+          "ar": "استخدام جبن بارد مباشرة",
+          "en": "Used cheese directly from cold storage"
+        },
+        {
+          "ar": "سوء تخزين",
+          "en": "Improper storage"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إعادة تعبئة اللحوم والدجاج",
+        "en": "Refilling meat and chicken"
+      },
+      "reasons": [
+        {
+          "ar": "تعبئة كمية زائدة",
+          "en": "Overstocking quantity"
+        },
+        {
+          "ar": "عدم التنسيق مع المدير",
+          "en": "Did not coordinate with manager"
+        },
+        {
+          "ar": "عدم الالتزام بمدة الساعتين",
+          "en": "Did not follow the 2-hour rule"
+        },
+        {
+          "ar": "تخزين غير صحيح",
+          "en": "Improper storage"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيم ونظافة منطقة السنك",
+        "en": "Sink area organization and cleanliness"
+      },
+      "reasons": [
+        {
+          "ar": "تنظيم ونظافة الباك روم",
+          "en": "Backroom not organized or clean"
+        },
+        {
+          "ar": "أدوات غير مرتبة",
+          "en": "Tools not organized"
+        },
+        {
+          "ar": "وجود تلوث متبادل",
+          "en": "Cross-contamination present"
+        },
+        {
+          "ar": "تخزين غير منظم",
+          "en": "Unorganized storage"
+        },
+        {
+          "ar": "المنطقة غير جافة",
+          "en": "Area not dry"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 6,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 7,
+      "max": 9,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 10,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

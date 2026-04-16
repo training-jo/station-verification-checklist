@@ -1,0 +1,302 @@
+{
+  "title": {
+    "ar": "تقديم تجربة خدمة متميزة للضيوف",
+    "en": "Delivering an Exceptional Guest Experience"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "الترحيب والانطباع الأول",
+        "en": "Greeting and first impression"
+      },
+      "reasons": [
+        {
+          "ar": "انشغال الموظف بجهاز الكاشير وعدم الانتباه لوصول الضيف",
+          "en": "Focused on the POS and did not notice the guest arrival"
+        },
+        {
+          "ar": "عدم وجود تواصل بصري أو ابتسامة",
+          "en": "No eye contact or smile"
+        },
+        {
+          "ar": "لغة جسد ضعيفة (وقفة غير احترافية / بدون طاقة)",
+          "en": "Weak body language (unprofessional posture / low energy)"
+        },
+        {
+          "ar": "عدم استخدام تحية مناسبة أو استخدام تحية بشكل آلي",
+          "en": "Did not use a proper greeting or used it in a robotic way"
+        },
+        {
+          "ar": "الضغط أو الزحمة تؤثر على سلوك الموظف",
+          "en": "Pressure or rush affected the employee’s behavior"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التفاعل الإيجابي مع الضيف",
+        "en": "Positive interaction with the guest"
+      },
+      "reasons": [
+        {
+          "ar": "استخدام كلمات قصيرة وجافة (مثل: نعم / انتظر)",
+          "en": "Used short and dry responses (e.g., yes / wait)"
+        },
+        {
+          "ar": "عدم محاولة بناء تواصل أو علاقة مع الضيف",
+          "en": "Did not attempt to build rapport with the guest"
+        },
+        {
+          "ar": "نبرة صوت غير ودودة أو بدون حماس",
+          "en": "Unfriendly or low-energy tone of voice"
+        },
+        {
+          "ar": "ضعف الثقة أثناء الحديث",
+          "en": "Lack of confidence while speaking"
+        },
+        {
+          "ar": "عدم التعامل الجيد مع اختلاف اللغة",
+          "en": "Did not handle language differences effectively"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "عقلية (الضيف أولاً)",
+        "en": "Guest-first mindset"
+      },
+      "reasons": [
+        {
+          "ar": "التركيز على المهام أكثر من الضيف (تنظيف، حديث جانبي…)",
+          "en": "Focused on tasks more than the guest (cleaning, side conversations, etc.)"
+        },
+        {
+          "ar": "عدم فهم رحلة الضيف داخل المطعم",
+          "en": "Does not understand the guest journey inside the restaurant"
+        },
+        {
+          "ar": "ضعف التدريب على الأولويات",
+          "en": "Lack of training on prioritization"
+        },
+        {
+          "ar": "عدم تحمّل مسؤولية تجربة الضيف",
+          "en": "Does not take ownership of the guest experience"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الاستماع الجيد للضيف",
+        "en": "Active listening to the guest"
+      },
+      "reasons": [
+        {
+          "ar": "مقاطعة الضيف أثناء الحديث",
+          "en": "Interrupted the guest while speaking"
+        },
+        {
+          "ar": "عدم التركيز (تشتيت الانتباه)",
+          "en": "Lack of focus (easily distracted)"
+        },
+        {
+          "ar": "سوء الفهم بسبب الاستعجال",
+          "en": "Misunderstood due to rushing"
+        },
+        {
+          "ar": "عدم تأكيد الطلب أو المعلومة",
+          "en": "Did not confirm the order or information"
+        },
+        {
+          "ar": "قلة الصبر أثناء الاستماع",
+          "en": "Lack of patience while listening"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دقة الطلب",
+        "en": "Order accuracy"
+      },
+      "reasons": [
+        {
+          "ar": "الاستعجال أثناء أخذ الطلب",
+          "en": "Rushed while taking the order"
+        },
+        {
+          "ar": "عدم إعادة الطلب للتأكيد",
+          "en": "Did not repeat the order for confirmation"
+        },
+        {
+          "ar": "أخطاء في إدخال الطلب على النظام",
+          "en": "Incorrect order entry in the system"
+        },
+        {
+          "ar": "فقدان التركيز أثناء أوقات الذروة",
+          "en": "Lost focus during peak times"
+        },
+        {
+          "ar": "ضعف التواصل",
+          "en": "Poor communication"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "سرعة الخدمة",
+        "en": "Speed of service"
+      },
+      "reasons": [
+        {
+          "ar": "ضعف التنسيق بين المحطات",
+          "en": "Poor coordination between stations"
+        },
+        {
+          "ar": "عدم جاهزية الفريق أو التنظيم",
+          "en": "Team not ready or poorly organized"
+        },
+        {
+          "ar": "بطء الاستجابة",
+          "en": "Slow response time"
+        },
+        {
+          "ar": "عدم وجود عقلية السرعة",
+          "en": "Lack of speed mindset"
+        },
+        {
+          "ar": "وجود اختناقات في المطبخ أو الخدمة",
+          "en": "Bottlenecks in kitchen or service flow"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلوك الودي والضيافة",
+        "en": "Friendly behavior and hospitality"
+      },
+      "reasons": [
+        {
+          "ar": "الحالة النفسية تؤثر على الأداء",
+          "en": "Mood affects performance"
+        },
+        {
+          "ar": "انخفاض مستوى الحماس",
+          "en": "Low energy level"
+        },
+        {
+          "ar": "عدم فهم ثقافة الضيافة",
+          "en": "Does not understand hospitality culture"
+        },
+        {
+          "ar": "عدم متابعة الضيف",
+          "en": "Did not follow up with the guest"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع شكاوى الضيوف",
+        "en": "Handling guest complaints"
+      },
+      "reasons": [
+        {
+          "ar": "عدم معرفة خطوات التعامل مع الشكوى (استمع – اعتذر – حل)",
+          "en": "Does not know complaint handling steps (Listen – Apologize – Solve)"
+        },
+        {
+          "ar": "الخوف من التعامل مع ضيف غاضب",
+          "en": "Afraid to deal with an upset guest"
+        },
+        {
+          "ar": "اتخاذ موقف دفاعي",
+          "en": "Took a defensive attitude"
+        },
+        {
+          "ar": "التأخر في حل المشكلة",
+          "en": "Delayed resolving the issue"
+        },
+        {
+          "ar": "عدم معرفة متى يجب ابلاغ المدير",
+          "en": "Did not know when to involve the manager"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "ترك انطباع أخير إيجابي",
+        "en": "Leaving a positive last impression"
+      },
+      "reasons": [
+        {
+          "ar": "عدم توديع الضيف بشكل مناسب",
+          "en": "Did not properly thank or say goodbye to the guest"
+        },
+        {
+          "ar": "خروج الضيف بدون أي تفاعل",
+          "en": "Guest left without any interaction"
+        },
+        {
+          "ar": "انشغال الموظف مباشرة بعمل آخر",
+          "en": "Employee immediately shifted to another task"
+        },
+        {
+          "ar": "عدم وجود تواصل بصري عند المغادرة",
+          "en": "No eye contact when the guest left"
+        },
+        {
+          "ar": "عدم إدراك أهمية الانطباع الأخير",
+          "en": "Does not understand the importance of the last impression"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "بناء ولاء الضيف",
+        "en": "Building guest loyalty"
+      },
+      "reasons": [
+        {
+          "ar": "عدم ثبات مستوى الخدمة",
+          "en": "Inconsistent service quality"
+        },
+        {
+          "ar": "عدم محاولة تجاوز توقعات الضيف",
+          "en": "Did not attempt to exceed guest expectations"
+        },
+        {
+          "ar": "عدم تخصيص الخدمة (لا يتم الاهتمام باحتياجات الضيف الخاصة)",
+          "en": "Service not personalized (guest needs not considered)"
+        },
+        {
+          "ar": "تجاهل الضيوف المتكررين",
+          "en": "Ignored returning guests"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 4,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 5,
+      "max": 7,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 8,
+      "max": 10,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

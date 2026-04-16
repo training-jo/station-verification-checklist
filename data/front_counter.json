@@ -1,0 +1,190 @@
+{
+  "title": {
+    "ar": "محطة الكاونتر الأمامي",
+    "en": "Front Counter Station"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية وسلامة الغذاء",
+        "en": "Personal hygiene and food safety"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه بشكل منتظم (كل ساعة)", "en": "Does not wash hands regularly (every hour)" },
+        { "ar": "ضعف في النظافة الشخصية", "en": "Poor personal hygiene" },
+        { "ar": "ارتداء إكسسوارات", "en": "Wearing accessories" },
+        { "ar": "يلمس الوجه أثناء العمل", "en": "Touching face during service" },
+        { "ar": "يعمل وهو مريض دون إبلاغ", "en": "Works while sick without reporting" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التحية والانطباع الأول",
+        "en": "Greeting and first impression"
+      },
+      "reasons": [
+        { "ar": "لا يرحب بالعميل خلال 5 ثواني", "en": "Does not greet customer within 5 seconds" },
+        { "ar": "لا يبتسم أو لا يوجد تواصل بصري", "en": "No smile or eye contact" },
+        { "ar": "نبرة صوت غير ودودة", "en": "Tone not friendly" },
+        { "ar": "لا يستخدم عبارة ترحيب مناسبة", "en": "Does not use proper greeting phrase" },
+        { "ar": "انطباع أول ضعيف", "en": "Poor first impression" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دقة أخذ الطلب",
+        "en": "Order taking accuracy"
+      },
+      "reasons": [
+        { "ar": "إدخال الطلب بشكل خاطئ", "en": "Incorrect order entry" },
+        { "ar": "نواقص في الطلب", "en": "Missing items or add-ons" },
+        { "ar": "لا يؤكد الطلب", "en": "Does not confirm order" },
+        { "ar": "يقاطع العميل", "en": "Interrupts customer" },
+        { "ar": "ضعف الاستماع", "en": "Poor listening skills" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "البيع الإضافي والتفاعل مع العميل",
+        "en": "Upselling and customer interaction"
+      },
+      "reasons": [
+        { "ar": "لا يقترح إضافات", "en": "Does not suggest additional items" },
+        { "ar": "لا يروج للعروض", "en": "Does not promote offers" },
+        { "ar": "يستخدم أسئلة غير مناسبة", "en": "Uses open-ended questions incorrectly" },
+        { "ar": "ضعف التفاعل مع العميل", "en": "Weak interaction with customer" },
+        { "ar": "يفوت فرص البيع", "en": "Misses upselling opportunities" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إدخال الطلب والتعامل مع النظام",
+        "en": "Order entry and POS handling"
+      },
+      "reasons": [
+        { "ar": "بطء في إدخال الطلب", "en": "Slow order entry" },
+        { "ar": "استخدام غير صحيح لـ POS", "en": "Incorrect POS usage" },
+        { "ar": "لا يعلن المبلغ بوضوح", "en": "Does not announce total clearly" },
+        { "ar": "أخطاء في النظام", "en": "Errors in system handling" },
+        { "ar": "ضعف التركيز", "en": "Poor focus" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الالتزام بسرعة الخدمة",
+        "en": "Speed of service compliance"
+      },
+      "reasons": [
+        { "ar": "لا يلتزم بوقت التحية (≤5 ثواني)", "en": "Does not meet greeting time (≤5 sec)" },
+        { "ar": "لا يلتزم بوقت أخذ الطلب (≤25 ثانية)", "en": "Does not meet order time (≤25 sec)" },
+        { "ar": "لا يلتزم بوقت الكاشير (≤15 ثانية)", "en": "Does not meet cashier time (≤15 sec)" },
+        { "ar": "لا يلتزم بوقت التجهيز (≤60 ثانية)", "en": "Does not meet assembly time (≤60 sec)" },
+        { "ar": "تجاوز الوقت الإجمالي (120 ثانية)", "en": "Total service time exceeds (120 sec)" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع الدفع",
+        "en": "Payment handling (cashier)"
+      },
+      "reasons": [
+        { "ar": "لا يعيد ذكر المبلغ", "en": "Does not repeat total amount" },
+        { "ar": "أخطاء في التعامل مع النقد", "en": "Incorrect cash handling" },
+        { "ar": "لا يعد الباقي بشكل صحيح", "en": "Does not count change properly" },
+        { "ar": "ضعف التركيز أثناء الدفع", "en": "Poor attention during payment" },
+        { "ar": "لا يلتزم بالخطوات", "en": "Does not follow payment steps" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تجهيز الطلب",
+        "en": "Order preparation and assembly"
+      },
+      "reasons": [
+        { "ar": "لا يتبع ترتيب التجهيز الصحيح", "en": "Does not follow correct sequence" },
+        { "ar": "عناصر ناقصة", "en": "Missing items" },
+        { "ar": "لا يفحص جودة المنتجات", "en": "Does not check product quality" },
+        { "ar": "لا يلتزم بمدة الحفظ", "en": "Ignores holding time" },
+        { "ar": "سوء التنظيم", "en": "Poor organization" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة المنتج",
+        "en": "Product quality control"
+      },
+      "reasons": [
+        { "ar": "البطاطس غير طازجة (أكثر من 7 دقائق)", "en": "Fries not fresh (exceeds 7 min)" },
+        { "ar": "مشروبات غير باردة", "en": "Cold or poor-quality drinks" },
+        { "ar": "جودة الساندويش غير جيدة", "en": "Sandwich quality not checked" },
+        { "ar": "تقديم منتج منتهي", "en": "Serving expired products" },
+        { "ar": "مظهر غير جيد", "en": "Poor presentation" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تسليم الطلب",
+        "en": "Order handover"
+      },
+      "reasons": [
+        { "ar": "لا يراجع الطلب مع الإيصال", "en": "Does not re-check order with receipt" },
+        { "ar": "نواقص (صلصات / مناديل)", "en": "Missing condiments / napkins" },
+        { "ar": "تسليم طلب خاطئ", "en": "Incorrect order handed" },
+        { "ar": "مظهر غير احترافي", "en": "Poor presentation of bag" },
+        { "ar": "لا يلتزم بترتيب التسليم", "en": "Does not follow handover sequence" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تجربة العميل والضيافة",
+        "en": "Customer experience and hospitality"
+      },
+      "reasons": [
+        { "ar": "لا يبتسم", "en": "Does not smile" },
+        { "ar": "ضعف التواصل", "en": "Poor communication" },
+        { "ar": "لا يشكر العميل", "en": "Does not thank customer" },
+        { "ar": "لا يدعو للعودة", "en": "Does not invite customer to return" },
+        { "ar": "ضعف ثقافة الضيافة", "en": "Weak hospitality culture" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "النظافة وتنظيم المحطة",
+        "en": "Cleanliness and station organization"
+      },
+      "reasons": [
+        { "ar": "المحطة غير نظيفة", "en": "Station not clean" },
+        { "ar": "سوء التنظيم", "en": "Poor organization" },
+        { "ar": "نقص في المواد", "en": "Missing materials (bags, condiments)" },
+        { "ar": "المعدات غير جاهزة", "en": "Equipment not ready" },
+        { "ar": "ضعف إدارة المخزون", "en": "Poor stock control" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 9,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 10,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

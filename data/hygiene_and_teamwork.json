@@ -1,0 +1,298 @@
+{
+  "title": {
+    "ar": "النظافة الشخصية والعمل الجماعي",
+    "en": "Personal Hygiene & Teamwork"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "الالتزام بالزي الرسمي",
+        "en": "Adherence to uniform standards"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يتأكد من نظافة وكوي الزي قبل الشفت",
+          "en": "Does not ensure uniform is clean and ironed before the shift"
+        },
+        {
+          "ar": "الموظف يرتدي الزي بطريقة غير صحيحة",
+          "en": "Wears the uniform incorrectly"
+        },
+        {
+          "ar": "الموظف لا يلبس بطاقة الاسم",
+          "en": "Does not wear name badge"
+        },
+        {
+          "ar": "الموظف يهمل ترتيب الزي أثناء العمل",
+          "en": "Does not maintain uniform appearance during work"
+        },
+        {
+          "ar": "الموظف لا يراجع مظهره خلال الشفت",
+          "en": "Does not check appearance during the shift"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يغسل يديه حسب الإجراء المطلوب",
+          "en": "Does not wash hands according to required procedure"
+        },
+        {
+          "ar": "الموظف لا يستخدم معقم اليدين عند الحاجة",
+          "en": "Does not use hand sanitizer when required"
+        },
+        {
+          "ar": "الموظف لا يحافظ على نظافة الأظافر",
+          "en": "Does not maintain clean nails"
+        },
+        {
+          "ar": "الموظف لا يلتزم بترتيب الشعر أو ارتداء الشبكة",
+          "en": "Does not maintain proper hair grooming or wear hairnet"
+        },
+        {
+          "ar": "الموظف يهمل النظافة الشخصية أثناء الشفت",
+          "en": "Neglects personal hygiene during the shift"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الالتزام بالحضور والانضباط",
+        "en": "Attendance and discipline"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف يتأخر عن بداية الشفت",
+          "en": "Arrives late to the shift"
+        },
+        {
+          "ar": "الموظف لا يبلغ عن التأخير مسبقًا",
+          "en": "Does not inform about lateness in advance"
+        },
+        {
+          "ar": "الموظف لا يلتزم بوقت العودة من البريك",
+          "en": "Does not return on time from break"
+        },
+        {
+          "ar": "الموظف يترك المحطة بدون تنسيق",
+          "en": "Leaves the station without coordination"
+        },
+        {
+          "ar": "الموظف لا يدرك تأثير تأخره على الفريق",
+          "en": "Does not understand the impact of lateness on the team"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الالتزام بالإجراءات",
+        "en": "Following procedures"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يتبع خطوات العمل الصحيحة",
+          "en": "Does not follow correct work steps"
+        },
+        {
+          "ar": "الموظف يختصر الإجراءات لتوفير الوقت",
+          "en": "Shortcuts procedures to save time"
+        },
+        {
+          "ar": "الموظف يعمل بطريقة عشوائية",
+          "en": "Works in an inconsistent or random way"
+        },
+        {
+          "ar": "الموظف لا يراجع التعليمات",
+          "en": "Does not review instructions"
+        },
+        {
+          "ar": "الموظف يكرر نفس الأخطاء بدون تصحيح",
+          "en": "Repeats the same mistakes without correction"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الحفاظ على نظافة المحطة (Clean as You Go)",
+        "en": "Maintaining station cleanliness (Clean as You Go)"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا ينظف أثناء العمل",
+          "en": "Does not clean during work"
+        },
+        {
+          "ar": "الموظف لا يعيد تعبئة المستلزمات",
+          "en": "Does not restock supplies"
+        },
+        {
+          "ar": "الموظف يتجاهل الانسكابات أو الأوساخ",
+          "en": "Ignores spills or dirt"
+        },
+        {
+          "ar": "الموظف يعتمد على غيره في التنظيف",
+          "en": "Relies on others for cleaning"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "طلب المساعدة عند الحاجة",
+        "en": "Asking for help when needed"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يطلب المساعدة رغم تأخره",
+          "en": "Does not ask for help despite falling behind"
+        },
+        {
+          "ar": "الموظف يحاول العمل وحده رغم الضغط",
+          "en": "Tries to work alone despite pressure"
+        },
+        {
+          "ar": "الموظف يتردد في طلب الدعم",
+          "en": "Hesitates to ask for support"
+        },
+        {
+          "ar": "الموظف لا يتواصل مع الفريق",
+          "en": "Does not communicate with the team"
+        },
+        {
+          "ar": "الموظف لا يبلغ المدير عند وجود مشكلة",
+          "en": "Does not inform the manager when there is an issue"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "مساعدة الزملاء",
+        "en": "Supporting team members"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يعرض المساعدة على الزملاء",
+          "en": "Does not offer help to colleagues"
+        },
+        {
+          "ar": "الموظف يركز فقط على محطته",
+          "en": "Focuses only on own station"
+        },
+        {
+          "ar": "الموظف يتجاهل الضغط في المحطات الأخرى",
+          "en": "Ignores pressure in other stations"
+        },
+        {
+          "ar": "الموظف لا يتحرك لدعم الفريق",
+          "en": "Does not move to support the team"
+        },
+        {
+          "ar": "الموظف لا يبادر بالمساعدة أثناء الذروة",
+          "en": "Does not take initiative to help during peak time"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التواصل مع الفريق",
+        "en": "Communication with the team"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يكرر الطلبات للتأكيد",
+          "en": "Does not repeat requests for confirmation"
+        },
+        {
+          "ar": "الموظف لا يتواصل بوضوح مع الزملاء",
+          "en": "Does not communicate clearly with colleagues"
+        },
+        {
+          "ar": "الموظف يسبب سوء فهم بسبب ضعف التواصل",
+          "en": "Causes misunderstandings due to poor communication"
+        },
+        {
+          "ar": "الموظف لا يبلغ عن نقص المنتجات",
+          "en": "Does not report product shortages"
+        },
+        {
+          "ar": "الموظف لا ينقل المعلومات المهمة",
+          "en": "Does not pass important information"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "احترام الجميع",
+        "en": "Respecting everyone"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف يتعامل بأسلوب غير محترم",
+          "en": "Uses disrespectful behavior"
+        },
+        {
+          "ar": "الموظف لا يستخدم كلمات مثل “من فضلك” و “شكراً",
+          "en": "Does not use polite words like 'please' and 'thank you'"
+        },
+        {
+          "ar": "الموظف لا ينادي الزملاء بأسمائهم",
+          "en": "Does not address colleagues by name"
+        },
+        {
+          "ar": "الموظف يتصرف بشكل سلبي مع الفريق",
+          "en": "Displays negative behavior toward the team"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تقدير جهود الآخرين",
+        "en": "Appreciating others’ efforts"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يشكر من يساعده",
+          "en": "Does not thank those who help"
+        },
+        {
+          "ar": "الموظف لا يقدّر جهود الفريق",
+          "en": "Does not appreciate team efforts"
+        },
+        {
+          "ar": "الموظف يركز فقط على الأخطاء",
+          "en": "Focuses only on mistakes"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 4,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 5,
+      "max": 7,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 8,
+      "max": 10,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

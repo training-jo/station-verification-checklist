@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <script>const token = localStorage.getItem("token");
+    if (!token) {
+    window.location.href = "login.html";} </script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Station Verification Checklist</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="auth.js"></script>
+  <script>checkAuth();</script>
+  
+</head>
+<body>
+  
+  <div id = "adminPanel" style="display: none;">
+    <button onclick="openAdmin()">Admin Panel</button>  
+  </div>
+
+  <div class="lang-switcher"> 
+  <span class="lang-label">EN</span>
+
+  <div class="lang-toggle" id="langToggle">
+    <div class="toggle-circle"></div>
+  </div>
+
+  <span class="lang-label">AR</span>
+  </div>
+
+  
+  
+  <div class="page-shell">
+    <div class="hero">
+        <img src="images/juniors-logo.png" alt="Junior's Logo" class="hero-logo">
+
+        <div class="hero-badge">Junior's Training Department</div>
+
+        <div class="hero-top">
+          <button class="logout-btn" onclick="logout()">Logout</button>
+        </div>
+        
+        
+        <h1 id="heroTitle">Station Verification Checklist</h1>
+        
+
+        <p id="heroSubtitle">Select the station to open the station verification checklist</p>
+
+        
+    </div>
+
+    <div class="container">
+      <div class="section-header">
+        <h2 id="sectionTitle">Available Stations</h2>
+        <span class="section-line"></span>
+      </div>
+
+      <div id="list" class="station-grid"></div>
+    </div>
+  </div>
+
+  <script src="app/index.js"></script>
+</body>
+</html>

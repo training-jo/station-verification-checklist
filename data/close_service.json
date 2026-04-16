@@ -1,0 +1,203 @@
+{
+  "title": {
+    "ar": "محطة إغلاق الخدمة",
+    "en": "Closing Service Station"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية وسلامة الغذاء",
+        "en": "Personal hygiene and food safety"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه بشكل منتظم (كل ساعة)", "en": "Does not wash hands regularly (every hour)" },
+        { "ar": "ضعف في النظافة الشخصية", "en": "Poor personal hygiene" },
+        { "ar": "لا يرتدي القفازات أو غطاء الرأس", "en": "Does not wear gloves or hair net" },
+        { "ar": "يلمس الوجه أثناء الخدمة", "en": "Touching face during service" },
+        { "ar": "لا يلتزم بإجراءات سلامة الغذاء", "en": "Does not follow food safety procedures" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التحضير قبل الإغلاق",
+        "en": "Pre-close preparation"
+      },
+      "reasons": [
+        { "ar": "لا ينفذ مهام Pre-Close مبكراً", "en": "Does not complete pre-close tasks early" },
+        { "ar": "يؤثر على خدمة العملاء", "en": "Pre-close affects customer service" },
+        { "ar": "ضعف التخطيط", "en": "Poor planning before closing" },
+        { "ar": "سوء تنظيم المحطة", "en": "Does not organize station" },
+        { "ar": "تأخير الإغلاق", "en": "Delays closing process" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف منطقة الخدمة",
+        "en": "Service area cleaning"
+      },
+      "reasons": [
+        { "ar": "الكاونتر غير نظيف", "en": "Counter not cleaned properly" },
+        { "ar": "أجهزة POS غير نظيفة", "en": "POS and equipment not cleaned" },
+        { "ar": "منطقة المشروبات غير نظيفة", "en": "Beverage area not cleaned" },
+        { "ar": "ركن الإضافات غير نظيف", "en": "Condiment stations dirty" },
+        { "ar": "ضعف التعقيم", "en": "Poor sanitation of surfaces" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف منطقة العملاء",
+        "en": "Lobby and customer area cleaning"
+      },
+      "reasons": [
+        { "ar": "الطاولات غير نظيفة", "en": "Tables not cleaned" },
+        { "ar": "الكراسي متسخة", "en": "Chairs and seating areas dirty" },
+        { "ar": "الحاويات غير نظيفة", "en": "Waste bins not cleaned" },
+        { "ar": "دورات المياه غير نظيفة", "en": "Restrooms not cleaned" },
+        { "ar": "ضعف النظافة العامة", "en": "Poor overall cleanliness" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف وتلميع الستانلس ستيل",
+        "en": "Stainless steel cleaning and polishing"
+      },
+      "reasons": [
+        { "ar": "لا يلمع الأسطح المستخدمة بكثرة", "en": "Does not polish frequently used surfaces" },
+        { "ar": "استخدام طريقة خاطئة", "en": "Uses incorrect cleaning method" },
+        { "ar": "وجود بقع أو دهون", "en": "Leaves stains or grease" },
+        { "ar": "لا يلتزم بالتكرار", "en": "Does not follow polishing frequency" },
+        { "ar": "ضعف التفاصيل", "en": "Poor attention to detail" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف الأرضيات والسلامة",
+        "en": "Floor cleaning and safety"
+      },
+      "reasons": [
+        { "ar": "الأرضيات غير نظيفة", "en": "Floors not swept and mopped" },
+        { "ar": "لا يستخدم مواد التنظيف المناسبة", "en": "Does not use proper cleaning solution" },
+        { "ar": "لا ينظف مناطق الدهون", "en": "High grease areas not scrubbed" },
+        { "ar": "لا ينظف تحت المعدات", "en": "Misses areas under equipment" },
+        { "ar": "خطر انزلاق أو تلوث", "en": "Risk of slips or contamination" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف المعدات (الخدمة)",
+        "en": "Equipment cleaning (service area)"
+      },
+      "reasons": [
+        { "ar": "أجهزة المشروبات غير نظيفة", "en": "Drink machines not cleaned" },
+        { "ar": "ماكينة القهوة غير نظيفة", "en": "Coffee machines not cleaned" },
+        { "ar": "حاويات الثلج غير معقمة", "en": "Ice bins not sanitized" },
+        { "ar": "ثلاجة العرض غير نظيفة", "en": "Display cooler not cleaned" },
+        { "ar": "ضعف النظافة", "en": "Poor equipment hygiene" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف القلاية ومنطقة الفرايز",
+        "en": "Fryer and fries area cleaning"
+      },
+      "reasons": [
+        { "ar": "القلاية غير نظيفة", "en": "Fryer not cleaned properly" },
+        { "ar": "لا يفلتر الزيت", "en": "Does not filter oil" },
+        { "ar": "يترك البطاطس في السلال", "en": "Leaves fries in baskets" },
+        { "ar": "لا ينظف الهود", "en": "Does not clean fryer hood" },
+        { "ar": "ضعف الصيانة", "en": "Poor fryer maintenance" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تخزين المنتجات والالتزام بـ FEFO",
+        "en": "Product storage and FEFO compliance"
+      },
+      "reasons": [
+        { "ar": "لا يعيد المنتجات لمكانها", "en": "Does not return products to correct storage" },
+        { "ar": "لا يلتزم بـ FEFO", "en": "Does not follow FEFO system" },
+        { "ar": "يترك المنتجات مفتوحة", "en": "Leaves opened items exposed" },
+        { "ar": "سوء التنظيم", "en": "Poor stock organization" },
+        { "ar": "خطر فساد", "en": "Risk of spoilage" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع الأدوات والفوط",
+        "en": "Utensils and towels handling"
+      },
+      "reasons": [
+        { "ar": "لا يغسل الفوط", "en": "Does not wash towels properly" },
+        { "ar": "أدوات غير نظيفة", "en": "Leaves dirty utensils" },
+        { "ar": "لا يعقم الأدوات", "en": "Does not sanitize equipment" },
+        { "ar": "ضعف التنسيق", "en": "Poor coordination with kitchen" },
+        { "ar": "ضعف النظافة", "en": "Poor hygiene control" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إدارة النفايات",
+        "en": "Waste management"
+      },
+      "reasons": [
+        { "ar": "لا يخرج النفايات", "en": "Trash not removed properly" },
+        { "ar": "لا يغير الأكياس", "en": "Trash liners not replaced" },
+        { "ar": "سوء التعامل مع النفايات", "en": "Poor waste handling" },
+        { "ar": "لا يلتزم بالإجراءات", "en": "Does not follow waste procedures" },
+        { "ar": "مشاكل نظافة", "en": "Causes hygiene issues" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الجاهزية لليوم التالي",
+        "en": "Readiness for next day"
+      },
+      "reasons": [
+        { "ar": "لا يجهز المخزون لليوم التالي", "en": "Does not prepare stock for next day" },
+        { "ar": "نقص في المواد", "en": "Missing cups, bags, or materials" },
+        { "ar": "سوء التنظيم", "en": "Poor organization of storage" },
+        { "ar": "المعدات غير جاهزة", "en": "Equipment not ready" },
+        { "ar": "غير مستعد للافتتاح", "en": "Not ready for opening" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إيقاف المعدات والمراجعة النهائية",
+        "en": "Equipment shutdown and final check"
+      },
+      "reasons": [
+        { "ar": "لا يطفئ المعدات بشكل صحيح", "en": "Equipment not turned off properly" },
+        { "ar": "لا يلتزم بإجراءات الإغلاق", "en": "Does not follow shutdown procedure" },
+        { "ar": "لا يقوم بالمراجعة النهائية", "en": "Skips final checks" },
+        { "ar": "يترك مهام غير مكتملة", "en": "Leaves area incomplete" },
+        { "ar": "ضعف الانضباط", "en": "Poor work discipline" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 6,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 7,
+      "max": 10,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 11,
+      "max": 13,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

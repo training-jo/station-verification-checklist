@@ -1,0 +1,354 @@
+{
+  "title": {
+    "ar": "Bun Person",
+    "en": "Bun Person"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        {
+          "ar": "لا يرتدي قفازات",
+          "en": "Does not wear gloves"
+        },
+        {
+          "ar": "لا يرتدي غطاء رأس",
+          "en": "Does not wear a hairnet"
+        },
+        {
+          "ar": "لا يرتدي غطاء رأس",
+          "en": "Does not wear a hairnet"
+        },
+        {
+          "ar": "لا يغسل يديه بشكل منتظم",
+          "en": "Does not wash hands regularly"
+        },
+        {
+          "ar": "الزي غير نظيف",
+          "en": "Uniform is not clean"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "اختيار نوع الخبز الصحيح",
+        "en": "Selecting the correct bun type"
+      },
+      "reasons": [
+        {
+          "ar": "اختيار نوع خبز خاطئ",
+          "en": "Selected incorrect bun type"
+        },
+        {
+          "ar": "الخلط بين الأحجام (4 إنش، 5 إنش، تورتيلا…)",
+          "en": "Confused sizes (4-inch, 5-inch, tortilla, etc.)"
+        },
+        {
+          "ar": "عدم متابعة شاشة KVS",
+          "en": "Did not monitor KVS screen"
+        },
+        {
+          "ar": "ضعف معرفة المنتجات",
+          "en": "Lack of product knowledge"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "فحص جودة الخبز قبل التحميص",
+        "en": "Checking bun quality before toasting"
+      },
+      "reasons": [
+        {
+          "ar": "فحص جودة الخبز قبل التحميص",
+          "en": "Did not properly check bun quality before toasting"
+        },
+        {
+          "ar": "استخدام خبز ناشف أو قاسي",
+          "en": "Used dry or hard bun"
+        },
+        {
+          "ar": "استخدام خبز تالف",
+          "en": "Used damaged bun"
+        },
+        {
+          "ar": "تجاهل معايير الجودة",
+          "en": "Ignored quality standards"
+        },
+        {
+          "ar": "ترك أكياس الخبز مكشوفة",
+          "en": "Left bun bags uncovered"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "اعدادات التوستر",
+        "en": "Toaster settings"
+      },
+      "reasons": [
+        {
+          "ar": "عدم معرفة درجة الحرارة",
+          "en": "Does not know temperature settings"
+        },
+        {
+          "ar": "عدم معرفة وقت التحميص",
+          "en": "Does not know toasting time"
+        },
+        {
+          "ar": "عدم معرفة مدة الاحماء",
+          "en": "Does not know preheating time"
+        },
+        {
+          "ar": "إعداد جهاز التحميص",
+          "en": "Incorrect toaster setup"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "عملية التحميص",
+        "en": "Toasting process"
+      },
+      "reasons": [
+        {
+          "ar": "وضع الخبز بطريقة خاطئة",
+          "en": "Placed bun incorrectly"
+        },
+        {
+          "ar": "إدخال أكثر من 2 خبز معًا",
+          "en": "Inserted more than 2 buns at once"
+        },
+        {
+          "ar": "تحميص كمية خبز كثيرة بينما لا يوجد ساندويش على خط التحضير",
+          "en": "Toasted excessive buns without active orders"
+        },
+        {
+          "ar": "عدم تغطية أكياس الخبز بعد أخذ الخبز",
+          "en": "Did not cover bun bags after use"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة التحميص",
+        "en": "Toasting quality"
+      },
+      "reasons": [
+        {
+          "ar": "خبز غير محمص جيدًا",
+          "en": "Bun not properly toasted"
+        },
+        {
+          "ar": "خبز محروق",
+          "en": "Burnt bun"
+        },
+        {
+          "ar": "خبز ناشف",
+          "en": "Dry bun"
+        },
+        {
+          "ar": "خبز غير ساخن",
+          "en": "Bun not hot"
+        },
+        {
+          "ar": "عدم معرفة درجة التحميص المقبولة",
+          "en": "Does not know acceptable toasting level"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إدارة منطقة نزول الخبز في التوستر BBLZ",
+        "en": "Managing bun landing zone (BBLZ)"
+      },
+      "reasons": [
+        {
+          "ar": "الاحتفاظ بالخبز أكثر من دقيقتين",
+          "en": "Held buns for more than 2 minutes"
+        },
+        {
+          "ar": "عدم تطبيق FIFO",
+          "en": "FIFO not applied"
+        },
+        {
+          "ar": "سوء تنظيم المنطقة",
+          "en": "Poor area organization"
+        },
+        {
+          "ar": "لا يقوم بتجهيز الساندويش اثناء انشغال موظف التجهيز Dresser",
+          "en": "Did not assist sandwich preparation when dresser was busy"
+        },
+        {
+          "ar": "لا يلتزم بموقعه",
+          "en": "Did not stay in assigned position"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع الطلبات على شاشة KVS",
+        "en": "Handling orders on KVS screen"
+      },
+      "reasons": [
+        {
+          "ar": "بطء في الاستجابة للشاشة",
+          "en": "Slow response to screen"
+        },
+        {
+          "ar": "عدم ترتيب الأولويات",
+          "en": "Did not prioritize orders"
+        },
+        {
+          "ar": "عدم اتباع مبدأ تحضير طلب واحد كل مرة",
+          "en": "Did not follow one-order-at-a-time principle"
+        },
+        {
+          "ar": "تأخير في عمل Bump",
+          "en": "Delayed bumping orders"
+        },
+        {
+          "ar": "عدم استخدام ملصقات للطلبات الخاصة",
+          "en": "Did not use labels for special orders"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دعم تجهيز الساندويش",
+        "en": "Supporting sandwich assembly"
+      },
+      "reasons": [
+        {
+          "ar": "عدم البدء عند انشغال الموظف الآخر",
+          "en": "Did not step in when other employee was busy"
+        },
+        {
+          "ar": "تأخير تمرير الساندويش",
+          "en": "Delayed passing sandwiches"
+        },
+        {
+          "ar": "ضعف التنسيق",
+          "en": "Poor coordination"
+        },
+        {
+          "ar": "ترك المحطة بدون دعم",
+          "en": "Left station without support"
+        },
+        {
+          "ar": "عدم وجود إحساس بالسرعة",
+          "en": "Lack of sense of urgency"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التغليف الصحيح",
+        "en": "Proper packaging"
+      },
+      "reasons": [
+        {
+          "ar": "اختيار علبة أو راب خاطئة",
+          "en": "Selected incorrect box or wrap"
+        },
+        {
+          "ar": "وضع الخبز بشكل غير صحيح (Heel / Crown)",
+          "en": "Incorrect bun placement (Heel / Crown)"
+        },
+        {
+          "ar": "عدم وضع ملصق الطلب الخاص",
+          "en": "Did not apply special order label"
+        },
+        {
+          "ar": "ترتيب غير صحيح داخل العلبة",
+          "en": "Incorrect arrangement inside the box"
+        },
+        {
+          "ar": "عدم وضع الراب او البوكس مع الخبز",
+          "en": "Did not prepare wrap or box with bun"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التحكم بالإنتاج",
+        "en": "Production control"
+      },
+      "reasons": [
+        {
+          "ar": "عدم الالتزام بقاعدة 2 خبز",
+          "en": "Did not follow 2-bun rule"
+        },
+        {
+          "ar": "ضعف التحكم بالإنتاج",
+          "en": "Poor production control"
+        },
+        {
+          "ar": "وجود نقص في الطلبات",
+          "en": "Shortage in orders"
+        },
+        {
+          "ar": "وجود طلبات زائدة ",
+          "en": "Excess orders prepared"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إدارة المخزون",
+        "en": "Stock management"
+      },
+      "reasons": [
+        {
+          "ar": "نفاد الخبز أثناء الوردية",
+          "en": "Ran out of buns during shift"
+        },
+        {
+          "ar": "عدم إبلاغ المدير",
+          "en": "Did not inform manager"
+        },
+        {
+          "ar": "تخزين غير صحيح",
+          "en": "Improper storage"
+        },
+        {
+          "ar": "عدم تطبيق FIFO",
+          "en": "FIFO not applied"
+        },
+        {
+          "ar": "عدم التنسيق مع الباك روم",
+          "en": "Did not coordinate with backroom"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 6,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 7,
+      "max": 9,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 10,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

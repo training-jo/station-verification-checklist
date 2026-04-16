@@ -1,0 +1,342 @@
+{
+  "title": {
+    "ar": "السلامة و الأمن",
+    "en": "Safety & Security"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "الالتزام بقواعد السلامة العامة",
+        "en": "Adherence to general safety rules"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يلتزم بتعليمات السلامة أثناء العمل",
+          "en": "Does not follow safety instructions during work"
+        },
+        {
+          "ar": "الموظف يتجاهل المخاطر في بيئة العمل",
+          "en": "Ignores hazards in the work environment"
+        },
+        {
+          "ar": "الموظف يتصرف بسرعة بدون انتباه للسلامة",
+          "en": "Acts quickly without considering safety"
+        },
+        {
+          "ar": "الموظف لا يستخدم المعدات بشكل آمن",
+          "en": "Does not use equipment safely"
+        },
+        {
+          "ar": "الموظف لا يراجع إجراءات السلامة قبل العمل",
+          "en": "Does not review safety procedures before starting work"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع الأرضيات والانسكابات",
+        "en": "Handling floors and spills"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا ينظف الانسكابات فورًا",
+          "en": "Does not clean spills immediately"
+        },
+        {
+          "ar": "الموظف يتجاهل الأرضيات الزلقة",
+          "en": "Ignores slippery floors"
+        },
+        {
+          "ar": "الموظف يتجاهل الأرضيات الزلقة",
+          "en": "Ignores slippery floors"
+        },
+        {
+          "ar": "الموظف لا يبلغ عن خطر في الأرضية",
+          "en": "Does not report floor hazards"
+        },
+        {
+          "ar": "الموظف يمر على الانسكاب بدون إجراء",
+          "en": "Walks past spills without taking action"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "استخدام لوحات التحذير (Wet Floor Signs)",
+        "en": "Using caution signs (Wet Floor Signs)"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يستخدم اللوحات عند التنظيف",
+          "en": "Does not use caution signs during cleaning"
+        },
+        {
+          "ar": "الموظف يضع اللوحة في مكان غير واضح",
+          "en": "Places the sign in an unclear location"
+        },
+        {
+          "ar": "الموظف ينسى إزالة اللوحة بعد انتهاء العمل",
+          "en": "Forgets to remove the sign after finishing"
+        },
+        {
+          "ar": "الموظف لا يعرف متى يستخدم اللوحة",
+          "en": "Does not know when to use the sign"
+        },
+        {
+          "ar": "الموظف لا يهتم بتحذير الآخرين",
+          "en": "Does not care about warning others"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "استخدام المعدات بطريقة آمنة",
+        "en": "Using equipment safely"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف يستخدم المعدات بشكل خاطئ",
+          "en": "Uses equipment incorrectly"
+        },
+        {
+          "ar": "الموظف لا يتأكد من سلامة المعدات قبل الاستخدام",
+          "en": "Does not check equipment safety before use"
+        },
+        {
+          "ar": "الموظف يتجاهل أعطال المعدات",
+          "en": "Ignores equipment faults"
+        },
+        {
+          "ar": "الموظف لا يبلغ عن المعدات التالفة",
+          "en": "Does not report damaged equipment"
+        },
+        {
+          "ar": "الموظف يستخدم أدوات غير مناسبة",
+          "en": "Uses inappropriate tools"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع المواد الحادة أو الساخنة",
+        "en": "Handling sharp or hot items"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يستخدم أدوات الحماية (قفازات / ملقط)",
+          "en": "Does not use protective tools (gloves / tongs)"
+        },
+        {
+          "ar": "الموظف يتعامل مع معدات ساخنة بدون حذر",
+          "en": "Handles hot equipment without caution"
+        },
+        {
+          "ar": "الموظف يضع الأدوات الحادة بشكل غير آمن",
+          "en": "Places sharp tools unsafely"
+        },
+        {
+          "ar": "الموظف لا ينتبه أثناء النقل أو الاستخدام",
+          "en": "Does not pay attention during handling or transport"
+        },
+        {
+          "ar": "الموظف يعرض نفسه أو الآخرين للخطر",
+          "en": "Puts self or others at risk"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الإبلاغ عن الحوادث أو المخاطر",
+        "en": "Reporting incidents and hazards"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يبلغ عن الحوادث",
+          "en": "Does not report incidents"
+        },
+        {
+          "ar": "الموظف يتجاهل الإصابات البسيطة",
+          "en": "Ignores minor injuries"
+        },
+        {
+          "ar": "الموظف لا يعرف آلية الإبلاغ",
+          "en": "Does not know the reporting procedure"
+        },
+        {
+          "ar": "الموظف يخفي الخطأ بدل الإبلاغ",
+          "en": "Hides mistakes instead of reporting"
+        },
+        {
+          "ar": "الموظف لا يتابع المشكلة بعد الإبلاغ",
+          "en": "Does not follow up after reporting"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الحفاظ على بيئة عمل آمنة",
+        "en": "Maintaining a safe work environment"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف يترك أدوات أو مواد في الممرات",
+          "en": "Leaves tools or materials in walkways"
+        },
+        {
+          "ar": "الموظف يترك أدوات أو مواد في الممرات",
+          "en": "Leaves tools or materials in walkways"
+        },
+        {
+          "ar": "الموظف يعيق حركة الفريق",
+          "en": "Blocks team movement"
+        },
+        {
+          "ar": "الموظف لا يحافظ على ترتيب المحطة",
+          "en": "Does not keep the station organized"
+        },
+        {
+          "ar": "الموظف لا يزيل مصادر الخطر",
+          "en": "Does not eliminate hazards"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التحكم في الوصول",
+        "en": "Access control"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف يسمح بدخول أشخاص غير مصرح لهم",
+          "en": "Allows unauthorized persons to enter"
+        },
+        {
+          "ar": "الموظف لا يتحقق من هوية الأشخاص",
+          "en": "Does not verify identities"
+        },
+        {
+          "ar": "الموظف يترك الأبواب مفتوحة بدون رقابة",
+          "en": "Leaves doors open without supervision"
+        },
+        {
+          "ar": "الموظف لا يبلغ عن سلوك مشبوه",
+          "en": "Does not report suspicious behavior"
+        },
+        {
+          "ar": "الموظف لا يدرك أهمية الأمن",
+          "en": "Does not understand the importance of security"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "حماية ممتلكات المطعم",
+        "en": "Protecting restaurant assets"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يحافظ على المعدات",
+          "en": "Does not take care of equipment"
+        },
+        {
+          "ar": "الموظف يستخدم الموارد بشكل خاطئ",
+          "en": "Uses resources improperly"
+        },
+        {
+          "ar": "الموظف يهمل الأدوات أو يتركها بدون مراقبة",
+          "en": "Leaves tools unattended or neglects them"
+        },
+        {
+          "ar": "الموظف لا يبلغ عن فقدان أو تلف",
+          "en": "Does not report loss or damage"
+        },
+        {
+          "ar": "الموظف لا يتعامل بمسؤولية مع الممتلكات",
+          "en": "Does not handle assets responsibly"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الالتزام بإجراءات الطوارئ",
+        "en": "Following emergency procedures"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يعرف إجراءات الطوارئ",
+          "en": "Does not know emergency procedures"
+        },
+        {
+          "ar": "الموظف يتصرف بشكل عشوائي عند الطوارئ",
+          "en": "Acts randomly during emergencies"
+        },
+        {
+          "ar": "الموظف لا يعرف مخارج الطوارئ",
+          "en": "Does not know emergency exits"
+        },
+        {
+          "ar": "الموظف لا يتبع تعليمات الإخلاء",
+          "en": "Does not follow evacuation instructions"
+        },
+        {
+          "ar": "الموظف لا يشارك بجدية في التدريبات",
+          "en": "Does not take drills seriously"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "استخدام معدات السلامة",
+        "en": "Using safety equipment"
+      },
+      "reasons": [
+        {
+          "ar": "الموظف لا يعرف مكان معدات السلامة",
+          "en": "Does not know the location of safety equipment"
+        },
+        {
+          "ar": "الموظف لا يعرف كيفية استخدامها",
+          "en": "Does not know how to use safety equipment"
+        },
+        {
+          "ar": "الموظف لا يبلغ عن نقص أو عطل في المعدات",
+          "en": "Does not report missing or faulty equipment"
+        },
+        {
+          "ar": "الموظف يتجاهل فحص المعدات",
+          "en": "Does not check equipment"
+        },
+        {
+          "ar": "الموظف لا يتعامل بجدية مع السلامة",
+          "en": "Does not take safety seriously"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 6,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 7,
+      "max": 10,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

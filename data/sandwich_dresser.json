@@ -1,0 +1,370 @@
+{
+  "title": {
+    "ar": "تجميع الساندويش - القائمة العادية",
+    "en": "Sandwich Dresser"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        {
+          "ar": "عدم استخدام القفازات المناسبة (شفافة/زرقاء)",
+          "en": "Did not use appropriate gloves (clear/blue)"
+        },
+        {
+          "ar": "عدم غسل اليدين بانتظام",
+          "en": "Did not wash hands regularly"
+        },
+        {
+          "ar": "لمس الوجه أثناء العمل",
+          "en": "Touched face during work"
+        },
+        {
+          "ar": "الزي غير نظيف",
+          "en": "Uniform is not clean"
+        },
+        {
+          "ar": "عدم تغيير القفازات عند الحاجة",
+          "en": "Did not change gloves when required"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جاهزية المحطة (توفر المكونات)",
+        "en": "Station readiness (ingredient availability)"
+      },
+      "reasons": [
+        {
+          "ar": "نقص مكونات أثناء العمل",
+          "en": "Ingredients ran out during operation"
+        },
+        {
+          "ar": "سوء التخطيط للتعبئة",
+          "en": "Poor restocking planning"
+        },
+        {
+          "ar": "عدم التحقق قبل الوردية",
+          "en": "Did not check before the shift"
+        },
+        {
+          "ar": "ضعف التنسيق مع الباك روم",
+          "en": "Poor coordination with backroom"
+        },
+        {
+          "ar": "نفاد الصوصات أو الخضروات",
+          "en": "Sauces or vegetables ran out"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة المكونات",
+        "en": "Ingredient quality"
+      },
+      "reasons": [
+        {
+          "ar": "استخدام خس ذابل",
+          "en": "Used wilted lettuce"
+        },
+        {
+          "ar": "استخدام مكونات منتهية",
+          "en": "Used expired ingredients"
+        },
+        {
+          "ar": "تجاهل الشكل والجودة",
+          "en": "Ignored appearance and quality"
+        },
+        {
+          "ar": "عدم اتباع مبدأ FIFO",
+          "en": "FIFO not applied"
+        },
+        {
+          "ar": "عدم متابعة وقت الصلاحية",
+          "en": "Did not monitor shelf life"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التحكم بمدة الحفظ",
+        "en": "Holding time control"
+      },
+      "reasons": [
+        {
+          "ar": "استخدام مكونات خارج مدة الحفظ",
+          "en": "Used ingredients beyond holding time"
+        },
+        {
+          "ar": "عدم الالتزام بقاعدة الساعتين",
+          "en": "Did not follow 2-hour rule"
+        },
+        {
+          "ar": "عدم وضع ملصقات",
+          "en": "Missing labels"
+        },
+        {
+          "ar": "عدم تطبيق مبدأ 30 دقيقة",
+          "en": "Did not apply 30-minute rule"
+        },
+        {
+          "ar": "خلط القديم مع الجديد",
+          "en": "Mixed old with new"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع الصوصات",
+        "en": "Handling sauces"
+      },
+      "reasons": [
+        {
+          "ar": "الجبن غير ملطف بدرجة حرارة مناسبة",
+          "en": "Cheese not tempered at correct temperature"
+        },
+        {
+          "ar": "استخدام صوص بارد مباشرة",
+          "en": "Used sauce directly from cold storage"
+        },
+        {
+          "ar": "عدم وضع ملصق",
+          "en": "Missing label"
+        },
+        {
+          "ar": "استخدام صوص منتهي",
+          "en": "Used expired sauce"
+        },
+        {
+          "ar": "تخزين غير صحيح",
+          "en": "Improper storage"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دقة بناء الساندويش",
+        "en": "Sandwich build accuracy"
+      },
+      "reasons": [
+        {
+          "ar": "نسيان مكونات",
+          "en": "Missed ingredients"
+        },
+        {
+          "ar": "إضافة مكونات خاطئة",
+          "en": "Added wrong ingredients"
+        },
+        {
+          "ar": "ترتيب غير صحيح",
+          "en": "Incorrect assembly order"
+        },
+        {
+          "ar": "كمية غير صحيحة",
+          "en": "Incorrect portion size"
+        },
+        {
+          "ar": "عدم وضع المكونات بشكل منسق ولائق",
+          "en": "Ingredients not placed neatly or properly"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "شكل الساندويش",
+        "en": "Sandwich appearance"
+      },
+      "reasons": [
+        {
+          "ar": "شكل غير مرتب",
+          "en": "Messy appearance"
+        },
+        {
+          "ar": "سقوط المكونات",
+          "en": "Ingredients falling out"
+        },
+        {
+          "ar": "توزيع غير متساوي",
+          "en": "Uneven distribution"
+        },
+        {
+          "ar": "مظهر غير جذاب",
+          "en": "Unappealing look"
+        },
+        {
+          "ar": "مكونات الساندويش غير متمركزة بالشكل الصحيح",
+          "en": "Ingredients not properly centered"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السرعة وتدفق العمل",
+        "en": "Speed and workflow"
+      },
+      "reasons": [
+        {
+          "ar": "تحضير أكثر من طلب واحد في كل مرة",
+          "en": "Prepared multiple orders at once"
+        },
+        {
+          "ar": "بطء في الأداء",
+          "en": "Slow performance"
+        },
+        {
+          "ar": "ضعف التنسيق مع البادئ",
+          "en": "Poor coordination with initiator"
+        },
+        {
+          "ar": "عدم الالتزام بإيقاع العمل",
+          "en": "Did not follow workflow rhythm"
+        },
+        {
+          "ar": "عدم استخدام كلتا اليدين أثناء وضع المكونات",
+          "en": "Did not use both hands during assembly"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دقة الطلبات",
+        "en": "Order accuracy"
+      },
+      "reasons": [
+        {
+          "ar": "تجاهل الطلبات الخاصة",
+          "en": "Ignored special requests"
+        },
+        {
+          "ar": "ساندويش غير مطابق",
+          "en": "Incorrect sandwich prepared"
+        },
+        {
+          "ar": "نسيان إضافات أو حذف مكونات",
+          "en": "Missed add-ons or removed items incorrectly"
+        },
+        {
+          "ar": "عدم متابعة الشاشة",
+          "en": "Did not monitor the screen"
+        },
+        {
+          "ar": "خلط الطلبات",
+          "en": "Mixed up orders"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "سلامة الغذاء",
+        "en": "Food safety"
+      },
+      "reasons": [
+        {
+          "ar": "تلوث تبادلي",
+          "en": "Cross-contamination"
+        },
+        {
+          "ar": "استخدام قفازات غير مناسبة",
+          "en": "Used incorrect gloves"
+        },
+        {
+          "ar": "التعامل غير الصحيح مع الطعام الجاهز",
+          "en": "Improper handling of ready-to-eat food"
+        },
+        {
+          "ar": "عدم الالتزام بالإجراءات",
+          "en": "Did not follow procedures"
+        },
+        {
+          "ar": "ممارسات غير آمنة",
+          "en": "Unsafe practices"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "نظافة المحطة",
+        "en": "Station cleanliness"
+      },
+      "reasons": [
+        {
+          "ar": "طاولة غير نظيفة",
+          "en": "Table not clean"
+        },
+        {
+          "ar": "بقايا طعام على السطح",
+          "en": "Food residue on surface"
+        },
+        {
+          "ar": "سوء التنظيم",
+          "en": "Poor organization"
+        },
+        {
+          "ar": "عدم التخلص من النفايات",
+          "en": "Did not dispose of waste"
+        },
+        {
+          "ar": "عدم تغيير الفوط او استخدام فوط غير معقمة",
+          "en": "Did not change cloths or used unsanitized cloths"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التنسيق مع الفريق",
+        "en": "Team coordination"
+      },
+      "reasons": [
+        {
+          "ar": "ضعف التواصل مع البادئ",
+          "en": "Poor communication with initiator"
+        },
+        {
+          "ar": "عدم مواكبة تدفق العمل",
+          "en": "Did not keep up with workflow"
+        },
+        {
+          "ar": "العمل بشكل فردي",
+          "en": "Worked individually instead of as a team"
+        },
+        {
+          "ar": "عدم الدعم أثناء الضغط",
+          "en": "Did not support team during peak"
+        },
+        {
+          "ar": "ضعف التنسيق مع باقي المحطات",
+          "en": "Poor coordination with other stations"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 4,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 5,
+      "max": 7,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 8,
+      "max": 10,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

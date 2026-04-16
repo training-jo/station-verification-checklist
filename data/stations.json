@@ -1,0 +1,198 @@
+[
+  {
+    "id": "clean-and-sanitation",
+    "name": {
+      "ar": "النظافة والتعقيم",
+      "en": "Cleanliness & Sanitation"
+    }
+  },
+  {
+    "id": "food_safety",
+    "name": {
+      "ar": "سلامة الغذاء",
+      "en": "Food Safety"
+    }
+  },
+  {
+    "id": "guest_exceptional_service",
+    "name": {
+      "ar": "تقديم تجربة خدمة متميزة للزبائن",
+      "en": "Exceptional Guest Service"
+    }
+  },
+  {
+    "id": "hospitality",
+    "name": {
+      "ar": "الضيافة",
+      "en": "Hospitality"
+    }
+  },
+  {
+    "id": "hygiene_and_teamwork",
+    "name": {
+      "ar": "النظافة الشخصية والعمل الجماعي",
+      "en": "Hygiene & Teamwork"
+    }
+  },
+  {
+    "id": "safety_and_security",
+    "name": {
+      "ar": "السلامة والأمن",
+      "en": "Safety & Security"
+    }
+  },
+  {
+    "id": "backroom",
+    "name": {
+      "ar": "باك روم",
+      "en": "Backroom"
+    }
+  },
+  {
+    "id": "french_fries",
+    "name": {
+      "ar": "الفرايز",
+      "en": "Fries"
+    }
+  },
+  {
+    "id": "grill",
+    "name": {
+      "ar": "الجريل",
+      "en": "Grill"
+    }
+  },
+  {
+    "id": "fried_person",
+    "name": {
+      "ar": "القلي",
+      "en": "Fried Person"
+    }
+  },
+  {
+    "id": "bun_person",
+    "name": {
+      "ar": "Bun Person",
+      "en": "Bun Person"
+    }
+  },
+  {
+    "id": "sandwich_dresser",
+    "name": {
+      "ar": "تجميع الساندويش - القائمة العادية",
+      "en": "Regulars Sandwich Dresser"
+    }
+  },
+  {
+    "id": "breakfast_assembly",
+    "name": {
+      "ar": "تجميع الساندويش - قائمة الإفطار",
+      "en": "Breakfast Assembly"
+    }
+  },
+  {
+    "id": "breakfast_sausage_and_roll",
+    "name": {
+      "ar": "قائمة الإفطار - الصوصج والرول",
+      "en": "Breakfast Sausage & Roll"
+    }
+  },
+  {
+    "id": "breakfast_hashbrown_and_pancake",
+    "name": {
+      "ar": "قائمة الإفطار - الهاش بروان والبان كيك",
+      "en": "Breakfast Hashbrown & Pancake"
+    }
+  },
+  {
+    "id": "breakfast_muffins",
+    "name": {
+      "ar": "قائمة الإفطار - المافن",
+      "en": "Breakfast Muffins"
+    }
+  },
+  {
+    "id": "breakfast_scramble_and_round_eggs",
+    "name": {
+      "ar": "قائمة الإفطار - البيض",
+      "en": "Scrambled & Round Eggs"
+    }
+  },
+  {
+    "id": "delivery",
+    "name": {
+      "ar": "محطة خدمة التوصيل",
+      "en": "Delivery Service"
+    }
+  },
+  {
+    "id": "drive_thru",
+    "name": {
+      "ar": "محطة خدمة السيارات",
+      "en": "Drive Thru Service"
+    }
+  },
+  {
+    "id": "front_counter",
+    "name": {
+      "ar": "محطة الكاونتر الأمامي",
+      "en": "Front Counter"
+    }
+  },
+  {
+    "id": "lobby",
+    "name": {
+      "ar": "الصالة",
+      "en": "Lobby"
+    }
+  },
+  {
+    "id": "SOK",
+    "name": {
+      "ar": "جهاز خدمة الطلب الذاتي SOK",
+      "en": "Self Order Kiosk (SOK)"
+    }
+  },
+  {
+    "id": "open_production_and_transition",
+    "name": {
+      "ar": "فتح منطقة الإنتاج والتحويل",
+      "en": "Open Production & Transition"
+    }
+  },
+  {
+    "id": "close_production",
+    "name": {
+      "ar": "إغلاق منطقة الإنتاج",
+      "en": "Close Production"
+    }
+  },
+  {
+    "id": "open_service_and_transition",
+    "name": {
+      "ar": "فتح منطقة الخدمة والتحويل",
+      "en": "Open Service & Transition"
+    }
+  },
+  {
+    "id": "close_service",
+    "name": {
+      "ar": "إغلاق منطقة الخدمة",
+      "en": "Close Service"
+    }
+  },
+  {
+    "id": "table_server",
+    "name": {
+      "ar": "خدمة الطاولة",
+      "en": "Table Server"
+    }
+  },
+  {
+    "id": "team_leader",
+    "name": {
+      "ar": "توثيق قائد الفريق",
+      "en": "Team Leader"
+    }
+  }
+]

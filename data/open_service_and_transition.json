@@ -1,0 +1,190 @@
+{
+  "title": {
+    "ar": "محطة فتح وتحويل الخدمة",
+    "en": "Open and Transition Service Station"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية وسلامة الغذاء",
+        "en": "Personal hygiene and food safety"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه بشكل منتظم (كل 30–60 دقيقة)", "en": "Does not wash hands regularly (every 30–60 min)" },
+        { "ar": "ضعف في النظافة الشخصية", "en": "Poor personal hygiene" },
+        { "ar": "لا يرتدي القفازات أو غطاء الرأس", "en": "Does not wear gloves or hair net" },
+        { "ar": "يلمس الوجه أثناء الخدمة", "en": "Touching face during service" },
+        { "ar": "لا يلتزم بإجراءات سلامة الغذاء", "en": "Does not follow food safety procedures" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تشغيل المعدات وجاهزيتها",
+        "en": "Equipment start-up and readiness"
+      },
+      "reasons": [
+        { "ar": "لا يلتزم بتسلسل التشغيل الصحيح", "en": "Does not follow correct start-up sequence" },
+        { "ar": "المعدات غير جاهزة", "en": "Equipment not ready (coffee machine, ice cream, display fridge)" },
+        { "ar": "لا يشغل سخانات الفرايز قبل الافتتاح", "en": "Fries heater not turned on before opening" },
+        { "ar": "إعداد القلايات غير صحيح", "en": "Fryers not set correctly (hashbrown / fries)" },
+        { "ar": "ضعف تجهيز المعدات", "en": "Poor equipment preparation" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إعدادات الحرارة والطهي",
+        "en": "Temperature and cooking settings"
+      },
+      "reasons": [
+        { "ar": "درجة حرارة القلاية غير صحيحة (360°F / 335°F)", "en": "Incorrect fryer temperature (360°F hashbrown / 335°F fries)" },
+        { "ar": "لا يضبط المؤقتات", "en": "Does not set timers correctly" },
+        { "ar": "لا يراقب حالة الزيت", "en": "Does not monitor oil condition" },
+        { "ar": "ضعف فهم إعدادات الطهي", "en": "Poor understanding of cooking settings" },
+        { "ar": "تأثير على جودة المنتج", "en": "Risk of poor product quality" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تجهيز المشروبات والكاونتر",
+        "en": "Beverage and counter preparation"
+      },
+      "reasons": [
+        { "ar": "منطقة المشروبات غير نظيفة", "en": "Beverage area not clean" },
+        { "ar": "عدم تجهيز المشروبات قبل الافتتاح", "en": "Drinks not prepared before opening" },
+        { "ar": "نقص في الأكواب أو الأغطية أو الشفاطات", "en": "Missing cups, lids, or straws" },
+        { "ar": "سوء تنظيم المحطة", "en": "Poor organization of drink station" },
+        { "ar": "تأخير في الخدمة", "en": "Causes delay in service" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تجهيز المخزون وتوفره",
+        "en": "Stock preparation and availability"
+      },
+      "reasons": [
+        { "ar": "نقص في المخزون", "en": "Insufficient stock at counter" },
+        { "ar": "نقص في المستلزمات", "en": "Missing items (napkins, sauces, utensils)" },
+        { "ar": "ضعف التخطيط", "en": "Poor stock planning" },
+        { "ar": "يسبب تأخير", "en": "Causes delay during service" },
+        { "ar": "ضعف الجاهزية", "en": "Weak readiness" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الالتزام بـ FEFO",
+        "en": "FEFO compliance"
+      },
+      "reasons": [
+        { "ar": "لا يلتزم بنظام FEFO", "en": "Does not follow FEFO system" },
+        { "ar": "استخدام منتجات منتهية", "en": "Uses expired products" },
+        { "ar": "ضعف تدوير المخزون", "en": "Poor stock rotation" },
+        { "ar": "تخزين غير صحيح", "en": "Incorrect storage" },
+        { "ar": "ضعف التحكم", "en": "Weak inventory control" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جاهزية منطقة العملاء",
+        "en": "Customer area readiness"
+      },
+      "reasons": [
+        { "ar": "منطقة الكاونتر غير نظيفة", "en": "Counter area not clean" },
+        { "ar": "ركن الإضافات غير جاهز", "en": "Condiment station not ready" },
+        { "ar": "عدم تجهيز حاويات القمامة", "en": "Trash bins not prepared" },
+        { "ar": "سوء تنظيم المنطقة", "en": "Poor setup of front area" },
+        { "ar": "انطباع أول سلبي", "en": "Negative first impression" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تجهيز محطة الفرايز",
+        "en": "Fries station setup"
+      },
+      "reasons": [
+        { "ar": "القلايات غير جاهزة", "en": "Fryers not ready for transition" },
+        { "ar": "نقص في الأدوات", "en": "Missing salt dispensers or scoops" },
+        { "ar": "سوء تنظيم المحطة", "en": "Poor fries station organization" },
+        { "ar": "عدم فحص الزيت", "en": "Oil not checked or filtered" },
+        { "ar": "ضعف التحضير", "en": "Poor preparation" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنفيذ عملية التحويل",
+        "en": "Transition execution (breakfast to regular menu)"
+      },
+      "reasons": [
+        { "ar": "لا يبدأ التحويل في الوقت الصحيح", "en": "Does not start transition on time (2 hours before)" },
+        { "ar": "إيقاف الإفطار مبكراً", "en": "Stops breakfast too early" },
+        { "ar": "إبقاء معدات الإفطار تعمل بدون حاجة", "en": "Keeps breakfast equipment running unnecessarily" },
+        { "ar": "ضعف التنسيق", "en": "Poor coordination during transition" },
+        { "ar": "تعطيل الخدمة", "en": "Causes service disruption" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التنظيف والتعقيم أثناء التحويل",
+        "en": "Cleaning and sanitization during transition"
+      },
+      "reasons": [
+        { "ar": "لا يمسح المعدات", "en": "Does not wipe equipment regularly" },
+        { "ar": "لا يعقم الأسطح", "en": "Surfaces not sanitized" },
+        { "ar": "لا ينظف الستانلس ستيل", "en": "Stainless steel not cleaned" },
+        { "ar": "لا ينظف الأرضيات", "en": "Floor not cleaned when needed" },
+        { "ar": "ضعف النظافة", "en": "Poor cleanliness standards" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إدارة الهدر",
+        "en": "Waste management"
+      },
+      "reasons": [
+        { "ar": "لا يتخلص من منتجات الإفطار المنتهية", "en": "Does not discard expired breakfast items" },
+        { "ar": "لا يسجل الهدر", "en": "Does not record waste" },
+        { "ar": "سوء التعامل مع البقايا", "en": "Poor handling of leftover products" },
+        { "ar": "ضعف التحكم بالتكلفة", "en": "Weak cost control" },
+        { "ar": "خطر على سلامة الغذاء", "en": "Food safety risk" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الانضباط وإدارة التدفق",
+        "en": "Work discipline and flow control"
+      },
+      "reasons": [
+        { "ar": "ضعف التنسيق مع الفريق", "en": "Poor coordination with team" },
+        { "ar": "لا يلتزم بالإجراءات", "en": "Does not follow transition procedures" },
+        { "ar": "سوء التوقيت أثناء الخدمة", "en": "Poor timing during service" },
+        { "ar": "ضعف الانتباه", "en": "Lack of awareness" },
+        { "ar": "يسبب ازدحام وتأخير", "en": "Causes delays and congestion" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 9,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 10,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

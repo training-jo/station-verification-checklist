@@ -1,0 +1,321 @@
+{
+  "title": {
+    "ar": "النظافة والتعقيم - اختبار التحقق",
+    "en": "Cleanliness & Sanitation - Verfication Checklist"
+    },
+  
+  "items": [
+    {
+      "text": {
+      "ar": "المتدرب جاهز للعمل ويتأكد أن المحطة والمنطقة المحيطة بها نظيفة وآمنة",
+      "en": "The trainee is ready for work and ensures the station and surrounding area are clean and safe"
+      },
+      "reasons":[
+        {
+          "ar": "لم يقم بفحص المنطقة قبل البدء",
+          "en": "Did not inspect the area before starting"
+        },  
+        {
+        "ar":  "وجود نفايات على الأرض",
+        "en":  "Presence of waste on the floor" 
+        },
+        {
+        "ar": "لم يتم التأكد من جاهزية المعدات",
+        "en": "Did not ensure equipment readiness"
+        },
+        {
+        "ar": "وجود خطر انزلاق أو عوائق",
+        "en": "There is a risk of slipping or encountering obstacles"
+        },
+        {
+        "ar": "عدم ترتيب المحطة بشكل صحيح",
+        "en": "The station was not arranged correctly"
+        }
+      ]
+    },
+
+  {
+    "text": {
+      "ar": "يعرف الفرق بين نظيف ومعقم ويستطيع شرحه بشكل صحيح",
+      "en": "Knows the difference between clean and sanitized and can explain it correctly"
+    },
+    "reasons": [
+      {
+        "ar": "لا يعرف تعريف نظيف",
+        "en": "Does not know the definition of clean"
+      },
+      {
+        "ar": "لا يعرف تعريف معقم",
+        "en": "Does not know the definition of sanitized"
+      },
+      {
+        "ar": "يخلط بين المفهومين",
+        "en": "Confuses the two concepts"
+      },
+      {
+        "ar": "لا يستطيع شرح الفرق بشكل صحيح",
+        "en": "Cannot explain the difference correctly"
+      },
+      {
+        "ar": "لم يتم تدريبه بشكل كافٍ",
+        "en": "Has not been trained sufficiently"
+      }
+    ]
+  },
+  {
+    "text": {
+      "ar": "يلتزم بمسح الأسطح باستخدام فوط معقمة بشكل متكرر خلال الوردية",
+      "en": "Frequently wipes surfaces using sanitized cloths throughout the shift"
+    },
+    "reasons": [
+      {
+        "ar": "لا يستخدم فوط معقمة",
+        "en": "Does not use sanitized cloths"
+      },
+      {
+        "ar": "لا يجدد الفوط بانتظام",
+        "en": "Does not replace cloths regularly"
+      },
+      {
+        "ar": "يستخدم فوطة متسخة",
+        "en": "Uses a dirty cloth"
+      },
+      {
+        "ar": "لا يمسح الأسطح بشكل متكرر",
+        "en": "Does not wipe surfaces frequently"
+      },
+      {
+        "ar": "لا يغمر الفوطة في محلول التعقيم",
+        "en": "Does not soak the cloth in sanitizing solution"
+      }
+    ]
+  },
+  {
+    "text": {
+      "ar": "يحضر محلول التعقيم بالطريقة الصحيحة و يحافظ على فعاليته",
+      "en": "Prepares the sanitizing solution correctly and maintains its effectiveness"
+    },
+    "reasons": [
+      {
+        "ar": "كمية الماء غير صحيحة",
+        "en": "Incorrect amount of water"
+      },
+      {
+        "ar": "نسبة محلول التعقيم غير صحيحة",
+        "en": "Incorrect sanitizing solution ratio"
+      },
+      {
+        "ar": "لم يتم تغيير المحلول عند اتساخه",
+        "en": "Solution was not changed when it became dirty"
+      },
+      {
+        "ar": "استخدام محلول منتهي الصلاحية",
+        "en": "Used expired solution"
+      },
+      {
+        "ar": "عدم معرفة طريقة التحضير",
+        "en": "Does not know the preparation method"
+      }
+    ]
+  },
+  {
+    "text": {
+      "ar": "يستخدم ألوان الفوط والمماسح بشكل صحيح حسب المنطقة",
+      "en": "Uses cloth and mop colors correctly according to the area"
+    },
+    "reasons": [
+      {
+        "ar": "استخدام لون خاطئ للممسحة",
+        "en": "Used the wrong mop color"
+      },
+      {
+        "ar": "خلط الفوط الحمراء والزرقاء",
+        "en": "Mixed red and blue cloths"
+      },
+      {
+        "ar": "عدم معرفة دلالة الألوان",
+        "en": "Does not know the meaning of the colors"
+      },
+      {
+        "ar": "استخدام نفس الفوطة لمناطق مختلفة",
+        "en": "Used the same cloth for different areas"
+      },
+      {
+        "ar": "تسبب في انتقال الدهون أو التلوث",
+        "en": "Caused grease or contamination transfer"
+      }
+    ]
+  },
+  {
+    "text": {
+      "ar": "يلتزم بخطوات تنظيف الأرضية الصحيحة (كنس – لوحات تحذير – مسح رقم 8 )",
+      "en": "Follows the correct floor cleaning steps (sweeping - caution signs - figure 8 mopping)"
+    },
+    "reasons": [
+      {
+        "ar": "لم يقم بكنس الأرضية أولاً",
+        "en": "Did not sweep the floor first"
+      },
+      {
+        "ar": "لم يستخدم حركة رقم 8",
+        "en": "Did not use the figure 8 motion"
+      },
+      {
+        "ar": "لم يعصر الممسحة جيداً",
+        "en": "Did not wring the mop properly"
+      },
+      {
+        "ar": "دفع الأوساخ تحت الطاولات",
+        "en": "Pushed dirt under tables"
+      },
+      {
+        "ar": "لم يتبع ترتيب الخطوات الصحيح",
+        "en": "Did not follow the correct sequence of steps"
+      }
+    ]
+  },
+  {
+    "text": {
+      "ar": "يضع لوحات التحذير قبل المسح ولا يزيلها إلا بعد جفاف الأرضية",
+      "en": "Places caution signs before mopping and does not remove them until the floor is dry"
+    },
+    "reasons": [
+      {
+        "ar": "لم يتم وضع لوحات التحذير",
+        "en": "Caution signs were not placed"
+      },
+      {
+        "ar": "تم وضعها بعد بدء المسح",
+        "en": "They were placed after mopping started"
+      },
+      {
+        "ar": "تم إزالتها قبل جفاف الأرضية",
+        "en": "They were removed before the floor dried"
+      },
+      {
+        "ar": "وضع اللوحات في مكان غير واضح",
+        "en": "Placed the signs in an unclear location"
+      },
+      {
+        "ar": "تسبب في خطر انزلاق",
+        "en": "Created a slip hazard"
+      }
+    ]
+  },
+  {
+    "text": {
+      "ar": "يلتزم بتعقيم المعدات الصغيرة بالترتيب الصحيح",
+      "en": "Sanitizes small equipment in the correct order"
+    },
+    "reasons": [
+      {
+        "ar": "ترتيب خطوات غير صحيح",
+        "en": "Incorrect sequence of steps"
+      },
+      {
+        "ar": "لم يتم استخدام الحوض الصحيح",
+        "en": "Did not use the correct sink"
+      },
+      {
+        "ar": "لم يتم التعقيم بشكل كامل",
+        "en": "Sanitization was not done completely"
+      },
+      {
+        "ar": "لم يتم الشطف قبل التعقيم",
+        "en": "Did not rinse before sanitizing"
+      },
+      {
+        "ar": "عدم ترك المعدات لتجف",
+        "en": "Did not leave the equipment to air dry"
+      }
+    ]
+  },
+  {
+    "text": {
+      "ar": "يمنع انتقال التلوث من خلال الفصل بين الفوط النظيفة والمتسخة",
+      "en": "Prevents cross-contamination by separating clean and dirty cloths"
+    },
+    "reasons": [
+      {
+        "ar": "وضع فوطة متسخة في دلو نظيف",
+        "en": "Placed a dirty cloth in a clean bucket"
+      },
+      {
+        "ar": "عدم تغطية الدلو",
+        "en": "Bucket was not covered"
+      },
+      {
+        "ar": "خلط الفوط المختلفة",
+        "en": "Mixed different cloths"
+      },
+      {
+        "ar": "عدم استخدام دلو فيه صابون للفوط المتسخة",
+        "en": "Did not use a soapy bucket for dirty cloths"
+      },
+      {
+        "ar": "عدم تغيير محلول التعقيم عند اتساخه",
+        "en": "Did not change the sanitizing solution when it became dirty"
+      }
+    ]
+  },
+  {
+    "text": {
+      "ar": "يحافظ على بيئة آمنة وصحية من خلال منع نمو البكتيريا وانتقالها",
+      "en": "Maintains a safe and hygienic environment by preventing bacterial growth and spread"
+    },
+    "reasons": [
+      {
+        "ar": "عدم تعقيم الأسطح",
+        "en": "Did not sanitize surfaces"
+      },
+      {
+        "ar": "استخدام أدوات غير نظيفة",
+        "en": "Used unclean tools"
+      },
+      {
+        "ar": "عدم الالتزام بالقفازات عند الحاجة",
+        "en": "Did not use gloves when required"
+      },
+      {
+        "ar": "عدم تنظيف المنطقة بشكل مستمر",
+        "en": "Did not clean the area continuously"
+      },
+      {
+        "ar": "وجود ممارسات تسبب تلوث",
+        "en": "There are practices causing contamination"
+      }
+    ]
+  }
+],
+   
+    
+
+ 
+  
+  "bands": [
+    {
+      "min": 0,
+      "max": 4,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 5,
+      "max": 7,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 8,
+      "max": 10,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

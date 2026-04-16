@@ -1,0 +1,190 @@
+{
+  "title": {
+    "ar": "محطة مقدم خدمة الطاولة",
+    "en": "Table Server Station"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية وسلامة الغذاء",
+        "en": "Personal hygiene and food safety"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه بشكل منتظم (كل 30–60 دقيقة)", "en": "Does not wash hands regularly (every 30–60 min)" },
+        { "ar": "ضعف في النظافة الشخصية", "en": "Poor personal hygiene" },
+        { "ar": "لا يرتدي القفازات بشكل صحيح", "en": "Does not wear gloves properly" },
+        { "ar": "يلمس الوجه أثناء العمل", "en": "Touching face during service" },
+        { "ar": "لا يلتزم بمعايير سلامة الغذاء", "en": "Does not follow food safety standards" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "المظهر والاحترافية",
+        "en": "Appearance and professionalism"
+      },
+      "reasons": [
+        { "ar": "الزي غير نظيف أو غير مناسب", "en": "Uniform not clean or proper" },
+        { "ar": "مظهر غير مرتب", "en": "Poor grooming" },
+        { "ar": "مظهر غير احترافي", "en": "Unprofessional appearance" },
+        { "ar": "لغة جسد ضعيفة", "en": "Poor body language" },
+        { "ar": "ضعف الثقة", "en": "Lack of confidence" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دقة تجهيز الطلب",
+        "en": "Order preparation accuracy"
+      },
+      "reasons": [
+        { "ar": "عناصر ناقصة في الصينية", "en": "Missing items in tray" },
+        { "ar": "تجهيز الطلب بشكل خاطئ", "en": "Incorrect order preparation" },
+        { "ar": "لا يتأكد من جاهزية الطعام والمشروبات", "en": "Does not check drinks / food readiness" },
+        { "ar": "ترتيب غير جيد للصينية", "en": "Poor tray organization" },
+        { "ar": "لا يراجع الطلب مع الإيصال", "en": "Does not verify order with receipt" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تجهيز الصينية والمظهر",
+        "en": "Tray setup and presentation"
+      },
+      "reasons": [
+        { "ar": "الصينية غير نظيفة أو غير معقمة", "en": "Tray not clean or sanitized" },
+        { "ar": "ترتيب غير مناسب", "en": "Poor arrangement of items" },
+        { "ar": "نقص في الإضافات", "en": "Missing condiments" },
+        { "ar": "صعوبة حمل الصينية", "en": "Tray difficult to carry" },
+        { "ar": "مظهر غير احترافي", "en": "Poor presentation" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "توصيل الطلب للطاولة",
+        "en": "Order delivery to table"
+      },
+      "reasons": [
+        { "ar": "توصيل الطلب لطاولة خاطئة", "en": "Delivers to wrong table" },
+        { "ar": "لا يتأكد من رقم الطاولة", "en": "Does not confirm table location" },
+        { "ar": "طريقة اقتراب غير مناسبة", "en": "Poor approach to customer" },
+        { "ar": "لا يبتسم أو يرحب", "en": "Does not smile or greet" },
+        { "ar": "ضعف التواصل", "en": "Poor communication during delivery" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التفاعل مع العميل أثناء التقديم",
+        "en": "Customer interaction during delivery"
+      },
+      "reasons": [
+        { "ar": "لا يشرح الطلب", "en": "Does not explain order to customer" },
+        { "ar": "لا يؤكد الطلب لفظياً", "en": "Does not confirm order verbally" },
+        { "ar": "لا يسأل إذا كان العميل يحتاج شيء", "en": "Does not ask if customer needs anything" },
+        { "ar": "ضعف التواصل", "en": "Poor communication" },
+        { "ar": "لا يوجد تفاعل", "en": "No engagement with guest" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "المتابعة مع العميل",
+        "en": "Follow-up with customer"
+      },
+      "reasons": [
+        { "ar": "لا يتابع خلال 1–2 دقيقة", "en": "Does not follow up within 1–2 minutes" },
+        { "ar": "يتجاهل العميل بعد التقديم", "en": "Ignores customer after delivery" },
+        { "ar": "لا يتحقق من رضا العميل", "en": "Does not check satisfaction" },
+        { "ar": "لا يعرض المساعدة", "en": "Does not offer help" },
+        { "ar": "ضعف الانتباه لاحتياجات العميل", "en": "Poor awareness of guest needs" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع طلبات العميل",
+        "en": "Handling customer requests"
+      },
+      "reasons": [
+        { "ar": "تأخير في تلبية الطلبات", "en": "Slow response to customer requests" },
+        { "ar": "لا يوفر العناصر الناقصة", "en": "Does not provide missing items" },
+        { "ar": "ضعف في حل المشاكل", "en": "Poor problem handling" },
+        { "ar": "لا يبلغ المدير عند الحاجة", "en": "Does not escalate issues to manager" },
+        { "ar": "يتجاهل ملاحظات العميل", "en": "Ignores customer concerns" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الإضافات ودعم العميل",
+        "en": "Add-ons and guest support"
+      },
+      "reasons": [
+        { "ar": "لا يوفر الإضافات عند الحاجة", "en": "Does not provide condiments when needed" },
+        { "ar": "لا يحمل مستلزمات (مناديل، صوصات)", "en": "Does not carry essentials (napkins, sauces)" },
+        { "ar": "ضعف الجاهزية", "en": "Poor readiness" },
+        { "ar": "لا يتوقع احتياجات العميل", "en": "Does not anticipate guest needs" },
+        { "ar": "ضعف عقلية الخدمة", "en": "Weak service mindset" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "استخدام نظام الطاولات",
+        "en": "Table location and system usage"
+      },
+      "reasons": [
+        { "ar": "لا يستخدم نظام أرقام الطاولات", "en": "Does not use table number system correctly" },
+        { "ar": "يخلط بين الطاولات", "en": "Confuses table locations" },
+        { "ar": "تأخير بسبب سوء التنظيم", "en": "Delays delivery due to poor tracking" },
+        { "ar": "لا يلتزم بالنظام", "en": "Does not follow system" },
+        { "ar": "ضعف التنسيق", "en": "Poor coordination" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تجربة العميل والضيافة",
+        "en": "Customer experience and hospitality"
+      },
+      "reasons": [
+        { "ar": "لا يبتسم", "en": "Does not smile" },
+        { "ar": "ضعف التواصل", "en": "Poor communication" },
+        { "ar": "لا يشكر العميل", "en": "Does not thank customer" },
+        { "ar": "لا يدعو للعودة", "en": "Does not invite customer to return" },
+        { "ar": "ضعف ثقافة الضيافة", "en": "Weak hospitality culture" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "الانضباط والوعي أثناء العمل",
+        "en": "Work discipline and awareness"
+      },
+      "reasons": [
+        { "ar": "غير منتبه لمنطقة الصالة", "en": "Not attentive to dining area" },
+        { "ar": "لا يرفع الصواني عند الحاجة", "en": "Does not clear trays when needed" },
+        { "ar": "ضعف تعدد المهام", "en": "Poor multitasking" },
+        { "ar": "لا يلتزم بالإجراءات", "en": "Does not follow procedures" },
+        { "ar": "ضعف المسؤولية", "en": "Lack of responsibility" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 9,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 10,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

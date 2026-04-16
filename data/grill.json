@@ -1,0 +1,298 @@
+{
+  "title": {
+    "ar": "محطة الجريل",
+    "en": "Grill"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        {
+          "ar": "لا يرتدي قفازات",
+          "en": "Does not wear gloves"
+        },
+        {
+          "ar": "لا يرتدي غطاء رأس",
+          "en": "Does not wear a hairnet"
+        },
+        {
+          "ar": "لم يتم غسل اليدين",
+          "en": "Hands were not washed"
+        },
+        {
+          "ar": "الزي غير نظيف",
+          "en": "Uniform is not clean"
+        },
+        {
+          "ar": "موظف مريض يعمل",
+          "en": "Sick employee working"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "معرفة درجة حرارة الجريل و اوقات الطهي",
+        "en": "Knowledge of grill temperature and cooking times"
+      },
+      "reasons": [
+        {
+          "ar": "عدم معرفة درجة الحرارة",
+          "en": "Does not know grill temperature"
+        },
+        {
+          "ar": "عدم معرفة اوقات الطهي الصحيحة",
+          "en": "Does not know correct cooking times"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة المنتج",
+        "en": "Product quality"
+      },
+      "reasons": [
+        {
+          "ar": "لا يعرف مواصفات اللحمة قبل الطهي",
+          "en": "Does not know raw meat specifications"
+        },
+        {
+          "ar": "لا يعرف مواصفات اللحمة بعد الطهي",
+          "en": "Does not know cooked meat standards"
+        },
+        {
+          "ar": "لا يعرف درجة الحرارة القصوى المقبولة للحوم",
+          "en": "Does not know maximum acceptable meat temperature"
+        },
+        {
+          "ar": "جودة اللحوم بعد الطهي غير مقبولة",
+          "en": "Cooked meat quality is not acceptable"
+        },
+        {
+          "ar": "لم يتم ابلاغ المدير عند وجود مشكلة تتعلق بالجودة",
+          "en": "Did not inform manager about quality issue"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "سلامة الغذاء (التلوث المتبادل)",
+        "en": "Food safety (cross-contamination)"
+      },
+      "reasons": [
+        {
+          "ar": "خلط النيء مع المطهو",
+          "en": "Mixed raw with cooked products"
+        },
+        {
+          "ar": "عدم الالتزام بالاستخدام الصحيح للقفازات",
+          "en": "Did not use gloves correctly"
+        },
+        {
+          "ar": "عدم التخلص من القفازات الزرقاء مباشرة بعد لمس اللحوم النيئة",
+          "en": "Did not discard blue gloves after handling raw meat"
+        },
+        {
+          "ar": "لمس المنتجات النيئة بقفازات شفافة",
+          "en": "Touched raw products with clear gloves"
+        },
+        {
+          "ar": "عدم غسل اليدين عند الحاجة",
+          "en": "Did not wash hands when required"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "مدة الحفظ (UHC)",
+        "en": "Holding time (UHC)"
+      },
+      "reasons": [
+        {
+          "ar": "تجاوز مدة الحفظ",
+          "en": "Exceeded holding time"
+        },
+        {
+          "ar": "عدم تطبيق FIFO",
+          "en": "FIFO not applied"
+        },
+        {
+          "ar": "عدم التخلص من المنتج المنتهي",
+          "en": "Did not discard expired product"
+        },
+        {
+          "ar": "خلط القديم مع الجديد",
+          "en": "Mixed old with new product"
+        },
+        {
+          "ar": "عدم استخدام تايمر",
+          "en": "Did not use timer"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع المنتج بعد الطهي",
+        "en": "Handling product after cooking"
+      },
+      "reasons": [
+        {
+          "ar": "التعامل مع المنتج بعد الطهي",
+          "en": "Improper handling after cooking"
+        },
+        {
+          "ar": "سقوط المنتج أو سوء التعامل",
+          "en": "Dropped product or handled improperly"
+        },
+        {
+          "ar": "استخدام صينية خاطئة",
+          "en": "Used incorrect tray"
+        },
+        {
+          "ar": "تأخير في النقل",
+          "en": "Delay in transferring product"
+        },
+        {
+          "ar": "تعرض المنتج للتلوث",
+          "en": "Product exposed to contamination"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "استخدام الأدوات",
+        "en": "Use of tools"
+      },
+      "reasons": [
+        {
+          "ar": "أدوات غير نظيفة",
+          "en": "Tools not clean"
+        },
+        {
+          "ar": "استخدام أداة غير مناسبة",
+          "en": "Used incorrect tool"
+        },
+        {
+          "ar": "عدم التعقيم كل 4 ساعات",
+          "en": "Did not sanitize every 4 hours"
+        },
+        {
+          "ar": "إعادة استخدام أداة سقطت على الأرض",
+          "en": "Reused tool that fell on the floor"
+        },
+        {
+          "ar": "تخزين غير صحيح للأدوات",
+          "en": "Improper tool storage"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف وصيانة الجريل",
+        "en": "Grill cleaning and maintenance"
+      },
+      "reasons": [
+        {
+          "ar": "عدم تنظيف الجريل بعد كل دفعة طهي",
+          "en": "Did not clean grill after each batch"
+        },
+        {
+          "ar": "تراكم كربون/دهون",
+          "en": "Carbon or grease buildup"
+        },
+        {
+          "ar": "طريقة تنظيف خاطئة",
+          "en": "Incorrect cleaning method"
+        },
+        {
+          "ar": "تنظيف أثناء التشغيل بشكل خاطئ",
+          "en": "Improper cleaning during operation"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التحكم في الإنتاج",
+        "en": "Production control"
+      },
+      "reasons": [
+        {
+          "ar": "عدم اتباع جدول حجم الانتاج VCMC",
+          "en": "Did not follow VCMC production levels"
+        },
+        {
+          "ar": "عدم التنسيق مع موظفين الخبز والتجميع",
+          "en": "Did not coordinate with bun and assembly stations"
+        },
+        {
+          "ar": "هدر في المنتج",
+          "en": "Product waste"
+        },
+        {
+          "ar": "إنتاج زائد",
+          "en": "Overproduction"
+        },
+        {
+          "ar": "إنتاج أقل من المطلوب",
+          "en": "Underproduction"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلامة",
+        "en": "Safety"
+      },
+      "reasons": [
+        {
+          "ar": "التعامل غير الآمن مع الحرارة",
+          "en": "Unsafe handling of heat"
+        },
+        {
+          "ar": "عدم استخدام معدات الحماية",
+          "en": "Did not use protective equipment"
+        },
+        {
+          "ar": "حركة غير آمنة",
+          "en": "Unsafe movement"
+        },
+        {
+          "ar": "تجاهل مخاطر الحروق",
+          "en": "Ignored burn risks"
+        },
+        {
+          "ar": "ضعف الوعي بالمخاطر",
+          "en": "Low risk awareness"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 8,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 9,
+      "max": 10,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

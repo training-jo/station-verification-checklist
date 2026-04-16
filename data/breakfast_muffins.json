@@ -1,0 +1,177 @@
+{
+  "title": {
+    "ar": "قائمة الإفطار - المافن",
+    "en": "Breakfast Muffin Station"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        { "ar": "لا يرتدي قفازات أثناء العمل", "en": "Not wearing gloves during handling" },
+        { "ar": "لا يرتدي غطاء رأس", "en": "Not wearing hairnet" },
+        { "ar": "لا يغسل يديه بشكل منتظم", "en": "Does not wash hands regularly" },
+        { "ar": "الزي غير نظيف", "en": "Uniform is not clean" },
+        { "ar": "يلمس الوجه أثناء التحضير", "en": "Touching face during preparation" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "غسل اليدين والالتزام بسلامة الغذاء",
+        "en": "Handwashing and food safety compliance"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه كل ساعة", "en": "Does not wash hands every hour" },
+        { "ar": "لا يغير القفازات عند الحاجة", "en": "Does not change gloves when required" },
+        { "ar": "لا يلتزم بمبدأ FIFO", "en": "Does not follow FIFO" },
+        { "ar": "يستخدم مافن منتهي الصلاحية", "en": "Uses expired muffin stock" },
+        { "ar": "لا يلتزم بمدة الحفظ (10–15 دقيقة)", "en": "Does not follow holding time (10–15 minutes)" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تحضير المافن (الشق والتعامل)",
+        "en": "Muffin preparation (handling & splitting)"
+      },
+      "reasons": [
+        { "ar": "شق المافن بطريقة خاطئة (تمزق)", "en": "Incorrect splitting technique (tearing muffin)" },
+        { "ar": "لا يستخدم المافن بدرجة حرارة الغرفة", "en": "Does not keep muffin at room temperature before use" },
+        { "ar": "تعامل غير صحيح مع المنتج", "en": "Poor handling causing damage" },
+        { "ar": "لا يجهز الكمية المطلوبة", "en": "Does not prepare correct quantity" },
+        { "ar": "ضعف في النظافة أثناء التعامل", "en": "Poor product handling hygiene" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "دهن الزبدة",
+        "en": "Butter application"
+      },
+      "reasons": [
+        { "ar": "لا يدهن الزبدة قبل التحميص", "en": "Does not apply butter before toasting" },
+        { "ar": "توزيع غير متساوي للزبدة", "en": "Uneven butter application" },
+        { "ar": "كمية غير مناسبة", "en": "Excessive or insufficient butter" },
+        { "ar": "يتجاهل خطوة الزبدة", "en": "Skips butter step" },
+        { "ar": "ضعف في الدقة", "en": "Poor attention to detail" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تشغيل جهاز التحميص (Toaster)",
+        "en": "Toaster operation (Antunes MT-12)"
+      },
+      "reasons": [
+        { "ar": "تحميل غير صحيح للمافن", "en": "Incorrect loading (wrong number of muffins)" },
+        { "ar": "لا يلتزم بوقت التحميص (55–90 ثانية)", "en": "Does not follow timing (55–90 sec)" },
+        { "ar": "لا يتبع طريقة التشغيل الصحيحة", "en": "Does not use correct toaster procedure" },
+        { "ar": "استخدام غير صحيح للـ Spatula", "en": "Incorrect use of spatula" },
+        { "ar": "تعامل غير صحيح مع الجهاز", "en": "Poor handling of toaster equipment" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة التحميص",
+        "en": "Muffin toasting quality"
+      },
+      "reasons": [
+        { "ar": "غير محمص بشكل متساوي", "en": "Not evenly toasted" },
+        { "ar": "محروق", "en": "Burnt muffin" },
+        { "ar": "غير محمص (لون فاتح)", "en": "Pale (under-toasted)" },
+        { "ar": "غير مقرمش من الخارج", "en": "Not crispy outside" },
+        { "ar": "قوام داخلي غير مناسب", "en": "Poor internal texture" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع UHC والحفظ",
+        "en": "UHC handling and holding"
+      },
+      "reasons": [
+        { "ar": "لا يجهز الـ UHC بشكل صحيح", "en": "Does not prepare UHC slot properly" },
+        { "ar": "ترتيب غير صحيح داخل الجهاز", "en": "Incorrect placement in UHC" },
+        { "ar": "لا يضبط المؤقت (10–15 دقيقة)", "en": "Does not set timer correctly (10–15 min)" },
+        { "ar": "يحتفظ بمنتج منتهي", "en": "Keeps expired muffins" },
+        { "ar": "ضعف في تدوير المخزون", "en": "Poor stock rotation" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السرعة وكفاءة الخدمة",
+        "en": "Speed and service efficiency"
+      },
+      "reasons": [
+        { "ar": "بطء في التحضير", "en": "Slow preparation" },
+        { "ar": "لا يحافظ على توفر المنتج", "en": "Does not maintain stock" },
+        { "ar": "تأخير في أوقات الذروة", "en": "Delays during peak" },
+        { "ar": "ضعف التنسيق مع محطة التجميع", "en": "Poor coordination with assembly station" },
+        { "ar": "لا يلتزم بزمن التحضير (35–50 ثانية)", "en": "Does not follow preparation timing (35–50 sec)" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "النظافة وتنظيم المحطة",
+        "en": "Cleanliness and station organization"
+      },
+      "reasons": [
+        { "ar": "المحطة غير نظيفة أثناء العمل", "en": "Station not clean during operation" },
+        { "ar": "لا ينظف منطقة التوستر", "en": "Does not clean toaster area" },
+        { "ar": "لا يغير الفوط", "en": "Does not change towels regularly" },
+        { "ar": "لا يعقم الأدوات كل ساعتين", "en": "Equipment not sanitized every 2 hours" },
+        { "ar": "سوء ترتيب الأدوات", "en": "Poor organization of tools" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف جهاز التوستر",
+        "en": "Toaster cleaning procedure"
+      },
+      "reasons": [
+        { "ar": "لا يلتزم بإجراءات التنظيف", "en": "Does not follow cleaning procedure" },
+        { "ar": "ينظف الجهاز وهو ساخن", "en": "Cleans toaster while hot" },
+        { "ar": "يستخدم مواد تنظيف غير مناسبة", "en": "Uses incorrect cleaning materials" },
+        { "ar": "وجود تراكمات كربونية", "en": "Leaves carbon buildup" },
+        { "ar": "لا يعيد تركيب الأجزاء بشكل صحيح", "en": "Does not reassemble equipment properly" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلامة أثناء العمل",
+        "en": "Safety awareness"
+      },
+      "reasons": [
+        { "ar": "استخدام غير آمن للتوستر", "en": "Unsafe handling of hot toaster" },
+        { "ar": "خطر الحروق", "en": "Risk of burns" },
+        { "ar": "لا يستخدم الأدوات المناسبة", "en": "Does not use proper tools" },
+        { "ar": "لا يفصل الكهرباء قبل التنظيف", "en": "Does not unplug before cleaning" },
+        { "ar": "لا يرتدي أحذية آمنة", "en": "Not wearing safety shoes" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 8,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 9,
+      "max": 11,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

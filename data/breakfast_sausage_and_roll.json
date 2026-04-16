@@ -1,0 +1,314 @@
+{
+  "title": {
+    "ar": "قائمة الإفطار - الصوصج والرول",
+    "en": "Breakfast Sausage & Roll"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية",
+        "en": "Personal hygiene"
+      },
+      "reasons": [
+        {
+          "ar": "لا يرتدي قفازات أثناء العمل",
+          "en": "Not wearing gloves during production"
+        },
+        {
+          "ar": "لا يرتدي غطاء رأس",
+          "en": "Not wearing hairnet"
+        },
+        {
+          "ar": "لا يغسل يديه بشكل منتظم",
+          "en": "Does not wash hands regularly"
+        },
+        {
+          "ar": "الزي غير نظيف",
+          "en": "Uniform is not clean"
+        },
+        {
+          "ar": "يلمس الوجه أثناء التحضير",
+          "en": "Touching face during food handling"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "غسل اليدين والالتزام بسلامة الغذاء",
+        "en": "Handwashing and food safety compliance"
+      },
+      "reasons": [
+        {
+          "ar": "لا يغسل يديه كل ساعة",
+          "en": "Does not wash hands every hour"
+        },
+        {
+          "ar": "لا يغير القفازات عند الحاجة",
+          "en": "Does not change gloves when required"
+        },
+        {
+          "ar": "لا يلتزم بمبدأ FIFO",
+          "en": "Does not follow FIFO"
+        },
+        {
+          "ar": "لا يراعي تواريخ الصلاحية",
+          "en": "Ignores expiry dates"
+        },
+        {
+          "ar": "لا يلتزم بمدة الحفظ (15–20 دقيقة)",
+          "en": "Does not follow holding time standards (15–20 min)"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "طريقة طهي السجق (Grill)",
+        "en": "Sausage cooking procedure (Grill)"
+      },
+      "reasons": [
+        {
+          "ar": "يضع عدد غير صحيح من القطع على الجريل",
+          "en": "Places incorrect number of patties on grill"
+        },
+        {
+          "ar": "لا يلتزم بدرجات الحرارة الصحيحة",
+          "en": "Does not follow correct grill temperature"
+        },
+        {
+          "ar": "لا يلتزم بوقت الطهي (84 ثانية)",
+          "en": "Does not follow cooking time (84 sec)"
+        },
+        {
+          "ar": "لا يتبع ترتيب وضع القطع على الجريل",
+          "en": "Incorrect placement order on grill (no system)"
+        },
+        {
+          "ar": "تعامل غير آمن مع الجريل",
+          "en": "Unsafe handling of grill"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التعامل مع السجق و UHC",
+        "en": "Sausage handling and UHC process"
+      },
+      "reasons": [
+        {
+          "ar": "تكديس غير صحيح (ليس مجموعات 4 قطع)",
+          "en": "Incorrect stacking method (not in groups of 4)"
+        },
+        {
+          "ar": "نقل غير صحيح إلى الـ UHC",
+          "en": "Poor transfer to UHC"
+        },
+        {
+          "ar": "لا يضبط مؤقت الحفظ",
+          "en": "Does not set holding timer correctly"
+        },
+        {
+          "ar": "إنتاج زائد أو ناقص",
+          "en": "Overproduction or underproduction"
+        },
+        {
+          "ar": "تجهيز غير صحيح للـ tray",
+          "en": "Poor tray preparation"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "طريقة طهي رول الدجاج",
+        "en": "Chicken roll cooking procedure"
+      },
+      "reasons": [
+        {
+          "ar": "لا يستخدم المنطقة الباردة من الجريل (~265°F)",
+          "en": "Uses wrong grill zone (not cold zone ~265°F)"
+        },
+        {
+          "ar": "لا يلتزم بوقت الطهي (4 ثواني لكل جانب)",
+          "en": "Does not follow cooking time (4 sec each side)"
+        },
+        {
+          "ar": "يترك المنتج أكثر من اللازم (جاف)",
+          "en": "Leaves product too long (dry product)"
+        },
+        {
+          "ar": "لا يتبع ترتيب التقليب الصحيح",
+          "en": "Incorrect flipping sequence"
+        },
+        {
+          "ar": "استخدام أدوات غير مناسبة",
+          "en": "Poor handling using wrong tools"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة السجق",
+        "en": "Product quality (Sausage)"
+      },
+      "reasons": [
+        {
+          "ar": "غير طري أو جاف",
+          "en": "Not juicy or dry"
+        },
+        {
+          "ar": "مطهو زيادة أو ناقص",
+          "en": "Overcooked or undercooked"
+        },
+        {
+          "ar": "اللون غير مناسب",
+          "en": "Poor color (not golden brown)"
+        },
+        {
+          "ar": "قوام غير صحيح",
+          "en": "Wrong texture"
+        },
+        {
+          "ar": "لا يطابق معايير الجودة",
+          "en": "Does not meet quality standards"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "جودة رول الدجاج",
+        "en": "Product quality (Chicken Roll)"
+      },
+      "reasons": [
+        {
+          "ar": "غير ساخن",
+          "en": "Not hot"
+        },
+        {
+          "ar": "غير عصاري",
+          "en": "Not juicy"
+        },
+        {
+          "ar": "جاف أو مطهو زيادة",
+          "en": "Overcooked or dry"
+        },
+        {
+          "ar": "لون غير مناسب",
+          "en": "Poor color"
+        },
+        {
+          "ar": "غير طازج",
+          "en": "Not fresh"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السرعة وكفاءة الإنتاج",
+        "en": "Speed and production efficiency"
+      },
+      "reasons": [
+        {
+          "ar": "لا يحافظ على توفر المنتج في UHC",
+          "en": "Does not maintain ready stock in UHC"
+        },
+        {
+          "ar": "بطء أثناء أوقات الذروة",
+          "en": "Slow production during peak"
+        },
+        {
+          "ar": "لا يتبع نظام الإنتاج على دفعات",
+          "en": "Does not follow batch cooking system"
+        },
+        {
+          "ar": "ضعف التوقع للطلب",
+          "en": "Poor anticipation of demand"
+        },
+        {
+          "ar": "تأخير في إعادة التعبئة",
+          "en": "Delays in replenishment"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "النظافة وتنظيم المحطة",
+        "en": "Cleanliness and station organization"
+      },
+      "reasons": [
+        {
+          "ar": "المحطة غير نظيفة أثناء العمل",
+          "en": "Station not clean during operation"
+        },
+        {
+          "ar": "لا يغير فوط التنظيف",
+          "en": "Does not change cleaning towels"
+        },
+        {
+          "ar": "لا يعقم المعدات بشكل منتظم",
+          "en": "Equipment not sanitized regularly"
+        },
+        {
+          "ar": "الأرضية غير نظيفة أو مبللة",
+          "en": "Floor not clean or wet"
+        },
+        {
+          "ar": "سوء ترتيب الأدوات",
+          "en": "Poor organization of tools"
+        }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلامة أثناء العمل",
+        "en": "Safety awareness"
+      },
+      "reasons": [
+        {
+          "ar": "لا ينظف الانسكابات فوراً",
+          "en": "Does not clean spills immediately"
+        },
+        {
+          "ar": "استخدام غير آمن للجريل",
+          "en": "Unsafe use of grill"
+        },
+        {
+          "ar": "معرض للحروق",
+          "en": "Risk of burns due to wrong handling"
+        },
+        {
+          "ar": "لا يستخدم الأدوات المناسبة",
+          "en": "Not using proper tools (tongs, gloves)"
+        },
+        {
+          "ar": "لا يرتدي أحذية آمنة",
+          "en": "Wearing unsafe shoes"
+        }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 4,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 5,
+      "max": 7,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 8,
+      "max": 10,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}

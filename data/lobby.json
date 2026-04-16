@@ -1,0 +1,190 @@
+{
+  "title": {
+    "ar": "محطة الصالة",
+    "en": "Lobby Station"
+  },
+  "items": [
+    {
+      "text": {
+        "ar": "النظافة الشخصية وسلامة الغذاء",
+        "en": "Personal hygiene and food safety"
+      },
+      "reasons": [
+        { "ar": "لا يغسل يديه بشكل منتظم (كل ساعة)", "en": "Does not wash hands regularly (every hour)" },
+        { "ar": "ضعف في النظافة الشخصية", "en": "Poor personal hygiene" },
+        { "ar": "ارتداء إكسسوارات", "en": "Wearing accessories" },
+        { "ar": "يلمس الوجه أثناء العمل", "en": "Touching face during work" },
+        { "ar": "لا يبلغ عن المرض", "en": "Does not report illness" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "خدمة العملاء الاستباقية",
+        "en": "Proactive customer service"
+      },
+      "reasons": [
+        { "ar": "لا يبادر بمساعدة العملاء", "en": "Does not approach customers proactively" },
+        { "ar": "لا يساعد عند الحاجة", "en": "Does not assist customers when needed" },
+        { "ar": "لا يساعد في حمل الطلبات", "en": "Does not help with trays or large orders" },
+        { "ar": "لا يفتح الأبواب للعملاء", "en": "Does not open doors for customers" },
+        { "ar": "يتجاهل احتياجات العملاء", "en": "Ignores customer needs" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "العناية بالعميل والضيافة",
+        "en": "Customer care and hospitality"
+      },
+      "reasons": [
+        { "ar": "لا يبتسم أو يرحب", "en": "Does not smile or greet customers" },
+        { "ar": "ضعف التواصل مع العملاء", "en": "Poor communication with guests" },
+        { "ar": "لا يستبدل الطلبات غير الصحيحة", "en": "Does not replace incorrect items" },
+        { "ar": "لا يتعامل مع الشكاوى بشكل صحيح", "en": "Does not handle complaints properly" },
+        { "ar": "ضعف ثقافة الضيافة", "en": "Weak hospitality culture" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "نظافة صالة الطعام",
+        "en": "Dining area cleanliness"
+      },
+      "reasons": [
+        { "ar": "الطاولات غير نظيفة بعد الاستخدام", "en": "Tables not cleaned after use" },
+        { "ar": "وجود نفايات على الطاولات", "en": "Trash left on tables" },
+        { "ar": "الكراسي والأسطح غير نظيفة", "en": "Chairs and surfaces not cleaned" },
+        { "ar": "ضعف تكرار التنظيف", "en": "Poor cleaning frequency" },
+        { "ar": "بيئة غير نظيفة", "en": "Dirty dining environment" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إدارة النفايات",
+        "en": "Waste management"
+      },
+      "reasons": [
+        { "ar": "لا يفحص الحاويات بشكل منتظم (كل 30 دقيقة / 15 وقت الذروة)", "en": "Does not check bins regularly (every 30 min / 15 min peak)" },
+        { "ar": "امتلاء الحاويات", "en": "Trash bins overflowing" },
+        { "ar": "لا يغير الأكياس بشكل صحيح", "en": "Does not replace bags properly" },
+        { "ar": "عدم تنظيف الحاويات", "en": "Poor cleaning of bins" },
+        { "ar": "وجود روائح كريهة", "en": "Bad odor / hygiene issues" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف الأرضيات والسلامة",
+        "en": "Floor cleaning and safety"
+      },
+      "reasons": [
+        { "ar": "الأرضيات غير نظيفة", "en": "Floors not cleaned properly" },
+        { "ar": "لا ينظف الانسكابات فوراً", "en": "Does not clean spills immediately" },
+        { "ar": "لا يستخدم لوحات “أرضية مبللة”", "en": "No 'Wet Floor' signs used" },
+        { "ar": "تنظيف غير آمن أثناء وجود العملاء", "en": "Unsafe cleaning during customer presence" },
+        { "ar": "خطر الانزلاق", "en": "Risk of slips or accidents" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تعقيم الطاولات والأسطح",
+        "en": "Tables and surfaces sanitization"
+      },
+      "reasons": [
+        { "ar": "لا يستخدم نظام الفوط الصحيح (أحمر / أزرق)", "en": "Does not use correct cloth system (red / blue)" },
+        { "ar": "يستخدم فوط غير نظيفة", "en": "Uses dirty cloths" },
+        { "ar": "لا يعقم الأسطح بشكل صحيح", "en": "Does not sanitize surfaces properly" },
+        { "ar": "طريقة تنظيف غير صحيحة", "en": "Poor cleaning technique" },
+        { "ar": "خطر تلوث", "en": "Cross-contamination risk" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف وصيانة دورات المياه",
+        "en": "Restroom cleaning and maintenance"
+      },
+      "reasons": [
+        { "ar": "لا يتم تنظيف دورات المياه كل 30 دقيقة (15 وقت الذروة)", "en": "Restrooms not cleaned every 30 min (15 min peak)" },
+        { "ar": "نقص في الصابون أو المناديل", "en": "Missing soap or tissue" },
+        { "ar": "مجففات اليد لا تعمل", "en": "Hand dryers not working" },
+        { "ar": "ضعف تعقيم المراحيض", "en": "Poor sanitation of toilets" },
+        { "ar": "روائح أو نظافة سيئة", "en": "Unpleasant smell or dirty condition" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيم الصالة",
+        "en": "Dining area organization"
+      },
+      "reasons": [
+        { "ar": "عدم رفع الصواني", "en": "Trays not cleared from tables" },
+        { "ar": "سوء تنظيم الصالة", "en": "Poor organization of lobby" },
+        { "ar": "ركن الإضافات غير مرتب", "en": "Condiment station not stocked" },
+        { "ar": "ترتيب غير مناسب للمقاعد", "en": "Poor arrangement of seating area" },
+        { "ar": "بيئة مزدحمة", "en": "Cluttered environment" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إدارة ركن الإضافات",
+        "en": "Condiment station management"
+      },
+      "reasons": [
+        { "ar": "عدم توفر الإضافات", "en": "Condiments not available" },
+        { "ar": "عدم تعبئة المناديل", "en": "Napkins not refilled" },
+        { "ar": "الركن غير نظيف", "en": "Station not clean" },
+        { "ar": "ضعف المتابعة", "en": "Poor monitoring" },
+        { "ar": "مظهر غير مرتب", "en": "Messy appearance" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "نظافة المرافق والمعدات",
+        "en": "Equipment and facility cleanliness"
+      },
+      "reasons": [
+        { "ar": "النوافذ غير نظيفة", "en": "Windows not clean" },
+        { "ar": "الأبواب غير نظيفة", "en": "Doors not clean" },
+        { "ar": "وجود غبار على الديكور", "en": "Decorations dusty" },
+        { "ar": "ضعف صيانة المرافق", "en": "Poor facility maintenance" },
+        { "ar": "بيئة غير نظيفة", "en": "Dirty environment" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "السلامة والانضباط",
+        "en": "Safety and work discipline"
+      },
+      "reasons": [
+        { "ar": "لا يستخدم القفازات عند الحاجة", "en": "Does not use gloves when required" },
+        { "ar": "ممارسات تنظيف غير آمنة", "en": "Unsafe cleaning practices" },
+        { "ar": "استخدام أدوات خاطئة", "en": "Uses wrong tools" },
+        { "ar": "عدم الالتزام بالإجراءات", "en": "Does not follow procedures" },
+        { "ar": "ضعف الوعي بالسلامة", "en": "Poor awareness of safety" }
+      ]
+    }
+  ],
+  "bands": [
+    {
+      "min": 0,
+      "max": 5,
+      "text": {
+        "ar": "غير موثق - أعد التدريب",
+        "en": "Not Verified - retraining required"
+      }
+    },
+    {
+      "min": 6,
+      "max": 9,
+      "text": {
+        "ar": "بحاجة إلى توجيه إضافي",
+        "en": "Needs additional coaching"
+      }
+    },
+    {
+      "min": 10,
+      "max": 12,
+      "text": {
+        "ar": "موثق للعمل بمفرده على المحطة",
+        "en": "Verified to work independently at the station"
+      }
+    }
+  ]
+}
