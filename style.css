@@ -1033,3 +1033,76 @@ html[dir="ltr"] .paper-brand > div {
 .admin-btn:hover {
   background: #ffb800;
 }
+
+
+
+
+/* Admin Layout */
+.small-hero {
+  padding: 20px;
+  text-align: center;
+}
+
+.admin-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.admin-card {
+  background: #fff;
+  padding: 30px;
+  width: 350px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.admin-card h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Inputs */
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+/* Button */
+.create-btn {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+  background: #D92D27;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.create-btn:hover {
+  background: #b9221d;
+}
+
+/* Status message */
+.status-msg {
+  margin-top: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.status-msg.success {
+  color: green;
+}
+
+.status-msg.error {
+  color: red;
+}

@@ -1,58 +1,94 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Admin Panel</title>
+
+  <link rel="stylesheet" href="style.css" />
   <script src="app/auth.js"></script>
 </head>
+
 <body>
 
-<h2>Create Store User</h2>
+  <!-- 🔴 HEADER -->
+  <div class="hero small-hero">
+    <div class="hero-badge">Junior's Training Department</div>
 
-<input id="username" placeholder="Store ID">
-<input id="password" placeholder="Password">
-<select id="role">
-  <option value="store">Store</option>
-  <option value="admin">Admin</option>
-</select>
+    <div class="hero-top">
+      <button class="logout-btn" onclick="logout()">Logout</button>
+    </div>
 
-<button onclick="createUser()">Create User</button>
+    <h1>Admin Panel</h1>
+    <p>Create Store Users</p>
+  </div>
 
-<script>
-checkAuth();
+  <!-- 🟡 CARD -->
+  <div class="admin-container">
 
-async function createUser() {
-  const username = document.getElementById("username").value;
-  const password = document.getElementById("password").value;
-  const role = document.getElementById("role").value;
+    <div class="admin-card">
+      <h2>Create Store User</h2>
 
-  const token = localStorage.getItem("token");
+      <div class="form-group">
+        <input id="username" type="text" placeholder="Store ID (e.g. 962001)" />
+      </div>
 
-  try {
-    const res = await fetch("https://station-verification-checklist-backend.onrender.com/create-user", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "Authorization": "Bearer " + token   // 🔐 IMPORTANT
-      },
-      body: JSON.stringify({ username, password, role })
-    });
+      <div class="form-group">
+        <input id="password" type="password" placeholder="Password" />
+      </div>
 
-    const data = await res.json();
+      <div class="form-group">
+        <select id="role">
+          <option value="store">Store</option>
+          <option value="admin">Admin</option>
+        </select>
+      </div>
 
-    console.log(data);
+      <button class="create-btn" onclick="createUser()">Create User</button>
 
-    if (data.ok) {
-      alert("User created successfully");
-    } else {
-      alert(data.error || "Failed to create user");
+      <p id="statusMsg" class="status-msg"></p>
+    </div>
+
+  </div>
+
+  <!-- JS -->
+  <script>
+    checkAuth();
+
+    async function createUser() {
+      const username = document.getElementById("username").value;
+      const password = document.getElementById("password").value;
+      const role = document.getElementById("role").value;
+      const token = localStorage.getItem("token");
+
+      const msg = document.getElementById("statusMsg");
+
+      try {
+        const res = await fetch("https://station-verification-checklist-backend.onrender.com/create-user", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "Authorization": "Bearer " + token
+          },
+          body: JSON.stringify({ username, password, role })
+        });
+
+        const data = await res.json();
+
+        if (data.ok) {
+          msg.innerText = "✅ User created successfully";
+          msg.className = "status-msg success";
+        } else {
+          msg.innerText = "❌ " + (data.error || "Error");
+          msg.className = "status-msg error";
+        }
+
+      } catch (err) {
+        msg.innerText = "❌ Server error";
+        msg.className = "status-msg error";
+      }
     }
-
-  } catch (err) {
-    console.error(err);
-    alert("Server error");
-  }
-}
-</script>
+  </script>
 
 </body>
 </html>
