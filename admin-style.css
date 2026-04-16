@@ -1,0 +1,117 @@
+/* ============================= */
+/* 🔥 ADMIN PAGE OVERRIDE */
+/* ============================= */
+
+.admin-page {
+  background: #f5f2eb;
+}
+
+/* Layout */
+.admin-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 50px 20px;
+  flex-wrap: wrap;
+}
+
+/* FORM CARD */
+.admin-card {
+  background: #fff;
+  padding: 30px;
+  border-radius: 20px;
+  width: 320px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.admin-card h2 {
+  margin-bottom: 20px;
+}
+
+/* INPUTS */
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  font-size: 14px;
+}
+
+/* BUTTON */
+.create-btn {
+  width: 100%;
+  padding: 12px;
+  border-radius: 20px;
+  border: none;
+  background: #d92d27;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.create-btn:hover {
+  background: #b7221f;
+}
+
+/* STATUS */
+.status-msg {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.status-msg.success {
+  color: green;
+}
+
+.status-msg.error {
+  color: red;
+}
+
+/* USERS LIST */
+.admin-users {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 20px;
+  width: 320px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.admin-users h2 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* USER ITEM */
+.user-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f7f7f7;
+  padding: 10px 12px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+/* DELETE BUTTON */
+.user-item button {
+  background: #d92d27;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.user-item button:hover {
+  background: #b7221f;
+}
