@@ -68,40 +68,39 @@
 
     initAdmin();
 
-    async function createUser() {
-      const username = document.getElementById("username").value;
-      const password = document.getElementById("password").value;
-      const role = document.getElementById("role").value;
-      const token = localStorage.getItem("token");
+   async function createUser() {
+  const username = document.getElementById("username").value;
+  const password = document.getElementById("password").value;
+  const role = document.getElementById("role").value;
 
-      const msg = document.getElementById("statusMsg");
+  const msg = document.getElementById("statusMsg");
 
-      try {
-        const res = await fetch("https://station-verification-checklist-backend.onrender.com/create-user", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            "Authorization": "Bearer " + token
-          },
-          body: JSON.stringify({ username, password, role })
-        });
+  try {
+    const res = await fetch("https://station-verification-checklist-backend.onrender.com/register", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ username, password, role })
+    });
 
-        const data = await res.json();
+    const data = await res.json(); // ✅ THIS WAS MISSING
 
-        if (data.ok) {
-          msg.innerText = "✅ User created successfully";
-          msg.className = "status-msg success";
-          loadUsers(); // refresh list
-        } else {
-          msg.innerText = "❌ " + (data.error || "Error");
-          msg.className = "status-msg error";
-        }
-
-      } catch (err) {
-        msg.innerText = "❌ Server error";
-        msg.className = "status-msg error";
-      }
+    if (data.ok) {
+      msg.innerText = "✅ User created successfully";
+      msg.className = "status-msg success";
+      loadUsers(); // refresh list
+    } else {
+      msg.innerText = "❌ " + (data.error || "Error");
+      msg.className = "status-msg error";
     }
+
+  } catch (err) {
+    console.error(err);
+    msg.innerText = "❌ Server error";
+    msg.className = "status-msg error";
+  }
+}
 
     async function loadUsers() {
       const token = localStorage.getItem("token");
