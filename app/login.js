@@ -31,3 +31,8 @@ async function login() {
     alert("Server error");
   }
 }
+
+function handleLogin(event) {
+  event.preventDefault(); // stop page reload
+  login(); // your existing function
+}

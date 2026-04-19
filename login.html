@@ -18,10 +18,14 @@
   <h2 class="title">Station Verification Checklist</h2>
   <p class="subtitle small">Store Login</p>
 
+  <form onsubmit="handleLogin(event)">
+
   <input type="text" id="username" placeholder="Store ID">
   <input type="password" id="password" placeholder="Password">
 
-  <button class="login-btn" onclick="login()">Login</button>
+  <button type="submit" class="login-btn">Login</button>
+
+</form>
 
 </div>
 
