@@ -76,13 +76,16 @@
   const msg = document.getElementById("statusMsg");
 
   try {
-    const res = await fetch("https://station-verification-checklist-backend.onrender.com/register", {
-      method: "POST",
-      headers: {
+   const token = localStorage.getItem("token");
+    
+   const res = await fetch("https://station-verification-checklist-backend.onrender.com/register", {
+    method: "POST",
+    headers: {
         "Content-Type": "application/json",
-      },
+        Authorization: "Bearer " + token   // ✅ ADD THIS
+        },
       body: JSON.stringify({ username, password, role })
-    });
+  });
 
     const data = await res.json(); // ✅ THIS WAS MISSING
 
