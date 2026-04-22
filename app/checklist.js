@@ -540,3 +540,16 @@ function logout() {
 
 
 
+function getEmailFromUser() {
+  const username = localStorage.getItem("username");
+
+  // decide email based on username 
+
+  if (username.startsWith("974")) { 
+    return username + "@juniors.com.qa"; // QA
+  } else if (username.startsWith("962")) {
+    return username + "@juniorsjordan.com"; // JO
+  }
+
+  return null; // unknown format
+}
