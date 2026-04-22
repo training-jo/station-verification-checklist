@@ -384,6 +384,13 @@ async function main() {
   document.getElementById("btnPrint").addEventListener("click", () => window.print());
   document.getElementById("btnReset").addEventListener("click", resetAll);
   document.getElementById("btnEmail").addEventListener("click", sendPdfByEmail);
+
+const email = getEmailFromUser();
+const emailInput = document.getElementById("storeEmail");
+
+if (email && emailInput) {
+  emailInput.value = email; // pre-fill email if we can determine it
+
 }
 
 main().catch(err => {
@@ -423,11 +430,9 @@ async function sendPdfByEmail() {
   const lang = getLang();
   const ui = UI[lang];
 
-  const to = document.getElementById("emailTo")?.value || "";
+  const to = getEmailFromUser();
   if (!to) {
-    alert(ui.chooseEmailFirst);
-    return;
-  }
+    alert("❌ Unable to determine store email");
 
   const crew = document.getElementById("crewName")?.value || "";
   const trainer = document.getElementById("trainerName")?.value || "";
@@ -513,7 +518,6 @@ ${ui.scoreLabel}: ${score}
 
     if (json.ok) {
       alert(ui.sendSuccess);
-      document.getElementById("emailTo").value = "";
     } else {
       alert(ui.sendFail + (json.error || "Unknown error"));
     }
