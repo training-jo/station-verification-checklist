@@ -391,7 +391,7 @@ const emailInput = document.getElementById("storeEmail");
 if (email && emailInput) {
   emailInput.value = email; // pre-fill email if we can determine it
 
-}
+}}
 
 main().catch(err => {
   document.getElementById("paper").innerHTML = `<div class="error">${err.message}</div>`;
@@ -434,6 +434,8 @@ async function sendPdfByEmail() {
   if (!to) {
     alert("❌ Unable to determine store email");
 
+    return;
+  }
   const crew = document.getElementById("crewName")?.value || "";
   const trainer = document.getElementById("trainerName")?.value || "";
 
