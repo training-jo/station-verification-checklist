@@ -392,10 +392,11 @@ if (email && emailInput) {
   emailInput.value = email; // pre-fill email if we can determine it
 
 }
+}
 
 main().catch(err => {
   document.getElementById("paper").innerHTML = `<div class="error">${err.message}</div>`;
-});}
+});
 
 
 
