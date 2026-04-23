@@ -20,6 +20,11 @@ async function login() {
       // ✅ Save token
       localStorage.setItem("token", data.token);
 
+      // Adding username to localStorage for later use in checklist
+      const payload = JSON.parse(atob(data.token.split(".")[1]));
+
+      localStorage.setItem("username", payload.username);
+
       // ✅ Redirect
       window.location.href = "homepage.html";
     } else {
