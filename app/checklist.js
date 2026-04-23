@@ -154,7 +154,8 @@ function applyStaticUI() {
   document.getElementById("verifiedOptionYes").textContent = ui.yes;
   document.getElementById("verifiedOptionNo").textContent = ui.no;
 
-  document.getElementById("labelEmailTo").textContent = ui.emailTo;
+  const labelEmail = document.getElementById("labelEmailTo");
+  if (labelEmail) labelEmail.textContent = ui.emailTo;
   document.getElementById("emailDefaultOption").textContent = ui.selectStore;
   document.getElementById("storeQueenRania").textContent = ui.queenRania;
   document.getElementById("storeMarka").textContent = ui.marka;
@@ -390,8 +391,8 @@ const emailInput = document.getElementById("storeEmail");
 
 if (email && emailInput) {
   emailInput.value = email; // pre-fill email if we can determine it
-
-}
+} else if (emailInput) {
+  emailInput.value = "Not detected ❌"; // clear if we can't determine
 }
 
 main().catch(err => {
