@@ -156,12 +156,6 @@ function applyStaticUI() {
 
   const labelEmail = document.getElementById("labelEmailTo");
   if (labelEmail) labelEmail.textContent = ui.emailTo;
-  document.getElementById("emailDefaultOption").textContent = ui.selectStore;
-  document.getElementById("storeQueenRania").textContent = ui.queenRania;
-  document.getElementById("storeMarka").textContent = ui.marka;
-  document.getElementById("storeCorridorAbdoun").textContent = ui.corridorAbdoun;
-  document.getElementById("storeMeccaSt").textContent = ui.meccaSt;
-  document.getElementById("storeTrainingDept").textContent = ui.trainingDept;
 
   document.getElementById("sigCrewTitle").textContent = ui.traineeSig;
   document.getElementById("sigTrainerTitle").textContent = ui.trainerSig;
@@ -394,7 +388,7 @@ if (email && emailInput) {
 } else if (emailInput) {
   emailInput.value = "Not detected ❌"; // clear if we can't determine
 }
-
+}
 main().catch(err => {
   document.getElementById("paper").innerHTML = `<div class="error">${err.message}</div>`;
 });
