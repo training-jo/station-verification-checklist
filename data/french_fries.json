@@ -6,198 +6,245 @@
   "items": [
     {
       "text": {
-        "ar": "النظافة وسلامة الغذاء",
-        "en": "Food safety and hygiene"
+        "ar": "سلامة الغذاء: غسل اليدين. غسل اليدين بشكل صحيح ومتكرر من أهم خطوات سلامة الغذاء.",
+        "en": "Food safety: Wash hands. Proper and frequent hand washing by crew members is one of the most important food safety steps."
       },
       "reasons": [
         { "ar": "لا يغسل يديه بشكل صحيح أو متكرر", "en": "Does not wash hands properly or frequently" },
-        { "ar": "لا يدرك أهمية غسل اليدين كخطوة أساسية لسلامة الغذاء", "en": "Does not understand importance of handwashing for food safety" }
+        { "ar": "لا يدرك أهمية غسل اليدين", "en": "Does not understand importance of handwashing" }
       ]
     },
     {
       "text": {
-        "ar": "إعدادات القلاية",
-        "en": "Fryer settings"
+        "ar": "فحص إعدادات القلاية: اختيار برنامج FR FRIES، درجة الحرارة 335°F، ووقت الطهي 3 دقائق.",
+        "en": "Check fryer settings: FR FRIES program, temperature 335°F, cooking time 3 minutes."
       },
       "reasons": [
-        { "ar": "اختيار برنامج خاطئ (FR FRIES)", "en": "Wrong fryer program selected (FR FRIES)" },
-        { "ar": "درجة الحرارة غير صحيحة (335°F)", "en": "Incorrect temperature (335°F)" },
-        { "ar": "وقت الطهي غير صحيح (3 دقائق)", "en": "Incorrect cooking time (3 minutes)" }
+        { "ar": "اختيار برنامج خاطئ", "en": "Wrong fryer program" },
+        { "ar": "درجة حرارة غير صحيحة", "en": "Incorrect temperature" },
+        { "ar": "وقت طهي غير صحيح", "en": "Incorrect cooking time" }
       ]
     },
     {
       "text": {
-        "ar": "تجهيز المعدات والمخزون",
-        "en": "Equipment and stock check"
+        "ar": "فحص المخزون والمعدات: التأكد من توفر الأدوات (Skimmer، مناديل، بطاطس مجمدة، زيت، أكياس، علب).",
+        "en": "Check stock levels and equipment: skimmer, paper towels, frozen fries, oil, bags and boxes."
       },
       "reasons": [
-        { "ar": "عدم توفر الأدوات (Skimmer / مناديل / بطاطس / زيت / أكياس)", "en": "Missing tools (skimmer, towels, fries, oil, bags)" },
-        { "ar": "عدم فحص مستوى الزيت", "en": "Does not check oil level" },
-        { "ar": "عدم تعبئة الزيت حتى الخط المطلوب", "en": "Does not fill oil to required level" }
+        { "ar": "نقص في الأدوات أو المواد", "en": "Missing tools or materials" },
+        { "ar": "عدم فحص المعدات", "en": "Does not check equipment readiness" }
       ]
     },
     {
       "text": {
-        "ar": "تحميل السلال وجودة المنتج",
-        "en": "Loading baskets and product quality"
+        "ar": "فحص مستوى الزيت: التأكد من أن الزيت عند الخط المحدد، وإذا لم يكن كذلك يتم تعبئته.",
+        "en": "Check oil level: ensure the vat is filled to the line, refill if needed."
       },
       "reasons": [
-        { "ar": "عدم طهي البطاطس وهي مجمدة", "en": "Does not cook fries from frozen state" },
-        { "ar": "التعامل مع البطاطس بشكل خشن", "en": "Handles fries roughly" },
-        { "ar": "تلف المنتج بسبب سوء التعامل", "en": "Damages fries during handling" }
+        { "ar": "مستوى الزيت غير صحيح", "en": "Incorrect oil level" },
+        { "ar": "عدم تعبئة الزيت عند الحاجة", "en": "Does not refill oil when needed" }
       ]
     },
     {
       "text": {
-        "ar": "استخدام موزع البطاطس",
-        "en": "Using frozen fries dispenser"
+        "ar": "تحميل السلال: يجب طهي البطاطس وهي مجمدة للحفاظ على جودة المنتج، والتعامل معها بحذر لأنها حساسة.",
+        "en": "Load baskets: fries must be cooked from frozen to ensure quality, handle carefully as they are fragile."
       },
       "reasons": [
-        { "ar": "عدم تعبئة الخزان (Hopper)", "en": "Does not fill hopper" },
-        { "ar": "عدم إرجاع البطاطس للفريزر", "en": "Does not return unused fries to freezer" },
-        { "ar": "عدم إغلاق الغطاء", "en": "Does not close hopper lid" },
-        { "ar": "إعدادات الكمية غير صحيحة", "en": "Incorrect volume settings" },
-        { "ar": "عدم وضع السلال بشكل صحيح", "en": "Does not place baskets correctly" }
+        { "ar": "عدم الطهي من الحالة المجمدة", "en": "Not cooking from frozen" },
+        { "ar": "سوء التعامل مع البطاطس", "en": "Rough handling of fries" }
       ]
     },
     {
       "text": {
-        "ar": "وضع البطاطس في الزيت",
-        "en": "Placing in oil"
+        "ar": "استخدام موزع البطاطس: تعبئة الخزان، إعادة البطاطس غير المستخدمة للفريزر، إغلاق الغطاء، وضبط الكمية.",
+        "en": "Using fries dispenser: fill hopper, return unused fries to freezer, close lid, and check volume settings."
       },
       "reasons": [
-        { "ar": "وضع السلة بشكل غير صحيح", "en": "Incorrect basket placement" },
+        { "ar": "عدم تعبئة الخزان", "en": "Hopper not filled" },
+        { "ar": "عدم إعادة البطاطس للفريزر", "en": "Does not return fries to freezer" },
+        { "ar": "إعدادات غير صحيحة", "en": "Incorrect settings" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "وضع السلة في الزيت: وضع السلة في القلاية وتشغيل المؤقت مع تجنب تناثر الزيت.",
+        "en": "Place basket into oil: place basket into fryer and start timer while avoiding oil splashing."
+      },
+      "reasons": [
         { "ar": "عدم تشغيل المؤقت", "en": "Does not start timer" },
-        { "ar": "عدم غمر البطاطس بالكامل", "en": "Fries not fully submerged" },
-        { "ar": "تعامل غير آمن يسبب تناثر الزيت", "en": "Unsafe handling causing oil splashing" }
+        { "ar": "تعامل غير آمن مع الزيت", "en": "Unsafe oil handling" }
       ]
     },
     {
       "text": {
-        "ar": "هز السلة",
-        "en": "Shake basket"
+        "ar": "سلامة الغذاء: يجب أن تكون البطاطس مغمورة بالكامل في الزيت لضمان طهي متساوي.",
+        "en": "Food safety: fries must be fully submerged in oil to ensure even cooking."
       },
       "reasons": [
-        { "ar": "عدم هز السلة بعد 30 ثانية", "en": "Does not shake after 30 seconds" },
-        { "ar": "عدم الهز 3–4 مرات", "en": "Does not shake 3–4 times" },
-        { "ar": "التصاق البطاطس ببعضها", "en": "Fries stick together" }
+        { "ar": "عدم غمر البطاطس بالكامل", "en": "Fries not fully submerged" }
       ]
     },
     {
       "text": {
-        "ar": "الإزالة والتصفية",
-        "en": "Remove and drain"
+        "ar": "هز السلة: بعد 30 ثانية يتم رفع السلة وهزها 3–4 مرات لمنع الالتصاق ثم إعادتها.",
+        "en": "Shake basket: after 30 seconds, lift and shake basket 3–4 times then return to oil."
       },
       "reasons": [
-        { "ar": "عدم الالتزام بالمؤقت", "en": "Does not follow timer" },
-        { "ar": "عدم تصفية الزيت 5–10 ثواني", "en": "Does not drain for 5–10 seconds" },
-        { "ar": "ترك السلة أكثر من 10 ثواني", "en": "Leaves basket too long" },
-        { "ar": "البطاطس تصبح طرية", "en": "Fries become soggy" }
+        { "ar": "عدم الهز في الوقت المحدد", "en": "Does not shake on time" },
+        { "ar": "التصاق البطاطس", "en": "Fries sticking together" }
       ]
     },
     {
       "text": {
-        "ar": "تفريغ البطاطس",
-        "en": "Empty fries"
+        "ar": "إزالة وتصفية البطاطس: عند انتهاء المؤقت يتم رفع السلة وتعليقها 5–10 ثواني لتصفية الزيت.",
+        "en": "Remove and drain: when timer ends, lift basket and hang for 5–10 seconds to drain oil."
       },
       "reasons": [
-        { "ar": "خلط القديم مع الجديد", "en": "Mixes old and new fries" },
-        { "ar": "عدم تعليق السلة لتصفية الزيت", "en": "Does not hang basket to drain oil" },
-        { "ar": "تساقط الزيت على الأرض", "en": "Oil dripping on floor" }
+        { "ar": "عدم تصفية الزيت بشكل صحيح", "en": "Improper draining" },
+        { "ar": "ترك السلة لفترة طويلة", "en": "Leaves basket too long" }
       ]
     },
     {
       "text": {
-        "ar": "إضافة الملح",
-        "en": "Salting"
+        "ar": "الجودة: التصفية تضمن عودة الزيت للقلاية والحفاظ على جودة المنتج، ولا يجب ترك السلة أكثر من 10 ثواني.",
+        "en": "Quality: proper draining ensures oil returns to vat and maintains product quality, do not exceed 10 seconds."
+      },
+      "reasons": [
+        { "ar": "بطاطس دهنية أو طرية", "en": "Oily or soggy fries" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تفريغ البطاطس: يتم تفريغها في صينية التفريغ وعدم خلط القديم مع الجديد.",
+        "en": "Empty fries into dump tray and do not mix old with new fries."
+      },
+      "reasons": [
+        { "ar": "خلط القديم مع الجديد", "en": "Mixes old and new fries" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تعليق السلة: تعليق السلة فوق القلاية للسماح بتصريف الزيت ومنع سقوطه على الأرض.",
+        "en": "Hang basket over vat to allow oil to drain and prevent oil on floor."
+      },
+      "reasons": [
+        { "ar": "عدم تعليق السلة", "en": "Does not hang basket" },
+        { "ar": "خطر انزلاق", "en": "Slip hazard" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "إضافة الملح: يتم التمليح فوراً باستخدام Accu salt من ارتفاع 8 إنش وبحركة المظلة.",
+        "en": "Salt fries immediately using Accu salt dispenser from 8 inches using umbrella motion."
       },
       "reasons": [
         { "ar": "عدم التمليح مباشرة", "en": "Does not salt immediately" },
-        { "ar": "استخدام Accu Salt بشكل خاطئ", "en": "Incorrect use of Accu Salt" },
-        { "ar": "عدم الحفاظ على ارتفاع 8 إنش", "en": "Incorrect height while salting" },
-        { "ar": "عدم تطبيق حركة المظلة", "en": "Does not follow umbrella motion" },
-        { "ar": "عدم خلط البطاطس بحركة الشلال", "en": "Does not mix fries properly" }
+        { "ar": "توزيع ملح غير صحيح", "en": "Uneven salt distribution" }
       ]
     },
     {
       "text": {
-        "ar": "التعبئة",
-        "en": "Packaging"
+        "ar": "خلط البطاطس: يتم خلط البطاطس بلطف باستخدام حركة الشلال لضمان توزيع الملح.",
+        "en": "Gently mix fries using waterfall motion to distribute salt evenly."
       },
       "reasons": [
-        { "ar": "كمية غير صحيحة", "en": "Incorrect portioning" },
-        { "ar": "عدم استخدام المغرفة بشكل صحيح", "en": "Incorrect scoop usage" },
-        { "ar": "وضع المنتج في الصف الأول (منطقة باردة)", "en": "Uses first row (cold zone)" },
-        { "ar": "تأخير في التقديم", "en": "Delay in serving" }
+        { "ar": "عدم خلط البطاطس", "en": "Does not mix fries" }
       ]
     },
     {
       "text": {
-        "ar": "الجودة ومدة التقديم",
-        "en": "Quality and holding time"
+        "ar": "التعبئة: استخدام المغرفة لتعبئة الكمية الصحيحة ووضع العبوات في الرف.",
+        "en": "Use scoop to fill correct portion and place packages in rack."
       },
       "reasons": [
-        { "ar": "تقديم بطاطس بعد 7 دقائق", "en": "Serves fries older than 7 minutes" },
-        { "ar": "عدم التخلص من المنتج المنتهي", "en": "Does not discard expired fries" },
-        { "ar": "عدم تحقيق معايير الجودة", "en": "Does not meet quality standards" }
+        { "ar": "كمية غير صحيحة", "en": "Incorrect portioning" }
       ]
     },
     {
       "text": {
-        "ar": "تنظيف الزيت والربحية",
-        "en": "Oil cleaning and profitability"
+        "ar": "الجودة: عدم استخدام الصف الأول لأنه منطقة باردة ولن يحافظ على حرارة البطاطس.",
+        "en": "Quality: do not use first row of rack as it is a cold zone."
       },
       "reasons": [
-        { "ar": "عدم تنظيف الزيت من الشوائب", "en": "Does not skim oil" },
-        { "ar": "عدم التنظيف كل 30 دقيقة", "en": "Does not skim every 30 minutes" },
-        { "ar": "تراكم الشوائب", "en": "Oil contamination buildup" },
-        { "ar": "تأثير على عمر الزيت", "en": "Reduces oil life" }
+        { "ar": "استخدام منطقة باردة", "en": "Uses cold zone" }
       ]
     },
     {
       "text": {
-        "ar": "النظافة والسلامة",
-        "en": "Cleanliness and safety"
+        "ar": "مدة التقديم: يجب تقديم البطاطس خلال 7 دقائق، وبعدها يتم التخلص منها.",
+        "en": "Serve within 7 minutes, fries older than 7 minutes must be discarded."
       },
       "reasons": [
-        { "ar": "عدم تنظيف المنطقة", "en": "Does not clean area" },
-        { "ar": "خطر التلوث المتبادل", "en": "Risk of cross contamination" },
+        { "ar": "تقديم بطاطس منتهية", "en": "Serves expired fries" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف الزيت: إزالة الشوائب من الزيت كل 30 دقيقة للحفاظ على الجودة وإطالة عمر الزيت.",
+        "en": "Skim oil every 30 minutes to remove crumbs and extend oil life."
+      },
+      "reasons": [
+        { "ar": "عدم تنظيف الزيت", "en": "Does not skim oil" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "النظافة والسلامة: تنظيف المنطقة باستمرار لمنع التلوث والحفاظ على السلامة.",
+        "en": "Clean area regularly to prevent contamination and ensure safety."
+      },
+      "reasons": [
+        { "ar": "منطقة غير نظيفة", "en": "Area not clean" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التغطية: تغطية القلايات عند عدم الاستخدام خلال الفترات الهادئة.",
+        "en": "Cover vats when not in use during slow periods."
+      },
+      "reasons": [
         { "ar": "عدم تغطية القلاية", "en": "Does not cover vats" }
       ]
     },
     {
       "text": {
-        "ar": "العرض والتفاعل مع الضيف",
-        "en": "Show & tell and guest interaction"
+        "ar": "العرض العملي: يجب أن يكون الموظف قادر على شرح وتنفيذ جميع الخطوات.",
+        "en": "Crew can show and explain the full step-by-step procedure."
       },
       "reasons": [
-        { "ar": "لا يستطيع شرح الخطوات", "en": "Cannot explain procedure" },
-        { "ar": "لا يطبق الخطوات بشكل صحيح", "en": "Incorrect execution" },
-        { "ar": "لا يتفاعل مع العميل", "en": "Does not engage with customer" },
-        { "ar": "لا يطلب تقييم من العميل", "en": "Does not ask for feedback" }
+        { "ar": "لا يستطيع شرح الخطوات", "en": "Cannot explain steps" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "التفاعل مع الضيف: التفاعل مع العميل وطلب رأيه حول جودة البطاطس.",
+        "en": "Crew engages with customer and asks for feedback on fries."
+      },
+      "reasons": [
+        { "ar": "لا يتفاعل مع العميل", "en": "Does not engage with customer" }
       ]
     }
   ],
-  "bands": [
+"bands": [
     {
       "min": 0,
-      "max": 6,
+      "max": 10,
       "text": {
         "ar": "غير موثق - أعد التدريب",
         "en": "Not verified - retraining required"
       }
     },
     {
-      "min": 7,
-      "max": 11,
+      "min": 11,
+      "max": 17,
       "text": {
         "ar": "بحاجة إلى توجيه إضافي",
         "en": "Needs additional coaching"
       }
     },
     {
-      "min": 12,
-      "max": 14,
+      "min": 18,
+      "max": 22,
       "text": {
         "ar": "موثق للعمل بمفرده على المحطة",
         "en": "Verified to work independently"
