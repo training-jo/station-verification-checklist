@@ -17,7 +17,7 @@
     {
       "text": {
         "ar": "فحص إعدادات القلاية: اختيار برنامج FR FRIES، درجة الحرارة 335°F، ووقت الطهي 3 دقائق.",
-        "en": "Check fryer settings: FR FRIES program, temperature 335°F, cooking time 3 minutes."
+        "en": "Check fryer settings: FR FRIES , Temperature 335F, COOKING TIME: 3 minutes"
       },
       "reasons": [
         { "ar": "اختيار برنامج خاطئ", "en": "Wrong fryer program" },
