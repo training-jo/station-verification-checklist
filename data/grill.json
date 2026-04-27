@@ -189,7 +189,8 @@
         "en": "Check stock levels and follow 24/2 build-to rule."
       },
       "reasons": [
-        { "ar": "نقص في المخزون", "en": "Poor stock control" }
+        { "ar": "نقص في المخزون", "en": "Poor stock control" },
+        { "ar": "عدم اتباع قاعدة 24/2", "en": "does not follow 24/2 build-to rule" }
       ]
     },
     {
