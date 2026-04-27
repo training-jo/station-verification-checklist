@@ -157,11 +157,20 @@
     },
     {
       "text": {
-        "ar": "تنظيف الجريل بعد كل تشغيل (كشط، مسح، إزالة بقايا الدهون).",
-        "en": "Clean grill after each run (scrape, squeegee, remove residue)."
+        "ar": "تنظيف الجريل بعد كل تشغيل (كشط االسطح السفلي باستخدام السكرابر، مسح السطح العلوي، إزالة بقايا الدهون).",
+        "en": "Clean grill after each run (scrape bottom grill, squeegee the release sheet, pushing residue into grease trough)."
       },
       "reasons": [
-        { "ar": "عدم تنظيف الجريل", "en": "Does not clean grill" }
+        { "ar": "عدم تنظيف الجريل بعد كل تعويض", "en": "Does not clean grill after each run" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "على الأقل كل 15 دقيقة، مسح التفلون شيت وحواف الجريل العلوي بقطعة جريل تول.",
+        "en": "At least every fifteen minutes, wipe the release sheet and edges of the upper grill with a grill cloth."
+      },
+      "reasons": [
+        { "ar": "عدم تنظيف الجريل بعد كل تعويض", "en": "Does not clean grill after each run" }
       ]
     },
     {
