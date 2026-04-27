@@ -170,16 +170,17 @@
         "en": "At least every fifteen minutes, wipe the release sheet and edges of the upper grill with a grill cloth."
       },
       "reasons": [
-        { "ar": "عدم تنظيف الجريل بعد كل تعويض", "en": "Does not clean grill after each run" }
+        { "ar": "عدم مسح التفلون شيت وحواف الجريل العلوي كل 15 دقيقة", "en": "Does not wipe the release sheet and edges of the upper grill every 15 minutes." }
       ]
     },
     {
       "text": {
-        "ar": "تنظيف الأدوات وإرجاعها لمكانها وتنظيم المحطة.",
-        "en": "Clean utensils and return tools to proper place."
+        "ar": "تنظيف الأدوات وإعادة الأدوات إلى مكانها الصحيح | اغلاق الجريل عند عدم الاستخدام.",
+        "en": "Clean utensils and return tools to proper place | put the grill in standby mode/sleep when not in use."
       },
       "reasons": [
-        { "ar": "أدوات غير نظيفة", "en": "Dirty tools" }
+        { "ar": "أدوات غير نظيفة", "en": "Dirty tools" },
+        { "ar": "عدم وضع الجريل في وضع الاستعداد عند عدم الاستخدام", "en": "Does not put grill in standby mode when not in use" }
       ]
     },
     {
@@ -229,7 +230,7 @@
     },
     {
       "text": {
-        "ar": "تفريغ مصائد الدهون عند امتلائها (¾ ممتلئة).",
+        "ar": "تفريغ جوارير الدهون عند امتلائها (¾ ممتلئة).",
         "en": "Empty grease traps when ¾ full into grease bucket."
       },
       "reasons": [
