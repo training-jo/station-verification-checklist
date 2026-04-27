@@ -16,12 +16,12 @@
     },
     {
       "text": {
-        "ar": "غسل اليدين كل ساعة أو عند الحاجة لمدة 20 ثانية باستخدام KG8/KG8.1.",
-        "en": "Wash hands every hour or as needed for 20 seconds using KG8/KG8.1."
+        "ar": "غسل اليدين كل ساعة أو عند الحاجة لمدة 20 ثانية باستخدام AMH/KG8.",
+        "en": "Wash hands every hour or as needed for 20 seconds using AMH/KG8."
       },
       "reasons": [
         { "ar": "لا يغسل يديه كل ساعة", "en": "Does not wash hands every hour" },
-        { "ar": "مدة الغسل أقل من 20 ثانية", "en": "Handwashing less than 20 seconds" }
+        { "ar": "لا يقوم بغسل يديه عند الحاجة", "en": "Does not wash hands when needed" }
       ]
     },
     {
@@ -68,7 +68,7 @@
         "en": "Check grill temperature: top platen 425°F and lower plate 350°F."
       },
       "reasons": [
-        { "ar": "درجة حرارة غير صحيحة", "en": "Incorrect temperature" }
+        { "ar": "لا يعرف درجة الحرارة الصحيحة", "en": "Does not know the correct temperature" }
       ]
     },
     {
@@ -77,16 +77,16 @@
         "en": "Follow cooking times: 45g (50 sec), 112g (175 sec), 127g/150g (152 sec)."
       },
       "reasons": [
-        { "ar": "وقت طهي غير صحيح", "en": "Incorrect cooking time" }
+        { "ar": "لا يعرف وقت الطهي الصحيح للمنتجات", "en": "Does not know the correct cooking time for products" }
       ]
     },
     {
       "text": {
         "ar": "فحص جودة اللحم النيء: يجب أن يكون وردي وسهل الفصل، والتخلص من غير المطابق.",
-        "en": "Check raw beef quality: should be pink and easy to separate, discard non-compliant patties."
+        "en": "Check raw beef quality: should be pink & easy to separate. Discard brown, bright red or white raw patties, patties that hard to separate, or patties that has a lot of ices crystals on the surface."
       },
       "reasons": [
-        { "ar": "استخدام لحوم غير مطابقة", "en": "Uses poor quality patties" }
+        { "ar": "لا يعرف مواصفات اللحم النيء", "en": "Does not know the correct characteristics for raw beef" }
       ]
     },
     {
@@ -96,17 +96,27 @@
       },
       "reasons": [
         { "ar": "عدم استخدام القفازات الزرقاء", "en": "Does not use blue gloves" },
-        { "ar": "ترتيب غير صحيح على الجريل", "en": "Incorrect placement on grill" }
+        { "ar": "لمس اللحوم النيئة بالقفازات الشفافة", "en": "Touches raw meat with clear gloves" }
       ]
     },
     {
       "text": {
-        "ar": "تشغيل المؤقت واتباع دليل EHB ومستوى الإنتاج.",
-        "en": "Press timer and follow EHB chart and production levels."
+        "ar": "اتباع دليل EHB ومستوى الإنتاج.",
+        "en": "follow EHB chart and production levels."
       },
       "reasons": [
-        { "ar": "عدم تشغيل المؤقت", "en": "Does not start timer" },
-        { "ar": "عدم اتباع دليل الإنتاج", "en": "Does not follow production guide" }
+        { "ar": "عدم اتباع دليل الإنتاج EHB", "en": "Does not follow EHB chart" },
+        { "ar": "عدم الالتزام بمستوى الإنتاج", "en": "Does not meet production levels" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "بدء عملية الطهي، اختيار المنتج الصحيح وضغط المؤقت",
+        "en": "Start the cooking process, choose the correct item and press the timer"
+      },
+      "reasons": [
+        { "ar": "الضغط على المؤقت أثناء ارتداء القفازات الزرقاء", "en": "Does not press timer while wearing blue gloves" },
+        { "ar": "عدم الالتزام بمستوى الإنتاج", "en": "Does not select thecorrect item" }
       ]
     },
     {
@@ -129,11 +139,20 @@
     },
     {
       "text": {
-        "ar": "سحب اللحم من الأمام للخلف ووضعه في الصينية حسب الوزن.",
+        "ar": "رفع اللحم من الأمام للخلف ووضعه في الصينية حسب الوزن.",
         "en": "Pull meat front to back and load tray based on patty size."
       },
       "reasons": [
-        { "ar": "ترتيب خاطئ أثناء النقل", "en": "Incorrect handling during transfer" }
+        { "ar": "ترتيب خاطئ أثناء رفع اللحم", "en": "Incorrect handling during transfer" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "لـ 45g قم بإزالة 3 طبقات، وللـ 112g/127g/150g قم بإزالة واحدة في كل مرة.",
+        "en": "For 45g remove 3 stacks high, 112g/127g/150g remove 1 at a time."
+      },
+      "reasons": [
+        { "ar": "ارتفاع الطبقات غير صحيح", "en": "Incorrect stack height" }
       ]
     },
     {
@@ -212,23 +231,23 @@
   "bands": [
     {
       "min": 0,
-      "max": 8,
+      "max": 10,
       "text": {
         "ar": "غير موثق - أعد التدريب",
         "en": "Not verified - retraining required"
       }
     },
     {
-      "min": 9,
-      "max": 16,
+      "min": 11,
+      "max": 18,
       "text": {
         "ar": "بحاجة إلى توجيه إضافي",
         "en": "Needs additional coaching"
       }
     },
     {
-      "min": 17,
-      "max": 22,
+      "min": 19,
+      "max": 24,
       "text": {
         "ar": "موثق للعمل بمفرده على المحطة",
         "en": "Verified to work independently"
