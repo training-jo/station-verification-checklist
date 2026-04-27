@@ -1,297 +1,237 @@
 {
   "title": {
-    "ar": "محطة الجريل",
-    "en": "Grill"
+    "ar": "التحقق من إجراءات تحضير الجريل",
+    "en": "Grill Preparation Procedure Verification"
   },
   "items": [
     {
       "text": {
-        "ar": "النظافة الشخصية",
-        "en": "Personal hygiene"
+        "ar": "سلامة الغذاء أولاً: الالتزام بالنظافة الشخصية (زي نظيف والاستحمام يومياً).",
+        "en": "Food safety first: observe proper hygiene (clean uniform and daily hygiene)."
       },
       "reasons": [
-        {
-          "ar": "لا يرتدي قفازات",
-          "en": "Does not wear gloves"
-        },
-        {
-          "ar": "لا يرتدي غطاء رأس",
-          "en": "Does not wear a hairnet"
-        },
-        {
-          "ar": "لم يتم غسل اليدين",
-          "en": "Hands were not washed"
-        },
-        {
-          "ar": "الزي غير نظيف",
-          "en": "Uniform is not clean"
-        },
-        {
-          "ar": "موظف مريض يعمل",
-          "en": "Sick employee working"
-        }
+        { "ar": "زي غير نظيف", "en": "Uniform not clean" },
+        { "ar": "عدم الالتزام بالنظافة الشخصية", "en": "Poor personal hygiene" }
       ]
     },
     {
       "text": {
-        "ar": "معرفة درجة حرارة الجريل و اوقات الطهي",
-        "en": "Knowledge of grill temperature and cooking times"
+        "ar": "غسل اليدين كل ساعة أو عند الحاجة لمدة 20 ثانية باستخدام KG8/KG8.1.",
+        "en": "Wash hands every hour or as needed for 20 seconds using KG8/KG8.1."
       },
       "reasons": [
-        {
-          "ar": "عدم معرفة درجة الحرارة",
-          "en": "Does not know grill temperature"
-        },
-        {
-          "ar": "عدم معرفة اوقات الطهي الصحيحة",
-          "en": "Does not know correct cooking times"
-        }
+        { "ar": "لا يغسل يديه كل ساعة", "en": "Does not wash hands every hour" },
+        { "ar": "مدة الغسل أقل من 20 ثانية", "en": "Handwashing less than 20 seconds" }
       ]
     },
     {
       "text": {
-        "ar": "جودة المنتج",
-        "en": "Product quality"
+        "ar": "تجنب لمس الوجه (الفم، الأنف، العينين) أثناء العمل.",
+        "en": "Avoid touching mouth, nose, and eyes during work."
       },
       "reasons": [
-        {
-          "ar": "لا يعرف مواصفات اللحمة قبل الطهي",
-          "en": "Does not know raw meat specifications"
-        },
-        {
-          "ar": "لا يعرف مواصفات اللحمة بعد الطهي",
-          "en": "Does not know cooked meat standards"
-        },
-        {
-          "ar": "لا يعرف درجة الحرارة القصوى المقبولة للحوم",
-          "en": "Does not know maximum acceptable meat temperature"
-        },
-        {
-          "ar": "جودة اللحوم بعد الطهي غير مقبولة",
-          "en": "Cooked meat quality is not acceptable"
-        },
-        {
-          "ar": "لم يتم ابلاغ المدير عند وجود مشكلة تتعلق بالجودة",
-          "en": "Did not inform manager about quality issue"
-        }
+        { "ar": "يلمس الوجه أثناء العمل", "en": "Touches face during work" }
       ]
     },
     {
       "text": {
-        "ar": "سلامة الغذاء (التلوث المتبادل)",
-        "en": "Food safety (cross-contamination)"
+        "ar": "الإبلاغ عن أي أعراض مرضية (سعال، حرارة، التهاب) فوراً للمدير.",
+        "en": "Report any symptoms (cough, fever, sore throat) to manager immediately."
       },
       "reasons": [
-        {
-          "ar": "خلط النيء مع المطهو",
-          "en": "Mixed raw with cooked products"
-        },
-        {
-          "ar": "عدم الالتزام بالاستخدام الصحيح للقفازات",
-          "en": "Did not use gloves correctly"
-        },
-        {
-          "ar": "عدم التخلص من القفازات الزرقاء مباشرة بعد لمس اللحوم النيئة",
-          "en": "Did not discard blue gloves after handling raw meat"
-        },
-        {
-          "ar": "لمس المنتجات النيئة بقفازات شفافة",
-          "en": "Touched raw products with clear gloves"
-        },
-        {
-          "ar": "عدم غسل اليدين عند الحاجة",
-          "en": "Did not wash hands when required"
-        }
+        { "ar": "لا يبلغ عن المرض", "en": "Does not report illness" },
+        { "ar": "يعمل وهو مريض", "en": "Works while sick" }
       ]
     },
     {
       "text": {
-        "ar": "مدة الحفظ (UHC)",
-        "en": "Holding time (UHC)"
+        "ar": "ارتداء القفازات وغطاء الرأس دائماً داخل المطبخ وتغييرها عند الحاجة.",
+        "en": "Wear gloves and hairnet at all times and change when needed."
       },
       "reasons": [
-        {
-          "ar": "تجاوز مدة الحفظ",
-          "en": "Exceeded holding time"
-        },
-        {
-          "ar": "عدم تطبيق FIFO",
-          "en": "FIFO not applied"
-        },
-        {
-          "ar": "عدم التخلص من المنتج المنتهي",
-          "en": "Did not discard expired product"
-        },
-        {
-          "ar": "خلط القديم مع الجديد",
-          "en": "Mixed old with new product"
-        },
-        {
-          "ar": "عدم استخدام تايمر",
-          "en": "Did not use timer"
-        }
+        { "ar": "لا يرتدي قفازات", "en": "Not wearing gloves" },
+        { "ar": "لا يرتدي غطاء رأس", "en": "Not wearing hairnet" }
       ]
     },
     {
       "text": {
-        "ar": "التعامل مع المنتج بعد الطهي",
-        "en": "Handling product after cooking"
+        "ar": "إزالة المريلة عند الخروج من المطبخ.",
+        "en": "Remove apron when leaving kitchen."
       },
       "reasons": [
-        {
-          "ar": "التعامل مع المنتج بعد الطهي",
-          "en": "Improper handling after cooking"
-        },
-        {
-          "ar": "سقوط المنتج أو سوء التعامل",
-          "en": "Dropped product or handled improperly"
-        },
-        {
-          "ar": "استخدام صينية خاطئة",
-          "en": "Used incorrect tray"
-        },
-        {
-          "ar": "تأخير في النقل",
-          "en": "Delay in transferring product"
-        },
-        {
-          "ar": "تعرض المنتج للتلوث",
-          "en": "Product exposed to contamination"
-        }
+        { "ar": "لا يزيل المريلة خارج المطبخ", "en": "Does not remove apron outside kitchen" }
       ]
     },
     {
       "text": {
-        "ar": "استخدام الأدوات",
-        "en": "Use of tools"
+        "ar": "فحص إعدادات الجريل: اللوح العلوي 425°F والسفلي 350°F.",
+        "en": "Check grill temperature: top platen 425°F and lower plate 350°F."
       },
       "reasons": [
-        {
-          "ar": "أدوات غير نظيفة",
-          "en": "Tools not clean"
-        },
-        {
-          "ar": "استخدام أداة غير مناسبة",
-          "en": "Used incorrect tool"
-        },
-        {
-          "ar": "عدم التعقيم كل 4 ساعات",
-          "en": "Did not sanitize every 4 hours"
-        },
-        {
-          "ar": "إعادة استخدام أداة سقطت على الأرض",
-          "en": "Reused tool that fell on the floor"
-        },
-        {
-          "ar": "تخزين غير صحيح للأدوات",
-          "en": "Improper tool storage"
-        }
+        { "ar": "درجة حرارة غير صحيحة", "en": "Incorrect temperature" }
       ]
     },
     {
       "text": {
-        "ar": "تنظيف وصيانة الجريل",
-        "en": "Grill cleaning and maintenance"
+        "ar": "الالتزام بأوقات الطهي: 45g (50 ثانية)، 112g (175 ثانية)، 127g/150g (152 ثانية).",
+        "en": "Follow cooking times: 45g (50 sec), 112g (175 sec), 127g/150g (152 sec)."
       },
       "reasons": [
-        {
-          "ar": "عدم تنظيف الجريل بعد كل دفعة طهي",
-          "en": "Did not clean grill after each batch"
-        },
-        {
-          "ar": "تراكم كربون/دهون",
-          "en": "Carbon or grease buildup"
-        },
-        {
-          "ar": "طريقة تنظيف خاطئة",
-          "en": "Incorrect cleaning method"
-        },
-        {
-          "ar": "تنظيف أثناء التشغيل بشكل خاطئ",
-          "en": "Improper cleaning during operation"
-        }
+        { "ar": "وقت طهي غير صحيح", "en": "Incorrect cooking time" }
       ]
     },
     {
       "text": {
-        "ar": "التحكم في الإنتاج",
-        "en": "Production control"
+        "ar": "فحص جودة اللحم النيء: يجب أن يكون وردي وسهل الفصل، والتخلص من غير المطابق.",
+        "en": "Check raw beef quality: should be pink and easy to separate, discard non-compliant patties."
       },
       "reasons": [
-        {
-          "ar": "عدم اتباع جدول حجم الانتاج VCMC",
-          "en": "Did not follow VCMC production levels"
-        },
-        {
-          "ar": "عدم التنسيق مع موظفين الخبز والتجميع",
-          "en": "Did not coordinate with bun and assembly stations"
-        },
-        {
-          "ar": "هدر في المنتج",
-          "en": "Product waste"
-        },
-        {
-          "ar": "إنتاج زائد",
-          "en": "Overproduction"
-        },
-        {
-          "ar": "إنتاج أقل من المطلوب",
-          "en": "Underproduction"
-        }
+        { "ar": "استخدام لحوم غير مطابقة", "en": "Uses poor quality patties" }
       ]
     },
     {
       "text": {
-        "ar": "السلامة",
-        "en": "Safety"
+        "ar": "بدء الطهي: ارتداء قفازات زرقاء ووضع اللحم من الأمام إلى الخلف على الجريل.",
+        "en": "Start cooking: wear blue gloves and lay meat front to back on grill."
       },
       "reasons": [
-        {
-          "ar": "التعامل غير الآمن مع الحرارة",
-          "en": "Unsafe handling of heat"
-        },
-        {
-          "ar": "عدم استخدام معدات الحماية",
-          "en": "Did not use protective equipment"
-        },
-        {
-          "ar": "حركة غير آمنة",
-          "en": "Unsafe movement"
-        },
-        {
-          "ar": "تجاهل مخاطر الحروق",
-          "en": "Ignored burn risks"
-        },
-        {
-          "ar": "ضعف الوعي بالمخاطر",
-          "en": "Low risk awareness"
-        }
+        { "ar": "عدم استخدام القفازات الزرقاء", "en": "Does not use blue gloves" },
+        { "ar": "ترتيب غير صحيح على الجريل", "en": "Incorrect placement on grill" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تشغيل المؤقت واتباع دليل EHB ومستوى الإنتاج.",
+        "en": "Press timer and follow EHB chart and production levels."
+      },
+      "reasons": [
+        { "ar": "عدم تشغيل المؤقت", "en": "Does not start timer" },
+        { "ar": "عدم اتباع دليل الإنتاج", "en": "Does not follow production guide" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "ارتداء قفازات شفافة وتحضير الصينية مع الورق قبل إخراج المنتج.",
+        "en": "Wear clear gloves and prepare tray with liner before removing product."
+      },
+      "reasons": [
+        { "ar": "عدم تجهيز الصينية", "en": "Tray not prepared" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تتبيل اللحم بالبهارات والبصل (للـ 45g) فور الانتهاء.",
+        "en": "Season patties with grill seasoning and onions (for 45g patties)."
+      },
+      "reasons": [
+        { "ar": "عدم التتبيل", "en": "Does not season patties" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "سحب اللحم من الأمام للخلف ووضعه في الصينية حسب الوزن.",
+        "en": "Pull meat front to back and load tray based on patty size."
+      },
+      "reasons": [
+        { "ar": "ترتيب خاطئ أثناء النقل", "en": "Incorrect handling during transfer" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف الجريل بعد كل تشغيل (كشط، مسح، إزالة بقايا الدهون).",
+        "en": "Clean grill after each run (scrape, squeegee, remove residue)."
+      },
+      "reasons": [
+        { "ar": "عدم تنظيف الجريل", "en": "Does not clean grill" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف الأدوات وإرجاعها لمكانها وتنظيم المحطة.",
+        "en": "Clean utensils and return tools to proper place."
+      },
+      "reasons": [
+        { "ar": "أدوات غير نظيفة", "en": "Dirty tools" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "متابعة المخزون وتطبيق قاعدة 24/2.",
+        "en": "Check stock levels and follow 24/2 build-to rule."
+      },
+      "reasons": [
+        { "ar": "نقص في المخزون", "en": "Poor stock control" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تعقيم الأدوات والصواني كل 4 ساعات.",
+        "en": "Sanitize trays and utensils every 4 hours."
+      },
+      "reasons": [
+        { "ar": "عدم التعقيم الدوري", "en": "Does not sanitize regularly" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تنظيف الجريل بالبخار كل 4 ساعات وفق الإجراء الصحيح.",
+        "en": "Steam clean grill every 4 hours following correct procedure."
+      },
+      "reasons": [
+        { "ar": "عدم تنظيف الجريل بالبخار", "en": "Does not steam clean grill" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "عدم سكب الماء مباشرة على الجريل لتجنب تلف الحساسات.",
+        "en": "Do not pour water directly on grill to avoid sensor damage."
+      },
+      "reasons": [
+        { "ar": "سكب الماء مباشرة على الجريل", "en": "Pours water directly on grill" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "وضع الجريل على وضع الاستعداد عند عدم الاستخدام.",
+        "en": "Set grill to standby when not in use."
+      },
+      "reasons": [
+        { "ar": "عدم استخدام وضع الاستعداد", "en": "Does not use standby mode" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "تفريغ مصائد الدهون عند امتلائها (¾ ممتلئة).",
+        "en": "Empty grease traps when ¾ full into grease bucket."
+      },
+      "reasons": [
+        { "ar": "عدم تفريغ مصائد الدهون", "en": "Does not empty grease traps" }
       ]
     }
   ],
   "bands": [
     {
       "min": 0,
-      "max": 5,
+      "max": 8,
       "text": {
         "ar": "غير موثق - أعد التدريب",
-        "en": "Not Verified - retraining required"
+        "en": "Not verified - retraining required"
       }
     },
     {
-      "min": 6,
-      "max": 8,
+      "min": 9,
+      "max": 16,
       "text": {
         "ar": "بحاجة إلى توجيه إضافي",
         "en": "Needs additional coaching"
       }
     },
     {
-      "min": 9,
-      "max": 10,
+      "min": 17,
+      "max": 22,
       "text": {
         "ar": "موثق للعمل بمفرده على المحطة",
-        "en": "Verified to work independently at the station"
+        "en": "Verified to work independently"
       }
     }
   ]
