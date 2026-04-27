@@ -222,6 +222,33 @@
     },
     {
       "text": {
+        "ar": "هل المتدرب قادر على أداء الإجراء بكفاءة 100% من خلال شرح وعرض العملية خطوة بخطوة؟",
+        "en": "Is the trainee able to perform the procedure at 100% proficiency by demonstrating and explaining the step-by-step process?"
+      },
+      "reasons": [
+        { "ar": "المتدرب لا يستطيع أداء الإجراء بكفاءة 100%", "en": "the trainee is not able to perform the procedure at 100% proficiency" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "هل المتدرب حصل على درجة 90% أو أعلى في الامتحان الكتابي؟",
+        "en": "Did the trainee achieve a score of 90% or higher on the written examination?"
+      },
+      "reasons": [
+        { "ar": "المتدرب لم يحقق درجة 90% أو أعلى في الامتحان الكتابي", "en": "the trainee did not achieve a score of 90% or higher on the written examination" }
+      ]
+    },
+    {
+      "text": {
+        "ar": "خلال وقت الذروة، هل المتدرب واثق في تقديم خدمة سريعة وعالية الجودة، والحفاظ على نظافة المحطة، وإظهار فهم لعوامل الربحية الرئيسية؟",
+        "en": "During rush time, is the trainee confident in delivering quality, fast service, maintaining a clean station, and demonstrating an understanding of key profitability factors?"
+      },
+      "reasons": [
+        { "ar": "المتدرب لا يُظهر ثقة في تقديم خدمة سريعة وعالية الجودة، والحفاظ على نظافة المحطة، وإظهار فهم لعوامل الربحية الرئيسية", "en": "the trainee does not demonstrate confidence in delivering quality, fast service, maintaining a clean station, and understanding key profitability factors" }
+      ]
+    },
+    {
+      "text": {
         "ar": "وضع الجريل على وضع الاستعداد عند عدم الاستخدام.",
         "en": "Set grill to standby when not in use."
       },
