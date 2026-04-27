@@ -269,23 +269,23 @@
   "bands": [
     {
       "min": 0,
-      "max": 11,
+      "max": 14,
       "text": {
         "ar": "غير موثق - أعد التدريب",
         "en": "Not verified - retraining required"
       }
     },
     {
-      "min": 12,
-      "max": 19,
+      "min": 15,
+      "max": 22,
       "text": {
         "ar": "بحاجة إلى توجيه إضافي",
         "en": "Needs additional coaching"
       }
     },
     {
-      "min": 20,
-      "max": 25,
+      "min": 23,
+      "max": 28,
       "text": {
         "ar": "موثق للعمل بمفرده على المحطة",
         "en": "Verified to work independently"
