@@ -421,12 +421,56 @@ function safeFileName(text) {
 
 let lastSendTime = 0;
 
+
+
+
+
+
+
+function validateChecklistAnswers() {
+  let isValid = true;
+
+  const questions = document.querySelectorAll("#questions .q");
+
+  for (let q of questions) {
+    const ok = q.querySelector(".ok")?.checked;
+    const no = q.querySelector(".no")?.checked;
+
+    if (!ok && !no) {
+      isValid = false;
+
+      // highlight question
+      q.style.border = "2px solid red";
+
+      // scroll to first missing question
+      q.scrollIntoView({ behavior: "smooth", block: "center" });
+
+      break;
+    } else {
+      q.style.border = "";
+    }
+  }
+
+  return isValid;
+}
+
+
+
+
+
+
+
 async function sendPdfByEmail() {
 
   const lang = getLang();
   const ui = UI[lang];
 
   const to = getEmailFromUser();
+
+  if (!validateChecklistAnswers()) {
+    alert("❌ Please answer all checklist items before sending");
+    return;
+  }
   if (!to) {
     alert("❌ Unable to determine store email");
 
