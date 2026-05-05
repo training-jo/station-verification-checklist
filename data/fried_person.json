@@ -1,71 +1,25 @@
 {
   "title": {
-    "ar": "التحقق من إجراءات العمل على محطة قلايات الدجاج",
-    "en": "Fried station Procedure Verification"
+    "ar": "التحقق من اجراءات العمل على محطة قلي الدجاج",
+    "en": "Fried Person Station Verification"
   },
   "items": [
     {
       "text": {
-        "ar": "سلامة الغذاء أولاً: الالتزام بالنظافة الشخصية (زي نظيف ومهندم).",
-        "en": "Food safety first: observe proper hygiene (clean uniform and take bath daily)."
+        "ar": "النظافة الشخصية وسلامة الغذاء: الالتزام بالنظافة، غسل اليدين، وارتداء القفازات وغطاء الرأس.",
+        "en": "Personal hygiene and food safety: maintain hygiene, wash hands, and wear gloves and hairnet."
       },
       "reasons": [
-        { "ar": "زي غير نظيف", "en": "Uniform not clean" },
-        { "ar": "ضعف النظافة الشخصية", "en": "Poor personal hygiene" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "غسل اليدين كل ساعة أو عند الحاجة لمدة 20 ثانية باستخدام AMH.",
-        "en": "Wash hands every hour or as needed for 20 seconds using KG8/AMH."
-      },
-      "reasons": [
-        { "ar": "لا يغسل يديه كل ساعة", "en": "Does not wash hands every hour" },
-        { "ar": "لا يقوم بغسل يديه عند الحاجة", "en": "Does not wash hands when needed" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "تجنب لمس الوجه (الفم، الأنف، العينين) أثناء العمل.",
-        "en": "Avoid touching mouth, nose, and eyes during work."
-      },
-      "reasons": [
-        { "ar": "يلمس الوجه أثناء العمل", "en": "Touches face during work" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "الإبلاغ عن أي أعراض مرضية (سعال، حرارة، التهاب) فوراً للمدير.",
-        "en": "Report any symptoms (cough, fever, sore throat) to manager immediately."
-      },
-      "reasons": [
-        { "ar": "لا يبلغ عن المرض", "en": "Does not report illness" },
+        { "ar": "لا يرتدي قفازات", "en": "Not wearing gloves" },
+        { "ar": "لا يرتدي غطاء رأس", "en": "Not wearing hairnet" },
+        { "ar": "لا يغسل يديه بانتظام", "en": "Does not wash hands regularly" },
         { "ar": "يعمل وهو مريض", "en": "Works while sick" }
       ]
     },
     {
       "text": {
-        "ar": "ارتداء القفازات وغطاء الرأس دائماً داخل المطبخ وتغييرها عند الحاجة.",
-        "en": "Wear gloves and hairnet at all times and change when needed."
-      },
-      "reasons": [
-        { "ar": "لا يرتدي قفازات", "en": "Not wearing gloves" },
-        { "ar": "لا يرتدي غطاء رأس", "en": "Not wearing hairnet" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "إزالة المريلة عند الخروج من المطبخ.",
-        "en": "Remove apron when leaving kitchen."
-      },
-      "reasons": [
-        { "ar": "لا يزيل المريلة", "en": "Does not remove apron" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "فحص إعدادات القلاية: درجة الحرارة 360°F (182°C) لجميع منتجات الدجاج.",
-        "en": "Check fryer temperature: 360°F (182°C) for all chicken products."
+        "ar": "درجة حرارة القلاية: التأكد من أن درجة الحرارة 360°F لجميع منتجات الدجاج.",
+        "en": "Fryer temperature: ensure oil is at 360°F for chicken products."
       },
       "reasons": [
         { "ar": "درجة حرارة غير صحيحة", "en": "Incorrect fryer temperature" }
@@ -73,128 +27,65 @@
     },
     {
       "text": {
-        "ar": "التأكد من أن درجة حرارة الدجاج الداخلية بين 165°F و185°F لضمان سلامة الغذاء.",
-        "en": "Ensure chicken internal temperature is between 165°F and 185°F."
+        "ar": "سلامة المنتج: التأكد من وصول درجة الحرارة الداخلية إلى 165°F–185°F.",
+        "en": "Product safety: ensure internal temperature reaches 165°F–185°F."
       },
       "reasons": [
-        { "ar": "درجة حرارة داخلية غير صحيحة", "en": "Incorrect internal temperature" }
+        { "ar": "منتج غير مطهو بالكامل", "en": "Undercooked product" }
       ]
     },
     {
       "text": {
-        "ar": "الالتزام بأوقات الطهي وحجم التشغيل لكل منتج (برجر، ناجتس، تشكن، فرايز...).",
-        "en": "Follow cooking times and maximum run size for all products (burger, nuggets, chicken, fries)."
+        "ar": "الالتزام بأوقات الطهي والكميات المحددة لكل منتج.",
+        "en": "Follow correct cooking time and maximum run size for each product."
       },
       "reasons": [
         { "ar": "وقت طهي غير صحيح", "en": "Incorrect cooking time" },
-        { "ar": "تجاوز الحد الأقصى للكمية", "en": "Exceeds maximum run size" }
+        { "ar": "تحميل زائد", "en": "Overloading basket" }
       ]
     },
     {
       "text": {
-        "ar": "شرح مبدأ “Cook Less More Often” للحفاظ على الجودة وتقليل الهدر.",
-        "en": "Explain and apply 'Cook Less More Often' procedure."
+        "ar": "تحميل السلة بشكل صحيح وعدم تجاوز الحد الأقصى.",
+        "en": "Load basket correctly without exceeding maximum capacity."
       },
       "reasons": [
-        { "ar": "لا يطبق المبدأ", "en": "Does not follow batch cooking system" }
+        { "ar": "تجاوز الحد الأقصى", "en": "Exceeds max run size" },
+        { "ar": "توزيع غير صحيح", "en": "Uneven loading" }
       ]
     },
     {
       "text": {
-        "ar": "السلامة: تجنب تناثر الزيت وعدم إسقاط السلال أو الأدوات داخل القلاية.",
-        "en": "Safety: avoid splashing oil and do not drop baskets into fryer."
+        "ar": "غمر المنتج بالكامل في الزيت أثناء الطهي.",
+        "en": "Ensure product is fully submerged in oil during cooking."
       },
       "reasons": [
-        { "ar": "تعامل غير آمن مع الزيت", "en": "Unsafe oil handling" }
+        { "ar": "المنتج غير مغمور بالكامل", "en": "Product not fully submerged" }
       ]
     },
     {
       "text": {
-        "ar": "فصل القلايات: استخدام قلايات منفصلة للدجاج الحار لتجنب انتقال النكهات.",
-        "en": "Use separate vats for spicy chicken to avoid flavor transfer."
+        "ar": "هز السلة بعد 30 ثانية لفصل القطع ومنع الالتصاق.",
+        "en": "Shake basket after 30 seconds to separate portions."
       },
       "reasons": [
-        { "ar": "عدم فصل المنتجات", "en": "Does not separate vats properly" }
+        { "ar": "عدم هز السلة", "en": "Does not shake basket" }
       ]
     },
     {
       "text": {
-        "ar": "إعادة تعبئة الزيت عند انخفاض المستوى دون الإفراط في التعبئة.",
-        "en": "Refill oil when below level without overfilling."
+        "ar": "تصفية الزيت لمدة 5–10 ثواني بعد الطهي.",
+        "en": "Drain oil for 5–10 seconds after cooking."
       },
       "reasons": [
-        { "ar": "مستوى الزيت غير صحيح", "en": "Incorrect oil level" },
-        { "ar": "تعبئة زائدة", "en": "Overfilling oil" }
+        { "ar": "عدم تصفية الزيت", "en": "Improper draining" },
+        { "ar": "تصفية غير كافية", "en": "Insufficient draining" }
       ]
     },
     {
       "text": {
-        "ar": "تشغيل مؤقت UHC لضمان جودة المنتج وعدم إعادة ضبطه.",
-        "en": "Press UHC timer and never reset it to maintain quality."
-      },
-      "reasons": [
-        { "ar": "عدم تشغيل المؤقت", "en": "Does not use timer" },
-        { "ar": "إعادة ضبط المؤقت", "en": "Resets timer" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "عدم تحميل السلة فوق القلاية واستخدام صينية بشبك لتجنب سقوط البقسماط.",
-        "en": "Do not load basket over fryer, use tray with rack to avoid crumbs falling."
-      },
-      "reasons": [
-        { "ar": "تحميل خاطئ فوق القلاية", "en": "Incorrect loading over fryer" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "تحميل الدجاج في السلة المقسمة حسب الكمية المحددة (8 قطع كحد أقصى).",
-        "en": "Load chicken into segmented basket with max 8 pieces."
-      },
-      "reasons": [
-        { "ar": "تجاوز الحد الأقصى", "en": "Exceeds max run size" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "غمر جميع القطع بالكامل في الزيت أثناء الطهي.",
-        "en": "Ensure all portions are fully submerged in oil."
-      },
-      "reasons": [
-        { "ar": "عدم غمر المنتج بالكامل", "en": "Product not fully submerged" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "تشغيل المؤقت والالتزام بوقت الطهي (2:30 دقيقة).",
-        "en": "Press timer and follow cooking time (2:30 minutes)."
-      },
-      "reasons": [
-        { "ar": "عدم تشغيل المؤقت", "en": "Does not start timer" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "هز السلة بعد 30 ثانية 3 مرات لفصل القطع.",
-        "en": "Shake basket after 30 seconds (3 times) to separate portions."
-      },
-      "reasons": [
-        { "ar": "عدم الهز", "en": "Does not shake basket" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "رفع السلة وتصفية الزيت لمدة 5–10 ثواني دون تعليقها بشكل خاطئ.",
-        "en": "Lift basket and drain for 5–10 seconds without incorrect hanging."
-      },
-      "reasons": [
-        { "ar": "عدم تصفية الزيت", "en": "Improper draining" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "نقل المنتج إلى صينية EHB بطبقة واحدة وعدم خلط القديم مع الجديد.",
-        "en": "Transfer to EHB tray in single layer without mixing old and new."
+        "ar": "عدم خلط المنتج القديم مع الجديد داخل صواني الحفظ.",
+        "en": "Do not mix old and new product in holding trays."
       },
       "reasons": [
         { "ar": "خلط القديم مع الجديد", "en": "Mixes old and new product" }
@@ -202,61 +93,55 @@
     },
     {
       "text": {
-        "ar": "تعليق السلة بعد التفريغ لتصريف الزيت المتبقي.",
-        "en": "Hang basket after use to drain remaining oil."
+        "ar": "استخدام مؤقت UHC والالتزام بمدة الحفظ دون إعادة ضبط المؤقت.",
+        "en": "Use UHC timer and follow holding time without resetting timer."
       },
       "reasons": [
-        { "ar": "عدم تعليق السلة", "en": "Does not hang basket" }
+        { "ar": "عدم استخدام المؤقت", "en": "Does not use timer" },
+        { "ar": "إعادة ضبط المؤقت", "en": "Resets timer" }
       ]
     },
     {
       "text": {
-        "ar": "هل المتدرب قادر على أداء الإجراء بكفاءة 100% من خلال شرح وعرض العملية خطوة بخطوة؟",
-        "en": "Is the trainee able to perform the procedure at 100% proficiency by demonstrating and explaining the step-by-step process?"
+        "ar": "إدارة الزيت: الحفاظ على مستوى الزيت وتنظيفه وعدم الإفراط في التعبئة.",
+        "en": "Oil management: maintain proper level, clean oil, and avoid overfilling."
       },
       "reasons": [
-        { "ar": "المتدرب لا يستطيع أداء الإجراء بكفاءة 100%", "en": "the trainee is not able to perform the procedure at 100% proficiency" }
+        { "ar": "مستوى زيت غير صحيح", "en": "Incorrect oil level" },
+        { "ar": "زيت متسخ", "en": "Dirty oil" }
       ]
     },
     {
       "text": {
-        "ar": "هل المتدرب حصل على درجة 90% أو أعلى في الامتحان الكتابي؟",
-        "en": "Did the trainee achieve a score of 90% or higher on the written examination?"
+        "ar": "السلامة أثناء العمل: التعامل الآمن مع الزيت الساخن وتجنب الحروق.",
+        "en": "Safety: handle hot oil safely and prevent burns."
       },
       "reasons": [
-        { "ar": "المتدرب لم يحقق درجة 90% أو أعلى في الامتحان الكتابي", "en": "the trainee did not achieve a score of 90% or higher on the written examination" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "خلال وقت الذروة، هل المتدرب واثق في تقديم خدمة سريعة وعالية الجودة، والحفاظ على نظافة المحطة، وإظهار فهم لعوامل الربحية الرئيسية؟",
-        "en": "During rush time, is the trainee confident in delivering quality, fast service, maintaining a clean station, and demonstrating an understanding of key profitability factors?"
-      },
-      "reasons": [
-        { "ar": "المتدرب لا يُظهر ثقة في تقديم خدمة سريعة وعالية الجودة، والحفاظ على نظافة المحطة، وإظهار فهم لعوامل الربحية الرئيسية", "en": "the trainee does not demonstrate confidence in delivering quality, fast service, maintaining a clean station, and understanding key profitability factors" }
+        { "ar": "تعامل غير آمن مع الزيت", "en": "Unsafe oil handling" },
+        { "ar": "خطر حروق", "en": "Burn risk" }
       ]
     }
   ],
   "bands": [
     {
       "min": 0,
-      "max": 11,
+      "max": 4,
       "text": {
         "ar": "غير موثق - أعد التدريب",
         "en": "Not verified - retraining required"
       }
     },
     {
-      "min": 12,
-      "max": 19,
+      "min": 5,
+      "max": 8,
       "text": {
         "ar": "بحاجة إلى توجيه إضافي",
         "en": "Needs additional coaching"
       }
     },
     {
-      "min": 20,
-      "max": 25,
+      "min": 9,
+      "max": 12,
       "text": {
         "ar": "موثق للعمل بمفرده على المحطة",
         "en": "Verified to work independently"
