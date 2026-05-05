@@ -1,291 +1,149 @@
 {
   "title": {
-    "ar": "التحقق من إجراءات العمل على الجريل",
-    "en": "Grill Procedure Verification"
+    "ar": "التحقق من محطة الجريل",
+    "en": "Grill Station Verification"
   },
   "items": [
     {
       "text": {
-        "ar": "سلامة الغذاء أولاً: الالتزام بالنظافة الشخصية (زي نظيف والاستحمام يومياً).",
-        "en": "Food safety first: observe proper hygiene (clean uniform and daily hygiene)."
+        "ar": "النظافة الشخصية وسلامة الغذاء: الالتزام بالنظافة، غسل اليدين، وارتداء القفازات وغطاء الرأس.",
+        "en": "Personal hygiene and food safety: maintain hygiene, wash hands, and wear gloves and hairnet."
       },
       "reasons": [
-        { "ar": "زي غير نظيف", "en": "Uniform not clean" },
-        { "ar": "عدم الالتزام بالنظافة الشخصية", "en": "Poor personal hygiene" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "غسل اليدين كل ساعة أو عند الحاجة لمدة 20 ثانية باستخدام AMH/KG8.",
-        "en": "Wash hands every hour or as needed for 20 seconds using AMH/KG8."
-      },
-      "reasons": [
-        { "ar": "لا يغسل يديه كل ساعة", "en": "Does not wash hands every hour" },
-        { "ar": "لا يقوم بغسل يديه عند الحاجة", "en": "Does not wash hands when needed" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "تجنب لمس الوجه (الفم، الأنف، العينين) أثناء العمل.",
-        "en": "Avoid touching mouth, nose, and eyes during work."
-      },
-      "reasons": [
+        { "ar": "لا يلتزم بالنظافة الشخصية", "en": "Poor personal hygiene" },
+        { "ar": "لا يغسل يديه بانتظام", "en": "Does not wash hands regularly" },
+        { "ar": "لا يرتدي قفازات أو غطاء رأس", "en": "Not wearing gloves or hairnet" },
         { "ar": "يلمس الوجه أثناء العمل", "en": "Touches face during work" }
       ]
     },
     {
       "text": {
-        "ar": "الإبلاغ عن أي أعراض مرضية (سعال، حرارة، التهاب) فوراً للمدير.",
-        "en": "Report any symptoms (cough, fever, sore throat) to manager immediately."
+        "ar": "الالتزام بدرجات حرارة الجريل: السطح العلوي 425°F والسفلي 350°F.",
+        "en": "Follow grill temperature settings: top platen 425°F and lower plate 350°F."
       },
       "reasons": [
-        { "ar": "لا يبلغ عن المرض", "en": "Does not report illness" },
-        { "ar": "يعمل وهو مريض", "en": "Works while sick" }
+        { "ar": "درجة حرارة غير صحيحة", "en": "Incorrect grill temperature" }
       ]
     },
     {
       "text": {
-        "ar": "ارتداء القفازات وغطاء الرأس دائماً داخل المطبخ وتغييرها عند الحاجة.",
-        "en": "Wear gloves and hairnet at all times and change when needed."
+        "ar": "الالتزام بأوقات الطهي حسب حجم اللحم (45جم / 112جم / 127–150جم).",
+        "en": "Follow correct cooking times based on patty size (45g / 112g / 127–150g)."
       },
       "reasons": [
-        { "ar": "لا يرتدي قفازات", "en": "Not wearing gloves" },
-        { "ar": "لا يرتدي غطاء رأس", "en": "Not wearing hairnet" }
+        { "ar": "وقت طهي غير صحيح", "en": "Incorrect cooking time" }
       ]
     },
     {
       "text": {
-        "ar": "إزالة المريلة عند الخروج من المطبخ.",
-        "en": "Remove apron when leaving kitchen."
+        "ar": "فحص جودة اللحم النيء: وردي، سهل الفصل، بدون تجمد أو تغير لون.",
+        "en": "Check raw beef quality: pink, easy to separate, no discoloration or ice crystals."
       },
       "reasons": [
-        { "ar": "لا يزيل المريلة خارج المطبخ", "en": "Does not remove apron outside kitchen" }
+        { "ar": "لحم غير مطابق للمواصفات", "en": "Poor raw meat quality" },
+        { "ar": "وجود بلورات ثلج", "en": "Ice crystals present" }
       ]
     },
     {
       "text": {
-        "ar": "فحص إعدادات الجريل: اللوح العلوي 425°F والسفلي 350°F.",
-        "en": "Check grill temperature: top platen 425°F and lower plate 350°F."
+        "ar": "وضع اللحم على الجريل بشكل صحيح من الأمام إلى الخلف.",
+        "en": "Lay meat correctly on grill from front to back."
       },
       "reasons": [
-        { "ar": "لا يعرف درجة الحرارة الصحيحة", "en": "Does not know the correct temperature" }
+        { "ar": "وضع غير صحيح للحوم", "en": "Incorrect meat placement" }
       ]
     },
     {
       "text": {
-        "ar": "الالتزام بأوقات الطهي: 45g (50 ثانية)، 112g (175 ثانية)، 127g/150g (152 ثانية).",
-        "en": "Follow cooking times: 45g (50 sec), 112g (175 sec), 127g/150g (152 sec)."
+        "ar": "تشغيل المؤقت وبدء عملية الطهي بشكل صحيح.",
+        "en": "Start cooking process and press timer correctly."
       },
       "reasons": [
-        { "ar": "لا يعرف وقت الطهي الصحيح للمنتجات", "en": "Does not know the correct cooking time for products" }
+        { "ar": "عدم استخدام المؤقت", "en": "Does not use timer" }
       ]
     },
     {
       "text": {
-        "ar": "فحص جودة اللحم النيء: يجب أن يكون وردي وسهل الفصل، والتخلص من غير المطابق.",
-        "en": "Check raw beef quality: should be pink & easy to separate. Discard brown, bright red or white raw patties, patties that hard to separate, or patties that has a lot of ices crystals on the surface."
+        "ar": "تتبيل اللحم وإضافة البصل (للـ 45جم) أثناء الطهي.",
+        "en": "Season patties and add onions (for 45g patties) during cooking."
       },
       "reasons": [
-        { "ar": "لا يعرف مواصفات اللحم النيء", "en": "Does not know the correct characteristics for raw beef" }
+        { "ar": "عدم التتبيل", "en": "Does not season patties" },
+        { "ar": "عدم إضافة البصل", "en": "Does not add onions" }
       ]
     },
     {
       "text": {
-        "ar": "بدء الطهي: ارتداء قفازات زرقاء ووضع اللحم من الأمام إلى الخلف على الجريل.",
-        "en": "Start cooking: wear blue gloves and lay meat front to back on grill."
+        "ar": "إزالة اللحم وتحميله في الصواني بشكل صحيح حسب الحجم.",
+        "en": "Remove patties and load trays correctly based on size."
       },
       "reasons": [
-        { "ar": "عدم استخدام القفازات الزرقاء", "en": "Does not use blue gloves" },
-        { "ar": "لمس اللحوم النيئة بالقفازات الشفافة", "en": "Touches raw meat with clear gloves" }
+        { "ar": "تحميل غير صحيح", "en": "Incorrect tray loading" },
+        { "ar": "تكديس غير صحيح", "en": "Improper stacking" }
       ]
     },
     {
       "text": {
-        "ar": "اتباع دليل EHB ومستوى الإنتاج.",
-        "en": "follow EHB chart and production levels."
+        "ar": "الالتزام بمدة الحفظ (EHB) وعدم خلط القديم مع الجديد.",
+        "en": "Follow holding time (EHB) and do not mix old with new product."
       },
       "reasons": [
-        { "ar": "عدم اتباع دليل الإنتاج EHB", "en": "Does not follow EHB chart" },
-        { "ar": "عدم الالتزام بمستوى الإنتاج", "en": "Does not meet production levels" }
+        { "ar": "تجاوز مدة الحفظ", "en": "Exceeds holding time" },
+        { "ar": "خلط القديم مع الجديد", "en": "Mixes old and new product" }
       ]
     },
     {
       "text": {
-        "ar": "بدء عملية الطهي، اختيار المنتج الصحيح وضغط المؤقت",
-        "en": "Start the cooking process, choose the correct item and press the timer"
+        "ar": "تنظيف الجريل بعد كل دفعة: كشط، مسح، وإزالة الدهون.",
+        "en": "Clean grill after each run: scrape, squeegee, and remove residue."
       },
       "reasons": [
-        { "ar": "الضغط على المؤقت أثناء ارتداء القفازات الزرقاء", "en": "Does not press timer while wearing blue gloves" },
-        { "ar": "عدم الالتزام بمستوى الإنتاج", "en": "Does not select thecorrect item" }
+        { "ar": "عدم تنظيف الجريل", "en": "Does not clean grill" },
+        { "ar": "تراكم دهون", "en": "Grease buildup" }
       ]
     },
     {
       "text": {
-        "ar": "ارتداء قفازات شفافة وتحضير الصينية مع الورق قبل إخراج المنتج.",
-        "en": "Wear clear gloves and prepare tray with liner before removing product."
+        "ar": "تعقيم الأدوات والصواني كل 4 ساعات وتنظيم الأدوات.",
+        "en": "Sanitize tools and trays every 4 hours and keep tools organized."
       },
       "reasons": [
-        { "ar": "عدم تجهيز الصينية", "en": "Tray not prepared" }
+        { "ar": "عدم التعقيم", "en": "Does not sanitize tools" },
+        { "ar": "أدوات غير مرتبة", "en": "Tools not organized" }
       ]
     },
     {
       "text": {
-        "ar": "تتبيل اللحم بالبهارات والبصل (للـ 45g) فور الانتهاء.",
-        "en": "Season patties with grill seasoning and onions (for 45g patties)."
+        "ar": "السلامة أثناء العمل: استخدام القفازات والتعامل الآمن مع الحرارة وتنظيف الجريل بالبخار بشكل صحيح.",
+        "en": "Safety: use protective gear, handle heat safely, and follow correct steam cleaning procedure."
       },
       "reasons": [
-        { "ar": "عدم التتبيل", "en": "Does not season patties" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "رفع اللحم من الأمام للخلف ووضعه في الصينية حسب الوزن.",
-        "en": "Pull meat front to back and load tray based on patty size."
-      },
-      "reasons": [
-        { "ar": "ترتيب خاطئ أثناء رفع اللحم", "en": "Incorrect handling during transfer" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "لـ 45g قم بإزالة 3 طبقات، وللـ 112g/127g/150g قم بإزالة واحدة في كل مرة.",
-        "en": "For 45g remove 3 stacks high, 112g/127g/150g remove 1 at a time."
-      },
-      "reasons": [
-        { "ar": "ارتفاع الطبقات غير صحيح", "en": "Incorrect stack height" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "تنظيف الجريل بعد كل تشغيل (كشط االسطح السفلي باستخدام السكرابر، مسح السطح العلوي، إزالة بقايا الدهون).",
-        "en": "Clean grill after each run (scrape bottom grill, squeegee the release sheet, pushing residue into grease trough)."
-      },
-      "reasons": [
-        { "ar": "عدم تنظيف الجريل بعد كل تعويض", "en": "Does not clean grill after each run" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "على الأقل كل 15 دقيقة، مسح التفلون شيت وحواف الجريل العلوي بقطعة جريل تول.",
-        "en": "At least every fifteen minutes, wipe the release sheet and edges of the upper grill with a grill cloth."
-      },
-      "reasons": [
-        { "ar": "عدم مسح التفلون شيت وحواف الجريل العلوي كل 15 دقيقة", "en": "Does not wipe the release sheet and edges of the upper grill every 15 minutes." }
-      ]
-    },
-    {
-      "text": {
-        "ar": "تنظيف الأدوات وإعادة الأدوات إلى مكانها الصحيح | اغلاق الجريل عند عدم الاستخدام.",
-        "en": "Clean utensils and return tools to proper place | put the grill in standby mode/sleep when not in use."
-      },
-      "reasons": [
-        { "ar": "أدوات غير نظيفة", "en": "Dirty tools" },
-        { "ar": "عدم وضع الجريل في وضع الاستعداد عند عدم الاستخدام", "en": "Does not put grill in standby mode when not in use" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "متابعة المخزون وتطبيق قاعدة 24/2.",
-        "en": "Check stock levels and follow 24/2 build-to rule."
-      },
-      "reasons": [
-        { "ar": "نقص في المخزون", "en": "Poor stock control" },
-        { "ar": "عدم اتباع قاعدة 24/2", "en": "does not follow 24/2 build-to rule" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "تعقيم الأدوات والصواني كل 4 ساعات.",
-        "en": "Sanitize trays and utensils every 4 hours."
-      },
-      "reasons": [
-        { "ar": "عدم التعقيم الدوري", "en": "Does not sanitize regularly" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "تنظيف الجريل بالبخار كل 4 ساعات وفق الإجراء الصحيح.",
-        "en": "Steam clean grill every 4 hours following correct procedure."
-      },
-      "reasons": [
-        { "ar": "عدم تنظيف الجريل بالبخار", "en": "Does not steam clean grill" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "عدم سكب الماء مباشرة على الجريل لتجنب تلف الحساسات.",
-        "en": "Do not pour water directly on grill to avoid sensor damage."
-      },
-      "reasons": [
-        { "ar": "سكب الماء مباشرة على الجريل", "en": "Pours water directly on grill" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "هل المتدرب قادر على أداء الإجراء بكفاءة 100% من خلال شرح وعرض العملية خطوة بخطوة؟",
-        "en": "Is the trainee able to perform the procedure at 100% proficiency by demonstrating and explaining the step-by-step process?"
-      },
-      "reasons": [
-        { "ar": "المتدرب لا يستطيع أداء الإجراء بكفاءة 100%", "en": "the trainee is not able to perform the procedure at 100% proficiency" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "هل المتدرب حصل على درجة 90% أو أعلى في الامتحان الكتابي؟",
-        "en": "Did the trainee achieve a score of 90% or higher on the written examination?"
-      },
-      "reasons": [
-        { "ar": "المتدرب لم يحقق درجة 90% أو أعلى في الامتحان الكتابي", "en": "the trainee did not achieve a score of 90% or higher on the written examination" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "خلال وقت الذروة، هل المتدرب واثق في تقديم خدمة سريعة وعالية الجودة، والحفاظ على نظافة المحطة، وإظهار فهم لعوامل الربحية الرئيسية؟",
-        "en": "During rush time, is the trainee confident in delivering quality, fast service, maintaining a clean station, and demonstrating an understanding of key profitability factors?"
-      },
-      "reasons": [
-        { "ar": "المتدرب لا يُظهر ثقة في تقديم خدمة سريعة وعالية الجودة، والحفاظ على نظافة المحطة، وإظهار فهم لعوامل الربحية الرئيسية", "en": "the trainee does not demonstrate confidence in delivering quality, fast service, maintaining a clean station, and understanding key profitability factors" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "وضع الجريل على وضع الاستعداد عند عدم الاستخدام.",
-        "en": "Set grill to standby when not in use."
-      },
-      "reasons": [
-        { "ar": "عدم استخدام وضع الاستعداد", "en": "Does not use standby mode" }
-      ]
-    },
-    {
-      "text": {
-        "ar": "تفريغ جوارير الدهون عند امتلائها (¾ ممتلئة).",
-        "en": "Empty grease traps when ¾ full into grease bucket."
-      },
-      "reasons": [
-        { "ar": "عدم تفريغ مصائد الدهون", "en": "Does not empty grease traps" }
+        { "ar": "تعامل غير آمن مع الحرارة", "en": "Unsafe heat handling" },
+        { "ar": "تنظيف غير صحيح", "en": "Incorrect cleaning procedure" },
+        { "ar": "خطر حروق", "en": "Burn risk" }
       ]
     }
   ],
   "bands": [
     {
       "min": 0,
-      "max": 14,
+      "max": 4,
       "text": {
         "ar": "غير موثق - أعد التدريب",
         "en": "Not verified - retraining required"
       }
     },
     {
-      "min": 15,
-      "max": 22,
+      "min": 5,
+      "max": 8,
       "text": {
         "ar": "بحاجة إلى توجيه إضافي",
         "en": "Needs additional coaching"
       }
     },
     {
-      "min": 23,
-      "max": 28,
+      "min": 9,
+      "max": 12,
       "text": {
         "ar": "موثق للعمل بمفرده على المحطة",
         "en": "Verified to work independently"
