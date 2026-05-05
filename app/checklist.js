@@ -595,6 +595,8 @@ function getEmailFromUser() {
     return username + "@juniors.com.qa"; // QA
   } else if (username.startsWith("962")) {
     return username + "@juniorsjordan.com"; // JO
+  } else if (username.startsWith("tra")) {
+    return username + "@juniorsjordan.com"; // training test
   }
 
   return null;
